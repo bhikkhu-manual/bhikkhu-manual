@@ -1,2 +1,22 @@
 \ProvidesPackage{local}
 
+\newlength\leaderIndent
+\setlength{\leaderIndent}{1.8em}
+
+\setlength{\vgap}{1.5em}
+\setlength{\vindent}{\leaderIndent}
+\setlength{\vleftmargin}{2em}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\newenvironment{leader}%
+  {\list{}{%
+  \topsep 0pt%
+  \listparindent 0em%
+  \itemindent    0pt%
+  \leftmargin    \leaderIndent
+  \rightmargin   \leaderIndent
+  \parsep        \z@ \@plus\p@}
+  \item[] \raggedright}%
+  {\endlist}
