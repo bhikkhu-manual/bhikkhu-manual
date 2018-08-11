@@ -1,0 +1,6 @@
+[#dedication]
+= Dedication
+
+_Lorem ipsum dolor sit amet, +
+consectetuer adipiscing elit._
+

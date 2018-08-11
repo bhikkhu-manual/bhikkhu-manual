@@ -1,0 +1,163 @@
+.is-kf8,
+.is-mobi7,
+.is-paperwhite,
+.is-not-paperwhite {
+  display: none;
+}
+@media amzn-mobi {
+  .is-mobi7 {
+    display: block;
+  }
+}
+@media amzn-kf8 {
+  .is-kf8 {
+    display: block;
+  }
+}
+@media amzn-kf8 and (device-height: 1024px) and (device-width: 758px), amzn-kf8 and (device-height: 758px) and (device-width: 1024px) {
+  .is-paperwhite {
+    display: block;
+  }
+}
+@media amzn-kf8 and (device-height: 800px) and (device-width: 600px), amzn-kf8 and (device-height: 600px) and (device-width: 800px) {
+  .is-not-paperwhite {
+    display: block;
+  }
+}
+.black-100 {
+  color: #000;
+}
+.black-90 {
+  color: #1b1b1b;
+}
+.black-80 {
+  color: #343434;
+}
+.black-70 {
+  color: #4d4d4d;
+}
+.black-60 {
+  color: #666;
+}
+.black-50 {
+  color: #818181;
+}
+.black-40 {
+  color: #999;
+}
+.black-30 {
+  color: #b4b4b4;
+}
+.black-20 {
+  color: #ccc;
+}
+.black-10 {
+  color: #e7e7e7;
+}
+.black-00 {
+  color: #fff;
+}
+/* QUESTION what about nested elements inside code? */
+body code,
+body kbd,
+body pre,
+pre :not(code) {
+/* !important required to override custom font setting in Kindle / Gitden / Namo */
+/* Gitden requires the extra weight of a parent selector */
+/* Kindle and Gitden require the override on pre child elements */
+  font-family: monospace !important;
+}
+@media amzn-kf8 {
+  h1.chapter-title .subtitle {
+    margin-top: -0.2em;
+    margin-bottom: 0.3em;
+/* compensate for reduced line height */
+  }
+  h1.chapter-title .subtitle > b {
+    float: left;
+    display: inline-block;
+    margin-bottom: -0.3em;
+/* reduce the line height */
+    padding-right: 0.2em;
+/* spacing between words */
+  }
+  h1.chapter-title .subtitle > b:last-child {
+    padding-right: 0;
+  }
+  h1.chapter-title .subtitle::after {
+    display: table;
+    content: ' ';
+    clear: both;
+  }
+}
+.chapter-header p.byline {
+  height: auto;
+/* Aldiko requires this value to be 0; reset it for all others */
+}
+/* Font-based icons */
+.icon {
+  display: inline-block;
+/* !important required to override custom font setting in Kindle (since .icon can appear inside a span) */
+  font-family: "FontAwesome" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  line-height: 1;
+}
+.icon-1_5x {
+  padding: 0 0.25em;
+  -webkit-transform: scale(1.5, 1.5);
+  transform: scale(1.5, 1.5);
+}
+.icon-2x {
+  padding: 0 0.5em;
+  -webkit-transform: scale(2, 2);
+  transform: scale(2, 2);
+}
+.icon-small {
+  font-size: 0.85em;
+  vertical-align: 0.075em;
+}
+.icon-1_5em {
+  font-size: 1.5em;
+}
+.icon-2em {
+  font-size: 2em;
+}
+.icon-3em {
+  font-size: 3em;
+}
+.icon-4em {
+  font-size: 4em;
+}
+.icon-rotate-90 {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.icon-rotate-90i {
+  -webkit-transform: scale(-1, 1) rotate(90deg);
+  transform: scale(-1, 1) rotate(90deg);
+}
+.icon-rotate-180 {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.icon-rotate-180i {
+  -webkit-transform: scale(-1, 1) rotate(180deg);
+  transform: scale(-1, 1) rotate(180deg);
+}
+.icon-rotate-270 {
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.icon-rotate-270i {
+  -webkit-transform: scale(-1, 1) rotate(270deg);
+  transform: scale(-1, 1) rotate(270deg);
+}
+.icon-flip-h {
+  -webkit-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.icon-flip-v {
+  -webkit-transform: scale(1, -1);
+  transform: scale(1, -1);
+}

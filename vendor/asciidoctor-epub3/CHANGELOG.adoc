@@ -1,0 +1,150 @@
+= {project-name} Changelog
+:project-name: Asciidoctor EPUB3
+:uri-repo: https://github.com/asciidoctor/asciidoctor-epub3
+
+This document provides a high-level view of the changes to the {project-name} by release.
+For a detailed view of what has changed, refer to the {uri-repo}/commits/master[commit history] on GitHub.
+
+== 1.5.0.alpha.8 (2018-02-20) - @mojavelinux
+
+* include inline images in EPUB3 archive (#5)
+* allow chapter to begin with level-1 section title by adding support for negative leveloffset (#107)
+* don't transform the chapter title to uppercase (rely on CSS only) (#97)
+* set correct mimetype for TTF files (#120)
+* implement support for the custom xrefstyle for references within a chapter (#132)
+* show correct path of front cover image and the current document when missing (#124)
+* retain ID of block image (#141)
+* retain ID of example block (#143)
+* retain ID of admonition block (#146)
+* transfer role specified on block image to output (#145)
+* handle nil response from pygments.rb (#156)
+* invert the colors for the chapter title (use black on white) (#96)
+* darken font on Kindle Paperwhite devices (#67)
+
+== 1.5.0.alpha.7 (2017-04-18) - @mojavelinux
+
+* generate TOC levels in navigation document based on toclevels attribute (#90)
+* automatically resolve title of reference between documents (#87)
+* fix xref between chapter files (#27)
+* don't include byline in chapter header if the value of the publication-type attribute is book (#86)
+* don't include avatars if value of publication-type attribute is book (#53)
+* make a stronger statement in the README about the dangers of the “Send to Kindle” tool
+* add ebook-compress flag to enable huffdic compression in kindlegen
+* implement embedded to handle AsciiDoc table cell content (#69)
+* go into more depth about how to structure the document in README (#45)
+* explain how to adjust section level of chapters if they use level-2 headings
+* don't add content image to archive more than once (#76)
+* warn when xref cannot be resolved and text is provided (#103)
+* built-in avatar location should respect imagesdir (#2)
+* change admonition icons (#72) (@PrimaryFeather)
+* fix broken refs in bibliography (#19)
+* remove text justification hack (#92)
+* reset @page for CSS3-capable readers
+* detect Calibre, set class attribute on body to calibre-desktop, add page margins
+* force preformatted text to wrap in Gitden
+* add svg property to front matter only if reference to SVG is detected
+* switch from word-wrap to standard overflow-wrap property in stylesheet
+* loosen letter spacing in quote attribute context
+* adjust font size and margins on Gitden; force margins to be set
+* document in README that using vw units causes Aldiko to crash
+* drop trailing semi-colon in value of inline style attributes
+* use standard format (from core) for warning and error messages
+* update terminology in README; use ebook instead of e-book; refer to application as ereader
+* allow front-cover-image to be specified using block image macro (#3)
+* clean auto-generated file names for chapters (#46)
+* register chapter ID in references
+* only wrap open block content in div if id or role is defined (@rvolz)
+* link to EPUB 3.1 spec from README
+* set ebook-format-kf8 attribute when ebook-format is specified as mobi
+* document the front-cover-image attribute properly
+* update adb-push-book script to honor file extension if specified
+* document limitations of applying page-break-* property on Kindle
+* document that Asciidoctor is added as creator if creator attribute is not specified (#68)
+* group optional gems in the :optional group; remove from gemspec
+* upgrade kindlegen gem to 3.0.3
+* upgrade Pygments to 1.1.1 and allow JRuby to install it
+* document that Pygments bw style is used by default
+* honor explicit table width even when autowidth option is set
+* use method_defined? instead of respond_to? to check if method is already defined
+* fix README typo, strong tag misspelled (@neontapir)
+* fix name of bundler gem; add NOKOGIRI_USE_SYSTEM_LIBRARIES to install command
+* state in README that the spine document must only have include directives as content
+
+== 1.5.0.alpha.6 (2016-01-05) - @mojavelinux
+
+* disable text-rendering: optimizeLegibility on Kindle devices (#58)
+* proxy CSS in KF8 format to work around KDP removing font-related CSS rules
+* don't append source when generating mobi file
+* disable -webkit-hyphens to prevent Kindle for Mac from crashing (#26)
+* don't explicitly enable hyphenation
+* disable hyphens in preformatted text
+* don't fail if source block is empty
+* hide style element in body from Aldiko
+* enable Original (Publisher) font option in iBooks client
+* preserve heading & monospaced fonts in Kindle Paperwhite/Voyage
+* force left justification in listings (fix for Namo)
+* fix documentation regarding uuid attribute (@chkal)
+* add note that currently images must be placed in a directory called images (@chkal)
+* fix file type of avatar image in docs (@chkal)
+* document how to install the pre-release gem (#38)
+* use built-in font names for mobi7 (#56)
+* document the epub3-stylesdir attribute
+* prevent ellipsis from being used in inline code
+* don't include scoped icon CSS in KF8 format
+* remove link color hack for Gitden since its already covered
+* override heading and monospace fonts for non-Kindle epub3 readers
+* wrap simple dd content in span to allow font to be controlled in iBooks
+* enforce use of monospace font for preformatted elements
+* upgrade kindlegen
+* don't allow UI button to wrap
+* remove amzn-mobi from media query in CSS3-only file
+* use CSS property word-wrap instead of word-break
+* remove charset declaration from CSS
+* switch samples to modern AsciiDoc syntax
+
+{uri-repo}/issues?q=milestone%3Av1.5.0.alpha.6[issues resolved] |
+{uri-repo}/releases/tag/v1.5.0.alpha.6[git tag]
+
+== 1.5.0.alpha.5 (2015-11-01) - @mojavelinux
+
+* implement -o flag (output file) (#31) (@chloerei)
+* implement the converter method for floating_title (#36)
+* don't print kindlegen output if -q flag is used (#34)
+* CLI now identifies as asciidoctor-epub3 (#32)
+
+{uri-repo}/issues?q=milestone%3Av1.5.0.alpha.5[issues resolved] |
+{uri-repo}/releases/tag/v1.5.0.alpha.5[git tag]
+
+== 1.5.0.alpha.4 (2014-11-28) - @mojavelinux
+
+* set ebook-format-epub3 attribute (#16)
+* add box drawing symbols to M+ 1mn font
+* switch version to 1.5.0.x to align with core
+
+{uri-repo}/issues?q=milestone%3Av1.5.0.alpha.4[issues resolved] |
+{uri-repo}/releases/tag/v1.5.0.alpha.4[git tag]
+
+== 1.0.0.alpha.3 (2014-08-17) - @mojavelinux
+
+* don't attempt to chdir to DATA_DIR; use full path; for compatibility with AsciidoctorJ
+* fix BOM regexp in JRuby (again)
+* switch sample png avatars to jpg
+* don't install pygments.rb on JRuby
+
+{uri-repo}/releases/tag/v1.0.0.alpha.4[git tag]
+
+== 1.0.0.alpha.2 (2014-08-15) - @mojavelinux
+
+* upgrade to Asciidoctor 1.5.0
+* use new functionality of doctitle method for splitting up doctitle
+* don't put units on line-height in stylesheet
+* use regexp to match the BOM character (used to fix text justification) in JRuby
+
+{uri-repo}/releases/tag/v1.0.0.alpha.2[git tag]
+
+== 1.0.0.alpha.1 (2014-07-29) - @mojavelinux
+
+* initial pre-release
+
+{uri-repo}/issues?q=milestone%3Av1.0.0.alpha.1[issues resolved] |
+{uri-repo}/releases/tag/v1.0.0.alpha.1[git tag]

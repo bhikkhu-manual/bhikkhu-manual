@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+
+ADB = ENV['ADB'] || 'adb'
+TARGETS = {
+  '.epub' => '/sdcard/',
+  '.mobi' => '/sdcard/Android/data/com.amazon.kindle/files/'
+}
+
+unless ::File.executable? ADB
+  warn %(adb-push-ebook: `adb` not found.\nPlease set the ADB environment variable or add `adb` to your PATH.)
+  exit 1
+end
+
+require 'open3'
+require 'shellwords'
+
+payload_file = ARGV[0] || '_output/sample-book'
+
+if (payload_file_ext = File.extname payload_file).empty?
+  transfers = TARGETS.map do |(ext, target_dir)|
+    {
+      src: %(#{payload_file}#{ext}),
+      dest: target_dir
+    }
+  end
+else
+  transfers = [{ src: payload_file, dest: TARGETS[payload_file_ext] }]
+end
+
+transfers.each do |transfer|
+  Open3.popen2e(Shellwords.join [ADB, 'push', transfer[:src], transfer[:dest]]) do |input, output, wait_thr|
+    output.each {|line| puts line }
+  end if File.file? transfer[:src]
+end

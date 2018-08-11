@@ -1,0 +1,55 @@
+.is-kf8,
+.is-mobi7,
+.is-paperwhite,
+.is-not-paperwhite
+  display: none
+
+@media amzn-mobi
+  .is-mobi7
+    display: block
+
+@media amzn-kf8
+  .is-kf8
+    display: block
+
+@media amzn-kf8 and (device-height: 1024px) and (device-width: 758px), amzn-kf8 and (device-height: 758px) and (device-width: 1024px)
+  .is-paperwhite
+    display: block
+
+@media amzn-kf8 and (device-height: 800px) and (device-width: 600px), amzn-kf8 and (device-height: 600px) and (device-width: 800px)
+  .is-not-paperwhite
+    display: block
+
+.black-100
+  color: #000000
+
+.black-90
+  color: #1B1B1B
+
+.black-80
+  color: #343434
+
+.black-70
+  color: #4D4D4D
+
+.black-60
+  color: #666666
+
+.black-50
+  color: #818181
+
+.black-40
+  color: #999999
+
+.black-30
+  color: #B4B4B4
+
+.black-20
+  color: #CCCCCC
+
+.black-10
+  color: #E7E7E7
+
+.black-00
+  color: #FFFFFF
+

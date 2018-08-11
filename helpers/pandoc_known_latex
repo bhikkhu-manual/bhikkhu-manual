@@ -1,0 +1,30 @@
+# The LaTeX which pandoc can convert
+\\\\$
+\\\$[0-9]
+\\& *[\s[:alnum:]]
+\\%\s
+\\%[\s[:punct:]]
+\\-[[:alpha:]]
+\\chapter\**[{]
+\\section\**[{]
+\\subsection\**[{]
+\\emph[{]
+\\ldots[{][}]
+\\item\s
+\\item[[]
+\\item[{]
+\\footnote[{]
+\\mbox[{]
+\\textit[{]
+\\textbf[{]
+\\begin[{]quote[}]
+\\end[{]quote[}]
+\\begin[{]verse[}]
+\\end[{]verse[}]
+\\begin[{]enumerate[}]
+\\end[{]enumerate[}]
+\\begin[{]itemize[}]
+\\end[{]itemize[}]
+\\itshape
+\\upshape
+\\bigskip

@@ -1,0 +1,39 @@
+PATH
+  remote: ./vendor/asciidoctor-epub3
+  specs:
+    asciidoctor-epub3 (1.5.0.alpha.9.dev)
+      asciidoctor (~> 1.5.8.dev)
+      gepub (~> 0.7.1)
+      thread_safe (~> 0.3.6)
+
+PATH
+  remote: ./vendor/asciidoctor
+  specs:
+    asciidoctor (1.5.8.dev)
+
+PATH
+  remote: ./vendor/gepub
+  specs:
+    gepub (0.7.1)
+      nokogiri (>= 1.8.2, < 1.9)
+      rubyzip (>= 1.1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
+    rubyzip (1.2.1)
+    thread_safe (0.3.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asciidoctor (= 1.5.8.dev)!
+  asciidoctor-epub3 (= 1.5.0.alpha.9.dev)!
+  gepub (= 0.7.1)!
+
+BUNDLED WITH
+   1.13.7

@@ -1,0 +1,24 @@
+dist: trusty
+sudo: false
+git:
+  # use depth 2 just in case two refs get pushed at once (like a tag)
+  depth: 2
+language: ruby
+cache: bundler
+bundler_args: --path=.bundle/gems
+rvm:
+- &release_rvm 2.4.1
+- 2.0.0-p648
+- 1.9.3-p551
+#before_install:
+#- gem update bundler
+#- gem cleanup bundler
+script: bundle exec asciidoctor-epub3 -D . data/samples/sample-book.adoc
+deploy:
+  provider: rubygems
+  api_key: ${RUBYGEMS_API_KEY}
+  gem: asciidoctor-epub3
+  on:
+    tags: true
+    repo: asciidoctor/asciidoctor-epub3
+    rvm: *release_rvm

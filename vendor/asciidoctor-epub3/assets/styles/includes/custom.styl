@@ -1,0 +1,128 @@
+section
+  &#dedication > header h1,
+  &#acknowledgements > header h1
+    font-family: $section-font !important
+    font-style: normal
+    font-size: 12pt
+    margin-top: 0pt
+    text-transform: uppercase
+
+  &#abbreviations
+    > header h1
+      font-family: $section-font !important
+      font-style: normal
+      font-size: 12pt
+      margin-top: 0pt
+      text-transform: uppercase
+
+    .chapter-header
+      margin-bottom: 1em
+
+    table.table td
+      line-height: 1.2
+      padding: 0.2em 0.5em 0.2em 0.1em
+
+  &#appendix-thai
+    .table em
+      font-family: "Sarabun"
+      font-style: normal
+      font-weight: normal
+
+  // title page header
+  &#titlepage
+    .subtitle
+      margin: 0
+    > header h1
+      text-align: center
+
+  &#copyright
+    figure.image div.content
+      text-align: left
+
+figure.image.titlepage-pubs-logo img
+  margin-top: 3em
+  width: 100px
+
+#titlepage-description
+  text-align: center
+
+.titlepage-publisher
+  font-family: "Source Sans Pro"
+  font-size: 12px
+  text-align: center
+  text-transform: uppercase
+  letter-spacing: 1pt
+
+.titlepage-publisher-website
+  font-family: "Source Sans Pro"
+  font-size: 12px
+  text-align: center
+  text-transform: lowercase
+  letter-spacing: 1pt
+
+p.subtitle
+  font-style: italic
+  font-size: 1.2em
+  padding: 0 0 0.25em 1.5em
+  margin-bottom: 40px
+
+.titlepage-author
+  text-align: center
+  margin-top: 8em
+
+.blockquote.opening-verse blockquote
+  font-size: 1.1em
+
+.blockquote.opening-verse blockquote > p:first-child::before
+  display: inline-block
+  color: $para-first-text
+  text-shadow: 0 1px 2px rgba(102, 102, 101, 0.3)
+  /* using serif quote from entypo */
+  font-family: "FontIcons"
+  content: "\f10d"
+  padding-right: .5em
+  font-size: 1.5em
+  line-height: 1.3
+  margin-top: -0.5em
+  vertical-align: text-bottom
+
+.blockquote.lpchah blockquote,
+.blockquote.dialogue blockquote
+  font-style: normal
+
+.blockquote.quote blockquote
+  font-style: italic
+  em
+    font-style: normal
+
+// NOTE: line-height must be relative value. 0pt is an absolute value and triggers warnings from kindlegen:
+// Absolute value specified for CSS property in content is not supported by Kindle readers. Please use % or refer Kindle Publishing Guidelines about usage of property: 'line-height'
+
+// we want this to not take up any space, but "display: none" can disable the anchor linking behaviour
+.top-anchor
+  font-size: 0pt
+  line-height: 0
+  margin: 0pt
+  padding: 0pt
+
+nav#guide
+  display: none
+
+caption, figcaption
+  color: $black
+
+figure.image div.content
+  text-align: center
+
+figure.image
+  &.sectionbreak img
+    margin: 0 auto
+    padding: 15px 0 5px 0
+  &.quotebreak img
+    margin: 0 auto
+
+.blockquote.sidebar-quote
+  padding: 1em
+  border-left: 2px solid $dark-gray
+  & > blockquote:first-child p
+    margin-top: 0pt

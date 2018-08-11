@@ -1,0 +1,41 @@
+= Bhikkhu Manual
+:booktitle: {doctitle}
+:description: Essential Chants and Vinaya Notes
+:author: Forest Sangha Publications
+:creator: {author}
+:version: v1.0
+:revdate: 2018-08-11
+:doctype: book
+:lang: en
+:pubs-logo: profound-pubs.jpg
+:publisher-name: Forest Sangha Publications
+:publisher-link-name: profound-labs.github.io
+:publisher-link-url: https://profound-labs.github.io/
+:source: https://profound-labs.github.io/
+//:keywords: subject, topic
+:copyright: CC-BY-NC-ND 4.0
+:isbn: 000-0-00000-000-0
+:identifier: isbn:{isbn}
+:imagesdir: assets/photos/92dpi-ebook-sRGB
+:includes: manuscript/asciidoc
+:front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
+:toc: left
+:toc-title: Contents
+:toclevels: 0
+
+include::{includes}/dedication.adoc[]
+
+include::{includes}/foreword.adoc[]
+
+include::{includes}/preface.adoc[]
+
+include::{includes}/titlepage.adoc[]
+
+include::{includes}/01-chapter-one.adoc[]
+
+include::{includes}/02-chapter-two.adoc[]
+
+include::{includes}/glossary.adoc[]
+
+include::{includes}/copyright.adoc[]
+
