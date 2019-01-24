@@ -3,7 +3,7 @@ Bhikkhu Manual
 
 *Essential Chants and Vinaya Notes*
 
-Fourth edition, 2018
+Fourth edition, 2019
 
 ISBN for paperback: `000-000-0000-00-0`
 

@@ -1,5 +1,12 @@
 \ProvidesPackage{local}
 
+\usepackage{ltablex}
+
+\definecolor{instruction}{gray}{0.5}
+
+%\newfontfamily\instructionFont{AlegreyaXSansSC-Bold.otf}
+\newcommand\instructionFont\gentiumFont
+
 \newlength\leaderIndent
 \setlength{\leaderIndent}{1.8em}
 
@@ -20,3 +27,114 @@
   \parsep        \z@ \@plus\p@}
   \item[] \raggedright}%
   {\endlist}
+
+\newcommand{\instr}[1]{%
+  \hfill
+  {\instructionFont\color{instruction}\upshape%
+  [\space\MakeLowercase{#1}\space]}%
+}
+
+\newcommand{\soloinstr}[1]{%
+  {\centering
+  {\instructionFont\normalsize\color{instruction}\upshape%
+  [\space\MakeLowercase{#1}\space]}%
+  \par}%
+}
+
+\newenvironment{instruction}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    \leaderIndent
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \begingroup
+    \raggedright\instructionFont\color{instruction}\upshape
+    [\space
+  }%
+  {\space]\endgroup\endlist}
+
+\newenvironment{paritta}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    1.8em% \leaderIndent, but keep it a separate value
+    \rightmargin   0em%
+    \parsep        7pt%
+  }%
+  \item[] \raggedright}%
+  {\endlist}
+
+% FIXME: use ltablex package and tabularx to break tables across pages
+
+%\newenvironment{twochants}%
+%  {\list{}{%
+%    \topsep 0pt
+%    \listparindent 0em%
+%    \itemindent    0em%
+%    \leftmargin    0em%
+%    \rightmargin   0em%
+%    \parsep        0pt%
+%  }%
+%  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+%  \begin{tabular}{@{}l l@{}}}%
+%  {\end{tabular}\endlist}
+
+\newenvironment{twochants}%
+  {\begin{tabular}{@{}l l@{}}}%
+  {\end{tabular}}
+
+\newenvironment{onechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+  \begin{tabular}{@{}l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{threechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
+  \begin{tabular}{@{}l l l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{solotwochants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1}%
+  \begin{tabular}{@{}l l@{}}}%
+  {\end{tabular}\endlist}
+
+\newenvironment{soloonechants}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    0em%
+    \rightmargin   0em%
+    \parsep        0pt%
+  }%
+  \item[] \renewcommand{\arraystretch}{1}%
+  \begin{tabular}{@{}l@{}}}%
+  {\end{tabular}\endlist}
