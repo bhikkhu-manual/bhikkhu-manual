@@ -189,21 +189,28 @@
 
 % header and footer
 
-\newcommand\headerFont\crimsonRomanFont
-\newcommand\footerFont\gentiumFont
-\newcommand\pageNumFont\gentiumFont
+\newfontfamily\headerFont[
+  LetterSpace=5.0,
+  Numbers=Lining,
+]{AlegreyaXSansSC-Bold.otf}
+\newcommand\footerFont\headerFont
+\newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partTitleFont\crimsonRomanFont
+\newfontfamily\partNameFont{AlegreyaXSansSC-Bold.otf}
+\newfontfamily\partTitleFont{Ubuntu-X-Medium.ttf}
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
+\newfontfamily\chapterTitleFont{Ubuntu-X-Medium.ttf}
 \newcommand\chapterNumberFont\crimsonRomanFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newfontfamily\sectionFont{Ubuntu-X-Medium.ttf}
+\newfontfamily\subSectionFont{Ubuntu-X-Medium.ttf}
+
+\newfontfamily\instructionFont{AlegreyaXSansSC-Bold.otf}
 
 % quote
 
@@ -223,7 +230,7 @@
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {10}{10}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {9}{9}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -835,12 +842,13 @@ philo-sophical munindo amaravati thai-land}
   \raisebox{-0.3\baselineskip}{\rule{0.2pt}{1.2\baselineskip}}%
   \hspace{6pt}%
 }
-\makepagestyle{topbottomcentered}
-\makeevenhead{topbottomcentered}{}{\headerFont\headerSize\color{header}\textit{\thetitle}}{}
-\makeevenfoot{topbottomcentered}{}{\footerFont\footerSize\color{footer}\thepage}{}
-\makeoddhead{topbottomcentered}{}{\headerFont\headerSize\color{header}\textit{\leftmark}}{}
-\makeoddfoot{topbottomcentered}{}{\footerFont\footerSize\color{footer}\thepage}{}
-\makepsmarks{topbottomcentered}{%
+
+\makepagestyle{toponerow}
+\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\MakeLowercase{\thetitle}}
+\makeevenfoot{toponerow}{}{}{}
+\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\MakeLowercase{\leftmark}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddfoot{toponerow}{}{}{}
+\makepsmarks{toponerow}{%
   \nouppercaseheads
   \createmark{chapter}{left}{nonumber}{}{}
   \createmark{section}{right}{nonumber}{}{}
@@ -882,7 +890,7 @@ philo-sophical munindo amaravati thai-land}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{topbottomcentered}
+\aliaspagestyle{normalpage}{toponerow}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
@@ -1487,7 +1495,7 @@ philo-sophical munindo amaravati thai-land}
 %\createmark{chapter}{left}{nonumber}{}{}
 
 \newcommand\frontmatterChapterStyle{\chapterstyle{hightitle}}
-\newcommand\mainmatterChapterStyle{\chapterstyle{lowtitle}}
+\newcommand\mainmatterChapterStyle{\chapterstyle{hightitle}}
 \newcommand\appendixChapterStyle{\chapterstyle{hightitle}}
 \newcommand\backmatterChapterStyle{\chapterstyle{hightitle}}
 
@@ -1565,8 +1573,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === normalsize ===
 
-\def\BOOK@fontSizePt{10.5}
-\def\BOOK@lineHeightPt{15}
+\def\BOOK@fontSizePt{9.5}
+\def\BOOK@lineHeightPt{13.5}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1589,8 +1597,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
-\setlength{\BOOK@paperHeight}{9in}
-\setlength{\BOOK@paperWidth}{6in}
+\setlength{\BOOK@paperHeight}{155mm}
+\setlength{\BOOK@paperWidth}{105mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1607,16 +1615,11 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-% Text block for 10.5 / 15pt:
-%%\settypeblocksize{521pt}{*}{0.599}% 1/1.667, 3:5, major 6th (183.79mm x 110mm)
-%\settypeblocksize{34\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
-%\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
+\settypeblocksize{26\baselineskip + \topskip}{80mm}{*}
+\setlrmargins{*}{10mm}{*}
 
-\settypeblocksize{190mm}{110mm}{*}
-\setlrmargins{*}{20mm}{*}
-
-\setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
-\setlength{\footskip}{30pt}
+\setulmargins{42pt}{*}{*}
+\setlength{\footskip}{10pt}
 
 % Fixes these warnings:
 %
