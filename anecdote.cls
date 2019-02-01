@@ -139,10 +139,10 @@
 % Define text colors as Gray color values.
 \definecolor{textbody}{gray}{0.05}% 95% is good for contrast, on yellowish paper it is not harsh.
 \definecolor{footnoterule}{gray}{0.5}
-\definecolor{header}{gray}{0.2}
-\definecolor{footer}{gray}{0.2}
+\definecolor{header}{gray}{0}
+\definecolor{footer}{gray}{0}
 \definecolor{chapternum}{gray}{0.8}
-\definecolor{chaptertitle}{gray}{0.2}
+\definecolor{chaptertitle}{gray}{0.1}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
@@ -235,8 +235,8 @@
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {9}{9}}
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -846,9 +846,7 @@ philo-sophical munindo amaravati thai-land}
 %% http://tex.stackexchange.com/a/75406
 
 \RequirePackage[outline]{contour}
-
-\usepackage{ulem}
-\normalem % use classical emph
+\RequirePackage[normalem]{ulem}
 
 \newcommand\prul[1]{%
   \begingroup%
@@ -928,7 +926,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === TOC settings ===
 
-\maxtocdepth{chapter}
+\maxtocdepth{section}
 
 % the right TOC margin
 \contentsmargin{-5pt}
@@ -1081,7 +1079,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === Chapter styles ===
 
-\setsecnumdepth{chapter}
+\setsecnumdepth{subsection}
 
 % define chapter styles with "fantasy" names
 
@@ -1275,7 +1273,7 @@ philo-sophical munindo amaravati thai-land}
 \setlrmargins{*}{10mm}{*}
 
 \setulmargins{42pt}{*}{*}
-\setlength{\footskip}{10pt}
+\setlength{\footskip}{15pt}
 
 % Fixes these warnings:
 %
@@ -1287,45 +1285,6 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-
-% ******************************************************
-% Stock height and width: 650.43pt by 433.62pt
-% Top and edge trims: 0pt and 0pt
-% Page height and width: 650.43pt by 433.62pt
-% Text height and width: 551pt by 312pt
-% Spine and edge margins: 63.73419pt and 56.9055pt
-% Upper and lower margins: 42pt and 57.43pt
-% Headheight and headsep: 15.6pt and 19.8738pt
-% Footskip: 30pt
-% Columnsep and columnseprule: 10pt and 0pt
-% Marginparsep and marginparwidth: 7pt and 42.9055pt
-% Sidecapsep and sidecapwidth: 7pt and 111pt
-% Sidebarhsep and sidebarwidth: 7pt and 111pt
-% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-% Sidebarheight: 539.9202pt
-% Sidefoothsep and sidefootwidth: 7pt and 111pt
-% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-% ******************************************************
-% 
-% 
-% ******************************************************
-% Stock height and width: 228.59732mm by 152.39821mm
-% Top and edge trims: 0mm and 0mm
-% Page height and width: 228.59732mm by 152.39821mm
-% Text height and width: 193.65208mm by 109.65417mm
-% Spine and edge margins: 22.39973mm and 19.99976mm
-% Upper and lower margins: 14.76114mm and 20.1841mm
-% Headheight and headsep: 5.4827mm and 6.98476mm
-% Footskip: 10.54367mm
-% Columnsep and columnseprule: 3.51456mm and 0mm
-% Marginparsep and marginparwidth: 2.46019mm and 15.07938mm
-% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
-% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
-% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
-% Sidebarheight: 189.75801mm
-% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
-% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
-% ******************************************************
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
