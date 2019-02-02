@@ -878,9 +878,9 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \makepagestyle{toponerow}
-\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}
+\makeevenhead{toponerow}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\thechapter.\hspace*{1em}\MakeUppercase{\leftmark}}}
 \makeevenfoot{toponerow}{}{}{}
-\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddhead{toponerow}{\headerFont\headerSize\color{header}\textls*{\thechapter.\hspace*{1em}\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
 \makeoddfoot{toponerow}{}{}{}
 \makepsmarks{toponerow}{%
   \nouppercaseheads
@@ -1132,7 +1132,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{adrasteia}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{0pt}
+  \setlength{\beforechapskip}{-27pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -1143,6 +1143,9 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering\chaptitlefont\color{chaptertitle}%
+      \thechapter.%
+      \vspace*{12pt}%
+      \par
       \textls*{\MakeUppercase{##1}}%
       \par%
     }%
