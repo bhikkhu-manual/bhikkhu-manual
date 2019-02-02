@@ -149,8 +149,6 @@
 \definecolor{section}{gray}{0.05}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
-\definecolor{partname}{gray}{0.5}
-\definecolor{parttitle}{gray}{0.5}
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
@@ -236,8 +234,8 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {16}{16}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{13}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -1035,10 +1033,10 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\thePartNote{#1}%
 }
 
-\renewcommand{\partnamefont}{\Huge\partTitleFont\color{partname}}
-\renewcommand{\partnumfont}{\Huge\partTitleFont\color{partname}}
-\renewcommand{\parttitlefont}{\large\partTitleFont\color{parttitle}\MakeUppercase}
-\renewcommand*{\midpartskip}{\par\vskip 10pt}%
+\renewcommand{\partnamefont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
+\renewcommand{\partnumfont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
+\renewcommand{\parttitlefont}{\fontsize{18}{18}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
+\renewcommand*{\midpartskip}{\par\vskip 15pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
 % \part{\space} to still create the part line in the TOC and the
@@ -1075,7 +1073,7 @@ philo-sophical munindo amaravati thai-land}
       \fi
       \normalfont
       \ifnum \c@secnumdepth >-2\relax
-        \resizebox{2.8cm}{!}{\printpartname \partnamenum \printpartnum}
+        {\printpartname \partnamenum \printpartnum}%
         \par\vskip 20pt
       \fi
       \ifthisparthastitle
@@ -1136,7 +1134,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{adrasteia}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{-27pt}
+  \setlength{\beforechapskip}{-10pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -1146,8 +1144,9 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
     {%
-      \centering\chaptitlefont\color{chaptertitle}%
-      \thechapter.%
+      \centering%
+      {\chapnumfont\thechapter.}%
+      \chaptitlefont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
       \textls*{\MakeUppercase{##1}}%
