@@ -189,7 +189,11 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
-\newfontfamily\poppinsFont{Poppins-Medium.otf}
+\newfontfamily\poppinsFont{PoppinsX-Medium.ttf}
+
+\newfontfamily\poppinsRegularFont[
+  ItalicFont = Poppins-Italic.otf,
+]{Poppins-Regular.otf}
 
 \newfontfamily\bellezaFont{Belleza-Regular.ttf}
 
@@ -218,7 +222,7 @@
 \newcommand\sectionFont\poppinsFont
 \newcommand\subSectionFont\poppinsFont
 
-\newfontfamily\instructionFont{Poppins-Medium.otf}
+\newcommand\instructionFont\poppinsFont
 
 % quote
 
@@ -1205,13 +1209,14 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand\subsectionFmt[1]{%
-  \gentiumFont\normalsize\itshape\color{section}%
+  \poppinsRegularFont\fontsize{8.5}{13}\selectfont%
+  \itshape\color{section}%
   \memRTLraggedright%
   \prul{#1}%
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \gentiumFont\normalsize\itshape\color[gray]{0.1}%
+  \gentiumFont\normalsize\color[gray]{0.1}%
   \memRTLraggedright%
   #1%
 }
