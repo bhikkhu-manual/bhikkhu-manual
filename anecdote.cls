@@ -1173,7 +1173,7 @@ philo-sophical munindo amaravati thai-land}
 %
 % With no glue, the space will be at the bottom of the text block instead.
 
-\setbeforesecskip{-5.5ex \@plus -1ex \@minus -.2ex}
+\setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersecskip{2.3ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
