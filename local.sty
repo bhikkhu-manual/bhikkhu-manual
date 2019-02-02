@@ -2,10 +2,8 @@
 
 \usepackage{ltablex}
 
-\definecolor{instruction}{gray}{0.5}
-
 \newlength\leaderIndent
-\setlength{\leaderIndent}{1.6em}
+\setlength{\leaderIndent}{1.5em}
 
 \setlength{\vgap}{1.5em}
 \setlength{\vindent}{\leaderIndent}
@@ -20,16 +18,18 @@
   \topsep 0pt%
   \listparindent 0em%
   \itemindent    0pt%
-  \leftmargin    \leaderIndent
-  \rightmargin   \leaderIndent
+  \leftmargin    \leaderIndent%
+  \rightmargin   0pt%
   \parsep        \z@ \@plus\p@}
   \item[] \raggedright}%
   {\endlist}
 
 \newcommand{\instr}[1]{%
-  \hfill
-  {\instructionFont\color{instruction}\upshape%
-  [\space\MakeLowercase{#1}\space]}%
+  {\instrFmt #1}%
+}
+
+\newcommand{\instrSidepar}[1]{%
+  \sidepar{\hspace*{-22mm}\parbox{25mm}{#1}}%
 }
 
 \newcommand{\soloinstr}[1]{%
@@ -38,21 +38,6 @@
   [\space\MakeLowercase{#1}\space]}%
   \par}%
 }
-
-\newenvironment{instruction}%
-  {\list{}{%
-    \topsep 0pt
-    \listparindent 0em%
-    \itemindent    0em%
-    \leftmargin    \leaderIndent
-    \rightmargin   0em%
-    \parsep        \z@ \@plus\p@%
-  }%
-  \item[] \begingroup
-    \raggedright\instructionFont\color{instruction}\upshape
-    [\space
-  }%
-  {\space]\endgroup\endlist}
 
 \newenvironment{paritta}%
   {\list{}{%

@@ -114,7 +114,7 @@
 \RequirePackage{xparse}
 \RequirePackage{soul}
 \RequirePackage[geometry]{ifsym}
-\RequirePackage{textcomp}
+\RequirePackage{stix}
 % Don't use the [cmyk] option. Specify the color model in the color definitions.
 \RequirePackage{xcolor}
 \RequirePackage{xcoffins}
@@ -154,6 +154,8 @@
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
+\definecolor{instruction}{gray}{0.5}
+
 % === Load fonts ===
 
 \RequirePackage{fontspec}
@@ -187,7 +189,7 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
-\newfontfamily\prozaLibreFont{ProzaLibre-Bold.ttf}
+\newfontfamily\poppinsFont{Poppins-Medium.otf}
 
 \newfontfamily\bellezaFont{Belleza-Regular.ttf}
 
@@ -213,10 +215,10 @@
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\prozaLibreFont
-\newcommand\subSectionFont\prozaLibreFont
+\newcommand\sectionFont\poppinsFont
+\newcommand\subSectionFont\poppinsFont
 
-\newfontfamily\instructionFont{AlegreyaXSansSC-Bold.otf}
+\newfontfamily\instructionFont{Poppins-Medium.otf}
 
 % quote
 
@@ -247,6 +249,12 @@
 \newfontfamily\thaiFont{Kinnari.ttf}
 
 \newcommand*\thai[1]{{\thaiFont #1}}
+
+\newcommand{\instrFmt}{%
+  \color{instruction}\instructionFont\upshape\fontsize{7.5}{7.5}\selectfont%
+}
+
+\newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}
 
 % === microtype ===
 
@@ -1271,8 +1279,9 @@ philo-sophical munindo amaravati thai-land}
 
 \settypeblocksize{26\baselineskip + \topskip}{80mm}{*}
 \setlrmargins{*}{10mm}{*}
-
 \setulmargins{42pt}{*}{*}
+\setmarginnotes{7pt}{14pt}{5pt}
+
 \setlength{\footskip}{15pt}
 
 % Fixes these warnings:
@@ -1280,11 +1289,21 @@ philo-sophical munindo amaravati thai-land}
 % Overfull \vbox (1.4pt too high) has occurred while \output is active
 \addtolength{\headheight}{2pt}
 
+\marginparmargin{outer}
+\sideparmargin{outer}
+
 % This will also typeout values in pt (default)
 \checkandfixthelayout
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
+
+\renewcommand\sideparfont{\instrFmt}
+
+\renewcommand*\sideparform{%
+  \vspace*{-4.2pt}%
+  \ifmemtortm\raggedright\else\raggedleft\fi
+}
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
