@@ -530,7 +530,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\suttaRef}[1]{%
-  {\hfill\itshape\footnotesize #1\par}%
+  \hfill {\itshape #1\par}%
 }
 
 % for longer sutta and book quotes
