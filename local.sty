@@ -33,10 +33,7 @@
 }
 
 \newcommand{\soloinstr}[1]{%
-  {\centering
-  {\instructionFont\normalsize\color{instruction}\upshape%
-  [\space\MakeLowercase{#1}\space]}%
-  \par}%
+  {\centering\instrFmt #1\par}%
 }
 
 \newenvironment{paritta}%

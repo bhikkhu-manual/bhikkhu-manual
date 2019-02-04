@@ -187,7 +187,9 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
-\newfontfamily\poppinsFont{PoppinsX-Medium.ttf}
+\newfontfamily\poppinsFont[
+  ItalicFont = Poppins-MediumItalic.otf,
+]{PoppinsX-Medium.ttf}
 
 \newfontfamily\poppinsRegularFont[
   ItalicFont = Poppins-Italic.otf,
@@ -1267,7 +1269,7 @@ philo-sophical munindo amaravati thai-land}
 % === setup page layout ===
 
 \setlength{\BOOK@paperHeight}{155mm}
-\setlength{\BOOK@paperWidth}{105mm}
+\setlength{\BOOK@paperWidth}{110mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1284,7 +1286,7 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{26\baselineskip + \topskip}{80mm}{*}
+\settypeblocksize{26\baselineskip + \topskip}{85mm}{*}
 \setlrmargins{*}{10mm}{*}
 \setulmargins{42pt}{*}{*}
 \setmarginnotes{7pt}{14pt}{5pt}
