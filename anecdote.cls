@@ -187,42 +187,37 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
-\newfontfamily\poppinsFont[
-  ItalicFont = Poppins-MediumItalic.otf,
-]{PoppinsX-Medium.ttf}
+\newfontfamily\sansFont[
+  ItalicFont = NunitoSans-Italic.ttf,
+  BoldFont = NunitoSans-Bold.ttf,
+  BoldItalicFont = NunitoSans-BoldItalic.ttf,
+]{NunitoSans-Regular.ttf}
 
-\newfontfamily\poppinsRegularFont[
-  ItalicFont = Poppins-Italic.otf,
-]{Poppins-Regular.otf}
-
-\newfontfamily\bellezaFont{Belleza-Regular.ttf}
+\newfontfamily\sansLightFont[
+  ItalicFont = NunitoSans-LightItalic.ttf,
+]{NunitoSans-Light.ttf}
 
 % header and footer
 
-%\newfontfamily\headerFont[
-%  LetterSpace=5.0,
-%  Numbers=Lining,
-%]{AlegreyaXSansSC-Bold.otf}
-
-\newcommand\headerFont\bellezaFont
+\newcommand\headerFont\sansLightFont
 \newcommand\footerFont\headerFont
 \newcommand\pageNumFont\headerFont
 
 % chapter and section
 
-\newcommand\partNameFont\bellezaFont
-\newcommand\partTitleFont\bellezaFont
+\newcommand\partNameFont\sansLightFont
+\newcommand\partTitleFont\sansLightFont
 
 \newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\bellezaFont
+\newcommand\chapterTitleFont\sansLightFont
 \newcommand\chapterNumberFont\crimsonRomanFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\poppinsFont
-\newcommand\subSectionFont\poppinsFont
+\newcommand\sectionFont\sansFont
+\newcommand\subSectionFont\sansFont
 
-\newcommand\instructionFont\poppinsFont
+\newcommand\instructionFont\sansFont
 
 % quote
 
@@ -266,7 +261,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
-\SetTracking[spacing={600,100,}]{encoding=*, family={Belleza-Regular.ttf}}{50}
+\SetTracking[spacing={600,100,}]{encoding=*, family={MerriweatherSans-Light.otf}}{50}
 
 % === hyperref ===
 
@@ -1035,9 +1030,16 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\thePartNote{#1}%
 }
 
-\renewcommand{\partnamefont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
-\renewcommand{\partnumfont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
-\renewcommand{\parttitlefont}{\fontsize{18}{18}\selectfont\partTitleFont\color[gray]{0.1}\MakeUppercase}
+\renewcommand{\partnamefont}{\fontsize{12}{12}\selectfont\partTitleFont\color[gray]{0.1}}
+\renewcommand{\parttitlefont}{\fontsize{18}{18}\selectfont\partTitleFont\color[gray]{0.1}}
+
+%\renewcommand{\printpartname}{\partnamefont \partname}
+%\renewcommand{\partnamenum}{\space}
+%\renewcommand{\printpartnum}{\partnumfont \thepart}
+
+\newcommand\printpart{\textls*{\partnamefont\MakeUppercase{\partname \space \thepart}}}
+\renewcommand{\printparttitle}[1]{\textls*{\parttitlefont\MakeUppercase{#1}}}
+
 \renewcommand*{\midpartskip}{\par\vskip 15pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
@@ -1075,7 +1077,7 @@ philo-sophical munindo amaravati thai-land}
       \fi
       \normalfont
       \ifnum \c@secnumdepth >-2\relax
-        {\printpartname \partnamenum \printpartnum}%
+        {\printpart}%
         \par\vskip 20pt
       \fi
       \ifthisparthastitle
@@ -1203,14 +1205,14 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{8.5}{13}\selectfont%
+  \sectionFont\bfseries\fontsize{8.5}{13}\selectfont%
   \color{section}%
   \memRTLraggedright%
   #1%
 }
 
 \newcommand\subsectionFmt[1]{%
-  \poppinsRegularFont\fontsize{8.5}{13}\selectfont%
+  \subSectionFont\fontsize{8.5}{13}\selectfont%
   \itshape\color{section}%
   \memRTLraggedright%
   \prul{#1}%
