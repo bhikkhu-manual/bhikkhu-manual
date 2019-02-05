@@ -261,7 +261,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
-\SetTracking[spacing={600,100,}]{encoding=*, family={MerriweatherSans-Light.otf}}{50}
+\SetTracking[spacing={600,100,}]{encoding=*, family={NunitoSans-Light.ttf}}{70}
 
 % === hyperref ===
 
