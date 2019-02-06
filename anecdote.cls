@@ -141,7 +141,7 @@
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0}
 \definecolor{footer}{gray}{0}
-\definecolor{chapternum}{gray}{0.8}
+\definecolor{chapternum}{gray}{0.2}
 \definecolor{chaptertitle}{gray}{0.1}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
@@ -210,7 +210,7 @@
 
 \newcommand\chapterNameFont\crimsonRomanFont
 \newcommand\chapterTitleFont\sansLightFont
-\newcommand\chapterNumberFont\crimsonRomanFont
+\newcommand\chapterNumberFont\sansLightFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
@@ -1163,7 +1163,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering%
-      {\chapnumfont\thechapter.}%
+      {\chapnumfont\color{chapternum}\thechapter.}%
       \chaptitlefont\color{chaptertitle}%
       \vspace*{12pt}%
       \par
