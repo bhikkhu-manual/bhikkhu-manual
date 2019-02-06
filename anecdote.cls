@@ -243,6 +243,20 @@
 
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
 
+\renewcommand{\footnotesize}{%
+   \@setfontsize\footnotesize\@viiipt{11}%
+   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
+   \abovedisplayshortskip \z@ \@plus\p@
+   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
+   \def\@listi{\leftmargin\leftmargini
+               \topsep 4\p@ \@plus2\p@ \@minus2\p@
+               \parsep 2\p@ \@plus\p@ \@minus\p@
+               \itemsep \parsep
+%%               \itemindent\z@
+              }%
+   \belowdisplayskip \abovedisplayskip
+}
+
 % foreign language wrappers
 
 \newfontfamily\thaiFont{Kinnari.ttf}
@@ -1300,8 +1314,8 @@ philo-sophical munindo amaravati thai-land}
 % Overfull \vbox (1.4pt too high) has occurred while \output is active
 \addtolength{\headheight}{2pt}
 
-\marginparmargin{outer}
-\sideparmargin{outer}
+%\marginparmargin{outer}
+\sideparmargin{left}
 
 % This will also typeout values in pt (default)
 \checkandfixthelayout
