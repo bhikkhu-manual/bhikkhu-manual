@@ -137,7 +137,7 @@
 % === Define colors ===
 
 % Define text colors as Gray color values.
-\definecolor{textbody}{gray}{0.05}% 95% is good for contrast, on yellowish paper it is not harsh.
+\definecolor{textbody}{gray}{0}% 100% for maximum contrast.
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0}
 \definecolor{footer}{gray}{0}
