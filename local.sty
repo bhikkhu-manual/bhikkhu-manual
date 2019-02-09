@@ -120,3 +120,49 @@
   \item[] \renewcommand{\arraystretch}{1}%
   \begin{tabular}{@{}l@{}}}%
   {\end{tabular}\endlist}
+
+\newenvironment{instruction}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    \leaderIndent
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \begingroup
+    \raggedright\instrFmt
+  }%
+  {\endgroup\endlist}
+
+\newenvironment{english}%
+  {\list{}{%
+    \topsep 0pt
+    \listparindent 0em%
+    \itemindent    0em%
+    \leftmargin    \leaderIndent%
+    \rightmargin   0em%
+    \parsep        \z@ \@plus\p@%
+  }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newcommand\tr[1]{\textit{#1}}
+
+\newcommand\trline[1]{%
+  \begin{english}%
+    #1%
+  \end{english}%
+}
+
+\newlength\preceptnumwidth
+\setlength{\preceptnumwidth}{\widthof{\normalsize 9.\space}}
+
+\newenvironment{precept}%
+{\begin{enumerate}[
+  itemindent=0pt,
+  leftmargin={\preceptnumwidth},
+  rightmargin=0pt,
+]%
+}{\end{enumerate}}
+
