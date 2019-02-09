@@ -1175,6 +1175,21 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
+\makechapterstyle{adrasteia-appendix}{
+  \chapterstyle{adrasteia}
+  \renewcommand*\printchaptertitle[1]{%
+    {%
+      \centering%
+      {\chapnumfont\fontsize{10}{10}\selectfont\color{chapternum}\textls*{APPENDIX \thechapter.}}%
+      \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
+      \vspace*{12pt}%
+      \par
+      \textls*{\MakeUppercase{##1}}%
+      \par%
+    }%
+  }
+}
+
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 
@@ -1183,7 +1198,7 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand\frontmatterChapterStyle{\chapterstyle{adrasteia}}
 \newcommand\mainmatterChapterStyle{\chapterstyle{adrasteia}}
-\newcommand\appendixChapterStyle{\chapterstyle{adrasteia}}
+\newcommand\appendixChapterStyle{\chapterstyle{adrasteia-appendix}}
 \newcommand\backmatterChapterStyle{\chapterstyle{adrasteia}}
 
 % append them to the macros
