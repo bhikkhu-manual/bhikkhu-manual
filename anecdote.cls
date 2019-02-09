@@ -225,8 +225,8 @@
 
 % toc
 
-\newcommand\tocFont\crimsonRomanFont
-\newcommand\tocFontOldNum\crimsonRomanFontOldNum
+\newcommand\tocFont\sansLightFont
+\newcommand\tocFontOldNum\sansLightFont
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -1000,12 +1000,17 @@ philo-sophical munindo amaravati thai-land}
 % FIXME: the first Part heading in the TOC will also add that 20pt
 % vspace. How to add it only before a Part that follows a Chapter?
 
+\newlength\tocPageWidth
+
+\newlength\tocThreeDigits
+\setlength{\tocThreeDigits}{\widthof{\tocFont\normalsize 999}}
+
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{25pt}%
-\fontsize{11}{11}\crimsonRomanFont\selectfont}%
+\fontsize{11}{11}\tocFont\selectfont}%
 {%
   \contentsmargin{0pt}%
-  \thecontentslabel.\space
+  \textls*{PART \thecontentslabel.}\space
   \hspace*{1em}%
   \MakeUppercase
 }
@@ -1013,20 +1018,75 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
-{\contentsmargin{0pt}}
+{\addvspace{15pt}%
+\fontsize{9.5}{9.5}\tocFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel.\space%
+  \hspace*{0.5em}%
+  \MakeUppercase%
+}
+{\contentsmargin{0pt}%
+\itshape}
+{\hfill\normalsize\tocFont\thecontentspage}
+
+\titlecontents{section}[\tocLeftWidth]
+{\fontsize{9}{14}\tocFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel\space%
+}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\normalsize\tocFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
-{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\bfseries\selectfont}%
-{\contentsmargin{0pt}%
-\itshape}
+{\addvspace{15pt}%
+\fontsize{9.5}{9.5}\tocFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel.\space%
+  \hspace*{0.5em}%
+  \MakeUppercase%
+}
 {\contentsmargin{0pt}%
 \itshape}
 {\enspace\hfill\normalsize\tocFont\thecontentspage}
 [\addvspace{0pt}]
+
+% === List of First Lines ===
+
+\newcommand\listfirstlinesname{List of First Lines}
+\newlistof{listfirstlines}{fir}{\listfirstlinesname}
+
+% Fixed number for \chapternumberline, not acutally using it but
+% required for syntax
+\newcommand{\firstline}[1]{\addcontentsline{fir}{firstline}{\protect\chapternumberline{1} #1}}
+
+\contentsuse{firstline}{fir}
+
+\titlecontents{firstline}[0pt]%
+{%
+  \addvspace{5pt}%
+  \setlength{\tocPageWidth}{\tocThreeDigits}
+  \addtolength{\tocPageWidth}{10pt}
+  \contentsmargin{\tocPageWidth}%
+  \filright%
+}%
+{%
+  \tocFont
+}%
+{}%
+{%
+  \hspace*{10pt}%
+  \small\color{black!60}%
+  \titlerule*[8pt]{.}%
+  \hspace*{10pt}%
+  \parbox{\tocPageWidth}{%
+    \raggedleft\tocFont\normalsize
+    \thecontentspage}%
+  \hspace*{-\tocPageWidth}%
+}%
 
 % === Book styles ===
 
@@ -1175,6 +1235,19 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
+
+\makechapterstyle{adrasteia-frontmatter}{
+  \chapterstyle{adrasteia}
+  \renewcommand*\printchaptertitle[1]{%
+    {%
+      \centering%
+      \chaptitlefont\color{chaptertitle}%
+      \textls*{\MakeUppercase{##1}}%
+      \par%
+    }%
+  }
+}
+
 \makechapterstyle{adrasteia-appendix}{
   \chapterstyle{adrasteia}
   \renewcommand*\printchaptertitle[1]{%
@@ -1196,7 +1269,7 @@ philo-sophical munindo amaravati thai-land}
 % No numbers in chapter mark
 %\createmark{chapter}{left}{nonumber}{}{}
 
-\newcommand\frontmatterChapterStyle{\chapterstyle{adrasteia}}
+\newcommand\frontmatterChapterStyle{\chapterstyle{adrasteia-frontmatter}}
 \newcommand\mainmatterChapterStyle{\chapterstyle{adrasteia}}
 \newcommand\appendixChapterStyle{\chapterstyle{adrasteia-appendix}}
 \newcommand\backmatterChapterStyle{\chapterstyle{adrasteia}}
