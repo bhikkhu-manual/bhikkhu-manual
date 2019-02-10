@@ -238,6 +238,7 @@
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
+\newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -907,6 +908,23 @@ philo-sophical munindo amaravati thai-land}
   \createplainmark{glossary}{both}{\glossaryname}
 }
 
+\makepagestyle{toponerow-frontmatter}
+\makeevenhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\thepage}{}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}
+\makeevenfoot{toponerow-frontmatter}{}{}{}
+\makeoddhead{toponerow-frontmatter}{\headerFont\headerSize\color{header}\textls*{\MakeUppercase{\leftmark}}}{}{\headerFont\headerSize\color{header}\thepage}
+\makeoddfoot{toponerow-frontmatter}{}{}{}
+\makepsmarks{toponerow-frontmatter}{%
+  \nouppercaseheads
+  \createmark{chapter}{left}{nonumber}{}{}
+  \createmark{section}{right}{nonumber}{}{}
+  \createplainmark{toc}{both}{\contentsname}
+  \createplainmark{lof}{both}{\listfigurename}
+  \createplainmark{lot}{both}{\listtablename}
+  \createplainmark{bib}{both}{\bibname}
+  \createplainmark{index}{both}{\indexname}
+  \createplainmark{glossary}{both}{\glossaryname}
+}
+
 \makepagestyle{bottomcorner}
 \makeevenhead{bottomcorner}{}{}{}
 \makeevenfoot{bottomcorner}{%
@@ -953,7 +971,7 @@ philo-sophical munindo amaravati thai-land}
 \contentsmargin{-5pt}
 
 \newlength\tocLeftWidth
-\setlength\tocLeftWidth{10mm}
+\setlength\tocLeftWidth{0pt}
 
 % Roman numerals in the chapter title TOC chapter entries.
 %\renewcommand\thechapter{\Roman{chapter}}
@@ -1003,15 +1021,15 @@ philo-sophical munindo amaravati thai-land}
 \newlength\tocPageWidth
 
 \newlength\tocThreeDigits
-\setlength{\tocThreeDigits}{\widthof{\tocFont\normalsize 999}}
+\setlength{\tocThreeDigits}{\widthof{\tocFont\tocSize 999}}
 
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{25pt}%
 \fontsize{11}{11}\tocFont\selectfont}%
 {%
   \contentsmargin{0pt}%
-  \textls*{PART \thecontentslabel.}\space
-  \hspace*{1em}%
+  \textls*{PART \thecontentslabel.}\space%
+  \hspace*{0.5em}%
   \MakeUppercase
 }
 {\contentsmargin{0pt}}
@@ -1019,7 +1037,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\fontsize{9.5}{9.5}\tocFont\selectfont}%
+\tocFont\fontsize{10}{14}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1028,17 +1046,19 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\normalsize\tocFont\thecontentspage}
+{\hfill\tocFont\fontsize{10}{14}\selectfont\thecontentspage}
+[\addvspace{5pt}]
 
 \titlecontents{section}[\tocLeftWidth]
-{\fontsize{9}{14}\tocFont\selectfont}%
+{\tocFont\tocSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
+  \hspace*{0.8em}%
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\normalsize\tocFont\thecontentspage}
+{\hfill\tocFont\tocSize\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
@@ -1052,7 +1072,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 \itshape}
 {\enspace\hfill\normalsize\tocFont\thecontentspage}
-[\addvspace{0pt}]
+[\addvspace{5pt}]
 
 % === List of First Lines ===
 
@@ -1067,23 +1087,19 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{firstline}[0pt]%
 {%
-  \addvspace{5pt}%
-  \setlength{\tocPageWidth}{\tocThreeDigits}
-  \addtolength{\tocPageWidth}{10pt}
+  \setlength{\tocPageWidth}{\tocThreeDigits}%
+  \addtolength{\tocPageWidth}{5pt}%
   \contentsmargin{\tocPageWidth}%
   \filright%
 }%
-{%
-  \tocFont
-}%
+{\tocFont\tocSize}%
 {}%
 {%
-  \hspace*{10pt}%
+  \hspace*{5pt}%
   \small\color{black!60}%
   \titlerule*[8pt]{.}%
-  \hspace*{10pt}%
   \parbox{\tocPageWidth}{%
-    \raggedleft\tocFont\normalsize
+    \raggedleft\tocFont\tocSize
     \thecontentspage}%
   \hspace*{-\tocPageWidth}%
 }%
@@ -1246,6 +1262,7 @@ philo-sophical munindo amaravati thai-land}
       \par%
     }%
   }
+  \setlength{\afterchapskip}{\onelineskip}
 }
 
 \makechapterstyle{adrasteia-appendix}{
