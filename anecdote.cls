@@ -195,6 +195,8 @@
 
 \newfontfamily\sansLightFont[
   ItalicFont = NunitoSans-LightItalic.ttf,
+  BoldFont = NunitoSans-SemiBold.ttf,
+  BoldItalicFont = NunitoSans-SemiBoldItalic.ttf,
 ]{NunitoSans-Light.ttf}
 
 % header and footer
@@ -1025,7 +1027,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{25pt}%
-\fontsize{11}{11}\tocFont\selectfont}%
+\tocFont\bfseries\fontsize{12}{12}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \textls*{PART \thecontentslabel.}\space%
@@ -1037,7 +1039,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\fontsize{10}{14}\selectfont}%
+\tocFont\bfseries\fontsize{10}{14}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1062,7 +1064,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
-\fontsize{9.5}{9.5}\tocFont\selectfont}%
+\tocFont\bfseries\fontsize{10}{14}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1071,7 +1073,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\enspace\hfill\normalsize\tocFont\thecontentspage}
+{\hfill\tocFont\fontsize{10}{14}\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
 % === List of First Lines ===
