@@ -11,7 +11,12 @@ four-times:
 	./helpers/four-times.sh
 
 document:
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex
+	cat $(MAIN).fir | \
+		sed '/\\contentsfinish/d' | \
+		sort > $(MAIN).fir.tmp
+	echo '\\contentsfinish' >> $(MAIN).fir.tmp
+	mv $(MAIN).fir.tmp $(MAIN).fir
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 html:
 	asciidoctor -D output stillness-flowing.adoc
