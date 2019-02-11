@@ -11,11 +11,11 @@ four-times:
 	./helpers/four-times.sh
 
 document:
-	cat $(MAIN).fir | \
+	cat $(FILE).fir | \
 		sed '/\\contentsfinish/d' | \
-		sort > $(MAIN).fir.tmp
-	echo '\\contentsfinish' >> $(MAIN).fir.tmp
-	mv $(MAIN).fir.tmp $(MAIN).fir
+		sort > $(FILE).fir.tmp
+	echo '\\contentsfinish' >> $(FILE).fir.tmp
+	mv $(FILE).fir.tmp $(FILE).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 html:
