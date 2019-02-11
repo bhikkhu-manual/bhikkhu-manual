@@ -152,7 +152,7 @@
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
-\definecolor{instruction}{gray}{0.5}
+\definecolor{instruction}{gray}{0.4}
 
 % === Load fonts ===
 
@@ -464,6 +464,18 @@ philo-sophical munindo amaravati thai-land}
   partopsep=0pt,
 ]%
 }{\end{itemize}}
+
+\newenvironment{packedenumerate}%
+{\begin{enumerate}[
+  itemindent=0pt,
+  leftmargin=15pt,
+  rightmargin=0pt,
+  itemsep=4pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+]%
+}{\end{enumerate}}
 
 \newcommand\speakerName[1]{%
   % The hangindent only works with alternating speakers.
@@ -825,7 +837,7 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{15pt}}%
+  %\addtocontents{toc}{\addvspace{5pt}}%
   \setcounter{chapter}{0}%
 }
 
@@ -1185,7 +1197,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === Chapter styles ===
 
-\setsecnumdepth{subsection}
+\setsecnumdepth{subsubsection}
 
 % define chapter styles with "fantasy" names
 
@@ -1282,6 +1294,20 @@ philo-sophical munindo amaravati thai-land}
   }
 }
 
+\makechapterstyle{adrasteia-backmatter}{
+  \chapterstyle{adrasteia}
+  \renewcommand*\printchaptertitle[1]{%
+    {%
+      \centering%
+      \chaptitlefont\fontsize{13}{18}\selectfont\color{chaptertitle}%
+      \vspace*{12pt}%
+      \par
+      \textls*{\MakeUppercase{##1}}%
+      \par%
+    }%
+  }
+}
+
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 
@@ -1291,7 +1317,7 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\frontmatterChapterStyle{\chapterstyle{adrasteia-frontmatter}}
 \newcommand\mainmatterChapterStyle{\chapterstyle{adrasteia}}
 \newcommand\appendixChapterStyle{\chapterstyle{adrasteia-appendix}}
-\newcommand\backmatterChapterStyle{\chapterstyle{adrasteia}}
+\newcommand\backmatterChapterStyle{\chapterstyle{adrasteia-backmatter}}
 
 % append them to the macros
 \addtodef{\frontmatter}{}{\frontmatterChapterStyle}
@@ -1316,10 +1342,10 @@ philo-sophical munindo amaravati thai-land}
 \setaftersecskip{1ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersubsecskip{2.3ex}
+\setaftersubsecskip{1ex}
 
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersubsubsecskip{2.3ex}
+\setaftersubsubsecskip{1ex}
 
 % Roman numerals for section numbering.
 %\renewcommand*{\thesection}{\roman{section}}
@@ -1340,9 +1366,10 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \gentiumFont\normalsize\color[gray]{0.1}%
+  \subSectionFont\fontsize{8.5}{13}\selectfont%
+  \itshape\color{section}%
   \memRTLraggedright%
-  #1%
+  \prul{#1}%
 }
 
 \setsecheadstyle{\sectionFmt}
