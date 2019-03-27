@@ -241,6 +241,7 @@
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
+\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9.5}{14}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -1064,7 +1065,7 @@ philo-sophical munindo amaravati thai-land}
 [\addvspace{5pt}]
 
 \titlecontents{section}[\tocLeftWidth]
-{\tocFont\tocSize}%
+{\gentiumFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1072,7 +1073,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\tocFont\tocSize\thecontentspage}
+{\hfill\gentiumFont\tocSectionSize\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
