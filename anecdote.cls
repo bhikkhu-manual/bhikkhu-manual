@@ -1107,14 +1107,14 @@ philo-sophical munindo amaravati thai-land}
   \contentsmargin{\tocPageWidth}%
   \filright%
 }%
-{\tocFont\tocSize}%
+{\gentiumFont\tocSectionSize}%
 {}%
 {%
   \hspace*{5pt}%
   \small\color{black!60}%
   \titlerule*[8pt]{.}%
   \parbox{\tocPageWidth}{%
-    \raggedleft\tocFont\tocSize
+    \raggedleft\gentiumFont\tocSectionSize
     \thecontentspage}%
   \hspace*{-\tocPageWidth}%
 }%
