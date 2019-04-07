@@ -1,0 +1,168 @@
+#+TITLE: Bhikkhu Manual Feedback (2019 Apr)
+#+OPTIONS: toc:t num:nil author:nil creator:nil
+
+* Bhikkhu Manual Feedback
+** Tasks
+*** TODO add new chants from Aj Kevali
+*** TODO Mahamangala: check line breaks
+*** TODO ask Aj Kevali to explain "Moro carati esana" in more detail
+*** TODO large-sized electronic-only version with all available translations
+*** TODO do you chant Yatha in alternating lines? grouping of lines
+*** TODO please take a look at the added text, typos are possible
+*** TODO are the annotations visible?
+** Notes                                                           :noexport:
+*** Contact list                                                   :noexport:
+ 
+[2019-03-28] Sent out cover letter to start circulating the PDF.
+
+[[mu4e:msgid:87imw3wije.fsf@gmail.com][preparing a new edition of the Bhikkhu Manual]]
+
+Contact list:
+
+#+begin_src
+Amaro Bhikkhu <amaro@amaravati.org>,
+
+Ajahn Kevali <aj.kevali@forestsangha.net>,
+Wat Pah Nanachat <watpahnanachat19@gmail.com>,
+Ajahn Nyanadhammo <watratanawan@gmail.com>,
+
+Dhammagiri <dhgi@posteo.org>,
+
+Temple Forest Monastery <jayanto@jetagrove.us>,
+Jayanto Bhikkhu <b.jayanto@gmail.com>,
+
+Pacific Hermitage <hermitage@abhayagiri.org>,
+Sudanto Bhikkhu <sudanto@abhayagiri.org>,
+
+Lokuttara <lokuttara.secretary@gmail.com>,
+Ajahn Gavesako <gavesako@gmail.com>,
+kalyano bhikkhu <tankalyano@gmail.com>,
+
+Ahimsako Bhikkhu <ahimsako@gmail.com>
+
+Sumedharama <mosteirotheravada@gmail.com>,
+Tisarana Buddhist Monastery <viradhammo@tisarana.ca>,
+Santacittarama <santacittarama@gmail.com>,
+Bodhinyanarama <ajahn@kusalo.net>,
+Vimutti Buddhist Monastery <vimutti.atba@gmail.com>,
+Dhammapala <info@dhammapala.ch>,
+Aruna Ratanagiri Buddhist Monastery <sangha@ratanagiri.org.uk>,
+Ajahn Munindo <ajahnmunindo@ratanagiri.org.uk>,
+
+Cittaviveka Buddhist Monastery <office@cittaviveka.org>,
+Ajahn Karuniko <b.karuniko@gmail.com>,
+Ahimsako Bhikkhu <ahimsako@gmail.com>,
+
+Hartridge Buddhist Monastery <hartridge.monastery@gmail.com>,
+Abhayagiri Monastery <vihara@abhayagiri.org>,
+Bodhivana <buddhabodhivana@gmail.com>,
+Wat Buddha Dhamma <wbdoffice@gmail.com>,
+#+end_src
+
+*** Responses
+**** Aj Kevali (notes)
+
+[[mu4e:msgid:SG2PR01MB28867A9755C0D92F91B1164BBC570@SG2PR01MB2886.apcprd01.prod.exchangelabs.com][RE: preparing a new edition of the Bhikkhu Manual]]
+
+- [X] Sambuddhe
+- [X] Mahamangala cakka vala
+- [X] the 7-part Abhidhamma-Chanting
+- [X] Samanera-Sikkha in Pali and English
+- [X] Yatha in Pali and English
+- [X] Closing parittas chant
+- [X] Anumodana Chant for Offering Senasana
+- [X] Parting Chant for laypeople taking leave after Wan Phra
+- [X] update the Sanghadana apalokana kamma
+
+Source: Chomtong Chanting book
+
+Vinaya:
+
+- [X] The Kathina Pali Sanghakamma for transferring the robe to the recipient
+
+- [ ] there seems to be a standard formula that monks from Sri Lanka utter as a
+  dialogue while they greet each other. This would make sense to include, as
+  there is already much reference to the Sri Lankan tradition in there.
+
+- [ ] I wonder if the standard ceremony of disrobing should be in there. It
+  happens more often than one thinks.
+
+- [ ] The Kathina-Dana apalokana for the first and second monk in English in a
+  standardized version could be included.
+
+**** Aj Dhammasiha (notes)
+
+[[mu4e:msgid:3747e26c-a4f9-0c42-8e5d-c83155694c79@dhammagiri.org.au][Re: preparing a new edition of the Bhikkhu Manual]]
+
+[[mu4e:msgid:44ZgGj3wGbz6tmJ@submission01.posteo.de][Suggestions for New Bhikkhu Manual Aj Dhammasiha]]
+
+New address: =Dhammagiri <dhgi@posteo.org>=
+
+**** Aj Appamado (notes)
+
+[[mu4e:msgid:CA+wdS1m7M+YOJ=paPEs1rbosVy1gLp_DUyEd0Or2H8TuGPCFYA@mail.gmail.com][Re: preparing a new edition of the Bhikkhu Manual]]
+
+**** Aj Kusalo (notes)
+
+[[mu4e:msgid:5C9D0BF1.7050103@kusalo.net][ajK book]]
+
+**** Aj Karuniko (ack)
+
+'looks a quite adequate and comprehensive'
+
+**** Aj Jayanto (ack)
+
+'Great idea'
+
+**** Aj Viradhammo (ack)
+
+'Sadhu to you and Ajahn Amaro. I especially liked Appendix B with those Useful Notes.'
+
+**** Aj Sucitto (ack)
+** Pali Additions
+*** Sambuddhe (p. ??)
+*** Mahamangala cakka vala (p. ??)
+*** TODO Anumodana for dwelling
+
+Sītaṃ uṇhaṃ paṭihanti...
+
+*** TODO Asking Forgiveness to the Triple Gem
+
+Ahaṃ buddhan ca dhamman ca sanghan ca saranam gata...
+
+- closing ceremony jpgs 1-3
+
+*** TODO Closing for Parittas
+
+Nakkhatta-yakkha-bhutanam...
+
+*** TODO Funeral 7 parts
+
+*** TODO Maha-mangala
+
+Siri-dhiti-mati...
+
+*** TODO Parting for laypeople
+
+*** TODO Sanghadana Apalokana Kamma
+
+Yagghe bhante sangho jānātu...
+
+** English Additions
+*** TODO Samanera Sikkha with English
+
+Include the English translation line-by-line with the Pali. Translation to be
+reviewed later.
+
+** Removals
+** Editing, Translations
+
+Title:
+
+: 3.5 Reflection on the Off-Putting Qualities of the Requisites
+
+To
+
+: 3.5 Reflection on the Repulsiveness of the Requisites
+
+
