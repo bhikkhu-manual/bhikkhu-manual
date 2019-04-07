@@ -2,14 +2,112 @@
 #+OPTIONS: toc:t num:nil author:nil creator:nil
 
 * Bhikkhu Manual Feedback
-** Tasks
-*** TODO add new chants from Aj Kevali
-*** TODO Mahamangala: check line breaks
-*** TODO ask Aj Kevali to explain "Moro carati esana" in more detail
-*** TODO large-sized electronic-only version with all available translations
-*** TODO do you chant Yatha in alternating lines? grouping of lines
-*** TODO please take a look at the added text, typos are possible
-*** TODO are the annotations visible?
+** feedback review 2019-04-07
+   
+Attached:
+
+- manual pdf
+- screenshots
+- Aj Dhammasiha comments, 2 emails
+
+Dear Ajahn Amaro and Ajahn Kevali,
+
+Warning, long email ahead...
+
+Quick takeaways:
+
+- updated manual PDF attached
+- English editing procedure
+- possibly and extended electronic version
+- new text details
+- further feedback on content 
+
+I added a number of the texts which Ajahn Kevali suggested. I attached an updated PDF with a couple of screenshots to confirm the appearance of the layout.
+
+Please note that the page breaks and spacing are not too carefully arranged at this early stage.
+
+The new Pali additions might have typos, please take care when reading. The source of the added texts is the Chomtong chanting book which Ajahn Kevali attached, but there is always some hand-fixing involved with these old PDFs, because their encoding is not unicode.
+
+I also attached the extended text of Ajahn Dhammasiha's notes on quotes and translations, here I will only summarize.
+
+Please see my questions and the feedback summaries below.
+
+*A) planning*
+
+I would like to ask what would the Ajahns see as a suitable procedure for reviewing English translations? Those already in the book and new ones being suggested.
+
+For the time being I will just collect the comments and suggestions.
+
+A number of people asked for more translations. I see two kind of requests -- some translations which are currently being used as chanting, and translations which people wish were easily accessible.
+
+In the former case, such as the Samanera Sikkha, it seems like a good way forward to include these in the handbook.
+
+But the latter case is real too. I have heard many times the "you can find it online" answer, but even to do that is quite complicated, and I would like to transform this answer to "here, these are the translations."
+
+I would be glad to offer to extend the scope of this work to solve that. Not as an immediate project, but the work we are doing now prepares a good ground for it.
+
+I could see for example an extended version of this manual in electronic formats, complete with all available translations, and a large-page format PDF which could be printed in the monasteries, maybe just a couple of copies for each dana-sala.
+
+*B) text details*
+
+- do you wish the Yatha anumodana with alternating lines, instead of grouped? sec.6.1, p.64
+- technical check: are the annotation notes visible to you? p.17 for example, next to sec.3.4 title
+- please expand on the instruction about how to organize the lines of "Moro
+  carati" in sec.4.14, p.39, I didn't understand Aj Kevali's earlier notes
+- Mahamangala: please review how the line breaks would make sense, sec.4.32 on p.53
+
+*C) added sections in the attached PDF*
+
+- Mahamangala cakka vala: sec.4.32, p.53
+- Closing parittas chant: sec.4.37, p.58
+- Sambuddhe: sec.4.5, p.27
+- Yatha in Pali and English: sec.6.1, p.64
+- Anumodana Chant for Offering Senasana: sec.6.12, p.71
+- the 7-part Abhidhamma-Chanting: sec.7.3 onward, p.76
+- Samanera-Sikkha in Pali and English: sec.9.4, p.113
+- Parting Chant for laypeople taking leave after Wan Phra: sec.16.12.1 and sec.16.12.2, from p.183
+- update the Sanghadana apalokana kamma: sec.16.4, p.168
+
+Vinaya:
+
+- The Kathina Pali Sanghakamma: sec.15.4.3, p.164
+
+*D) further suggestions on content*
+
+Ajahn Kevali also suggested the following:
+
+- a standard formula that monks from Sri Lanka utter as a dialogue while they greet each other.
+- standard ceremony of disrobing
+- The Kathina-Dana apalokana for the first and second monk in English
+
+Ajahn Dhammasiha suggested new quotes:
+
+- 'Ye dhammā hetuppabhavā...' /Mv.1.23.5/ (Ven. Assaji's response to Ven. Sariputta)
+- 'Atthi, bhikkhave, ajātaṃ...' /Ud. 8.3/ (The Unconditioned)
+- 'Atthi, bhikkhave, tad-āyatanaṃ...' /Ud. 8.1/ (There is that sphere where there is neither earth...)
+- Anupubbasikkhā, Gradual Training
+
+Ajahn Dhammasiha suggesting edits to English translations:
+
+- "Suvaco" as "easy to teach", "amiable to training", "capable to accept instruction", "willing to be admonished"
+- The Three Kinds of Suffering
+- The 3 Universal Characteristics of Experience
+
+Ajahn Appamado suggested:
+
+- translations in English for the Patimokkha chants
+- Anumodana translations
+
+Ajahn Kusalo suggested:
+
+- not interested in the Sri Lankan versions and chants
+
+That's all for now...
+
+Anjali,
+Gambhiro
+
+** Tasks                                                           :noexport:
 ** Notes                                                           :noexport:
 *** Contact list                                                   :noexport:
  
@@ -98,13 +196,32 @@ Vinaya:
 
 New address: =Dhammagiri <dhgi@posteo.org>=
 
+Suggesting new quotes:
+
+- 'Ye dhammā hetuppabhavā...' /Mv.1.23.5/ (Ven. Assaji's response to Ven. Sariputta)
+- 'Atthi, bhikkhave, ajātaṃ...' /Ud. 8.3/ (The Unconditioned)
+- 'Atthi, bhikkhave, tad-āyatanaṃ...' /Ud. 8.1/ (There is that sphere where there is neither earth...)
+- Anupubbasikkhā, Gradual Training
+
+Suggesting edits to English translations:
+
+- "Suvaco" as "easy to teach", "amiable to training", "capable to accept instruction", "willing to be admonished"
+- The Three Kinds of Suffering
+- The 3 Universal Characteristics of Experience
+
 **** Aj Appamado (notes)
 
 [[mu4e:msgid:CA+wdS1m7M+YOJ=paPEs1rbosVy1gLp_DUyEd0Or2H8TuGPCFYA@mail.gmail.com][Re: preparing a new edition of the Bhikkhu Manual]]
 
+- [ ] translations in English for the Patimokkha chants
+- [ ] Anumodana translations
+
 **** Aj Kusalo (notes)
 
 [[mu4e:msgid:5C9D0BF1.7050103@kusalo.net][ajK book]]
+
+- not interested the Sri Lankan versions and chants
+- more English translations
 
 **** Aj Karuniko (ack)
 
@@ -119,50 +236,3 @@ New address: =Dhammagiri <dhgi@posteo.org>=
 'Sadhu to you and Ajahn Amaro. I especially liked Appendix B with those Useful Notes.'
 
 **** Aj Sucitto (ack)
-** Pali Additions
-*** Sambuddhe (p. ??)
-*** Mahamangala cakka vala (p. ??)
-*** TODO Anumodana for dwelling
-
-Sītaṃ uṇhaṃ paṭihanti...
-
-*** TODO Asking Forgiveness to the Triple Gem
-
-Ahaṃ buddhan ca dhamman ca sanghan ca saranam gata...
-
-- closing ceremony jpgs 1-3
-
-*** TODO Closing for Parittas
-
-Nakkhatta-yakkha-bhutanam...
-
-*** TODO Funeral 7 parts
-
-*** TODO Maha-mangala
-
-Siri-dhiti-mati...
-
-*** TODO Parting for laypeople
-
-*** TODO Sanghadana Apalokana Kamma
-
-Yagghe bhante sangho jānātu...
-
-** English Additions
-*** TODO Samanera Sikkha with English
-
-Include the English translation line-by-line with the Pali. Translation to be
-reviewed later.
-
-** Removals
-** Editing, Translations
-
-Title:
-
-: 3.5 Reflection on the Off-Putting Qualities of the Requisites
-
-To
-
-: 3.5 Reflection on the Repulsiveness of the Requisites
-
-
