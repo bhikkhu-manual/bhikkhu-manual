@@ -194,6 +194,8 @@ Vinaya:
 
 [[mu4e:msgid:44ZgGj3wGbz6tmJ@submission01.posteo.de][Suggestions for New Bhikkhu Manual Aj Dhammasiha]]
 
+[[mu4e:msgid:48cfa2b2-44b8-5407-538b-26cbaf4b74c1@posteo.net][Re: Suggestions for New Bhikkhu Manual Aj Dhammasiha]]
+
 New address: =Dhammagiri <dhgi@posteo.org>=
 
 Suggesting new quotes:
@@ -202,6 +204,8 @@ Suggesting new quotes:
 - 'Atthi, bhikkhave, ajātaṃ...' /Ud. 8.3/ (The Unconditioned)
 - 'Atthi, bhikkhave, tad-āyatanaṃ...' /Ud. 8.1/ (There is that sphere where there is neither earth...)
 - Anupubbasikkhā, Gradual Training
+- Passage on Satipaṭṭhāna & Exposition of Noble 8-Fold-Path
+- Sanghadāna with English
 
 Suggesting edits to English translations:
 
