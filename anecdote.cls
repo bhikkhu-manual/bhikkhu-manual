@@ -124,6 +124,7 @@
 \RequirePackage{ccicons}
 \RequirePackage{multicol}
 \RequirePackage{footnote}
+\RequirePackage{hyphenat}
 \RequirePackage{ifthen}
 \RequirePackage{titletoc}
 \RequirePackage{enumitem}
@@ -980,7 +981,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === TOC settings ===
 
-\maxtocdepth{section}
+\maxtocdepth{subsection}
 
 % the right TOC margin
 \contentsmargin{-5pt}
@@ -1073,6 +1074,17 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
+{\hfill\gentiumFont\tocSectionSize\thecontentspage}
+
+\titlecontents{subsection}[\tocLeftWidth]
+{\gentiumFont\tocSectionSize}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel\space%
+  \hspace*{2em}%
+}
+{\contentsmargin{0pt}%
+  \itshape}
 {\hfill\gentiumFont\tocSectionSize\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
