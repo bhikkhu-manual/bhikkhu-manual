@@ -153,7 +153,7 @@
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
-\definecolor{instruction}{gray}{0.4}
+\definecolor{instruction}{gray}{0.3}
 
 % === Load fonts ===
 
@@ -269,7 +269,7 @@
 \newcommand*\thai[1]{{\thaiFont #1}}
 
 \newcommand{\instrFmt}{%
-  \color{instruction}\instructionFont\upshape\fontsize{7.5}{7.5}\selectfont%
+  \color{instruction}\instructionFont\upshape\fontsize{7.5}{10}\selectfont%
 }
 
 \newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}

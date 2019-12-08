@@ -29,6 +29,7 @@ tags
 *.fdb_latexmk
 *.fir
 auto/
+*.synctex.gz
 
 # General macOS
 .DS_Store
