@@ -115,7 +115,7 @@ Gambhiro
 
 [[mu4e:msgid:87imw3wije.fsf@gmail.com][preparing a new edition of the Bhikkhu Manual]]
 
-Contact list:
+**** First review contact list
 
 #+begin_src
 Amaro Bhikkhu <amaro@amaravati.org>,
@@ -146,6 +146,54 @@ Vimutti Buddhist Monastery <vimutti.atba@gmail.com>,
 Dhammapala <info@dhammapala.ch>,
 Aruna Ratanagiri Buddhist Monastery <sangha@ratanagiri.org.uk>,
 Ajahn Munindo <ajahnmunindo@ratanagiri.org.uk>,
+
+Cittaviveka Buddhist Monastery <office@cittaviveka.org>,
+Ajahn Karuniko <b.karuniko@gmail.com>,
+Ahimsako Bhikkhu <ahimsako@gmail.com>,
+
+Hartridge Buddhist Monastery <hartridge.monastery@gmail.com>,
+Abhayagiri Monastery <vihara@abhayagiri.org>,
+Bodhivana <buddhabodhivana@gmail.com>,
+Wat Buddha Dhamma <wbdoffice@gmail.com>,
+#+end_src
+
+**** Second review contact list
+     
+#+begin_src
+Amaro Bhikkhu <amaro@amaravati.org>,
+
+Ajahn Kevali <aj.kevali@forestsangha.net>,
+Wat Pah Nanachat <watpahnanachat19@gmail.com>,
+Ajahn Nyanadhammo <watratanawan@gmail.com>,
+Ajahn Vajiro <vajiro@vajiro.net>,
+
+Dhammagiri <dhgi@posteo.org>,
+office@dhammagiri.org.au,
+Ajahn Chandapalo <chandapalo@gmail.com>,
+
+Temple Forest Monastery <jayanto@jetagrove.us>,
+Jayanto Bhikkhu <b.jayanto@gmail.com>,
+
+Pacific Hermitage <hermitage@abhayagiri.org>,
+Sudanto Bhikkhu <sudanto@abhayagiri.org>,
+
+Lokuttara <lokuttara.secretary@gmail.com>,
+Ajahn Gavesako <gavesako@gmail.com>,
+kalyano bhikkhu <tankalyano@gmail.com>,
+
+Ahimsako Bhikkhu <ahimsako@gmail.com>,
+
+Sumedharama <mosteirotheravada@gmail.com>,
+Tisarana Buddhist Monastery <viradhammo@tisarana.ca>,
+Santacittarama <santacittarama@gmail.com>,
+Bodhinyanarama <ajahn@kusalo.net>,
+Vimutti Buddhist Monastery <vimutti.atba@gmail.com>,
+Dhammapala <info@dhammapala.ch>,
+Aruna Ratanagiri Buddhist Monastery <sangha@ratanagiri.org.uk>,
+Ajahn Munindo <ajahnmunindo@ratanagiri.org.uk>,
+ajahn@kusalo.net,
+gavesako@gmail.com,
+sucitto@gmail.com,
 
 Cittaviveka Buddhist Monastery <office@cittaviveka.org>,
 Ajahn Karuniko <b.karuniko@gmail.com>,
