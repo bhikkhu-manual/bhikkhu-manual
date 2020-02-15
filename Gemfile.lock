@@ -1,5 +1,5 @@
 PATH
-  remote: ./vendor/asciidoctor-epub3
+  remote: vendor/asciidoctor-epub3
   specs:
     asciidoctor-epub3 (1.5.0.alpha.9.dev)
       asciidoctor (~> 1.5.8.dev)
@@ -7,12 +7,12 @@ PATH
       thread_safe (~> 0.3.6)
 
 PATH
-  remote: ./vendor/asciidoctor
+  remote: vendor/asciidoctor
   specs:
     asciidoctor (1.5.8.dev)
 
 PATH
-  remote: ./vendor/gepub
+  remote: vendor/gepub
   specs:
     gepub (0.7.1)
       nokogiri (>= 1.8.2, < 1.9)
@@ -24,7 +24,7 @@ GEM
     mini_portile2 (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
-    rubyzip (1.2.1)
+    rubyzip (2.2.0)
     thread_safe (0.3.6)
 
 PLATFORMS
