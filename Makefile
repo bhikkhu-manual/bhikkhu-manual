@@ -7,6 +7,9 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
 
 all: document
 
+dist:
+	./helpers/dist.sh
+
 four-times:
 	./helpers/four-times.sh
 
