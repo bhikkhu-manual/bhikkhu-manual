@@ -1,5 +1,6 @@
 # Project output
 output/
+book/
 main.pdf
 
 # Emacs temp files

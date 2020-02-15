@@ -1,0 +1,4 @@
+# Bhikkhu Manual
+
+Index page.
+
