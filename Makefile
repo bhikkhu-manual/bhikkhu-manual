@@ -21,6 +21,9 @@ document:
 	mv $(FILE).fir.tmp $(FILE).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
+sass-watch:
+	node-sass -w ./assets/sass -o ./assets/stylesheets
+
 html:
 	asciidoctor -D output stillness-flowing.adoc
 

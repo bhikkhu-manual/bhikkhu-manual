@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700|Open+Sans:400,400i&display=swap&subset=latin-ext");
+body {
+  font-family: 'Open Sans', sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: 'Nunito Sans', sans-serif; }
+
+h1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+  word-spacing: 2pt; }
+
+.content h1 .header:link {
+  color: #4d4d4d; }
+
+#menu-bar {
+  position: inherit; }
+
+blockquote {
+  background: none;
+  border: none; }
+
+.english > blockquote p {
+  font-style: italic; }
+
+.instr > blockquote p {
+  font-weight: bold; }

@@ -59,7 +59,11 @@ Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
 Buddhaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
 Sabbepi antarāyā me māhesuṃ tassa tejasā
 
+<div class="instr">
+
 > (Bowing)
+
+</div>
 
 Kāyena vācāya va cetasā vā\
 Buddhe kukammaṃ pakataṃ mayā yaṃ\
@@ -93,7 +97,11 @@ Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
 Dhammaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
 Sabbepi antarāyā me māhesuṃ tassa tejasā
 
+<div class="instr">
+
 > (Bowing)
+
+</div>
 
 Kāyena vācāya va cetasā vā\
 Dhamme kukammaṃ pakataṃ mayā yaṃ\
@@ -132,7 +140,11 @@ Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
 Saṅghaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
 Sabbepi antarāyā me māhesuṃ tassa tejasā
 
+<div class="instr">
+
 > (Bowing)
+
+</div>
 
 Kāyena vācāya va cetasā vā\
 Saṅghe kukammaṃ pakataṃ mayā yaṃ\

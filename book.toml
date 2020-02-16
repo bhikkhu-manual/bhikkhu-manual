@@ -6,4 +6,5 @@ multilingual = false
 src = "manuscript/markdown"
 
 [output.html]
+additional-css = ["assets/stylesheets/book-custom.css"]
 curly-quotes = true
