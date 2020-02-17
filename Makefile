@@ -20,6 +20,14 @@ handbook:
 	mv $(FILE_HANDBOOK).fir.tmp $(FILE_HANDBOOK).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE_HANDBOOK).tex;
 
+chanting:
+	cat $(FILE_CHANTING).fir | \
+		sed '/\\contentsfinish/d' | \
+		sort > $(FILE_CHANTING).fir.tmp
+	echo '\\contentsfinish' >> $(FILE_CHANTING).fir.tmp
+	mv $(FILE_CHANTING).fir.tmp $(FILE_CHANTING).fir
+	$(LATEX) $(LATEX_OPTS) $(FILE_CHANTING).tex;
+
 sass-watch:
 	node-sass -w ./assets/sass -o ./assets/stylesheets
 
