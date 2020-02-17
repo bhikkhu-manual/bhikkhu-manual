@@ -234,8 +234,8 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {16}{16}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{13}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {20}{20}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{17}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -269,7 +269,7 @@
 \newcommand*\thai[1]{{\thaiFont #1}}
 
 \newcommand{\instrFmt}{%
-  \color{instruction}\instructionFont\upshape\fontsize{7.5}{10}\selectfont%
+  \color{instruction}\instructionFont\upshape\fontsize{10}{13}\selectfont%
 }
 
 \newcommand\pointerMark{\vspace*{-1pt}\blackpointerright}
@@ -1365,21 +1365,21 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\bfseries\fontsize{8.5}{13}\selectfont%
+  \sectionFont\bfseries\fontsize{11}{17}\selectfont%
   \color{section}%
   \memRTLraggedright%
   #1%
 }
 
 \newcommand\subsectionFmt[1]{%
-  \subSectionFont\fontsize{8.5}{13}\selectfont%
+  \subSectionFont\fontsize{11}{17}\selectfont%
   \itshape\color{section}%
   \memRTLraggedright%
   \prul{#1}%
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \subSectionFont\fontsize{8.5}{13}\selectfont%
+  \subSectionFont\fontsize{11}{17}\selectfont%
   \itshape\color{section}%
   \memRTLraggedright%
   \prul{#1}%
