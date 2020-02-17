@@ -1,6 +1,13 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700|Open+Sans:400,400i&display=swap&subset=latin-ext");
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap&subset=latin-ext");
+@font-face {
+  font-family: 'Open Sans X';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Open Sans X Regular"), local("OpenSansX-Regular"), url("../fonts/OpenSansX-Regular.woff2") format("woff2"), url("../fonts/OpenSansX-Regular.woff") format("woff"); }
+
 body {
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Open Sans X', sans-serif; }
 
 h1, h2, h3, h4 {
   font-family: 'Nunito Sans', sans-serif; }
