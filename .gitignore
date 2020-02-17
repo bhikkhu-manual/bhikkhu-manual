@@ -1,7 +1,8 @@
 # Project output
 output/
 book/
-main.pdf
+main_handbook.pdf
+main_chanting.pdf
 
 # Emacs temp files
 *~
@@ -29,6 +30,7 @@ tags
 *.fls
 *.fdb_latexmk
 *.fir
+*.upa
 auto/
 *.synctex.gz
 

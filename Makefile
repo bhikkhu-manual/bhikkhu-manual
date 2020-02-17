@@ -1,53 +1,28 @@
-FILE=main
+FILE_HANDBOOK=main_handbook
+FILE_CHANTING=main_chanting
 
 LATEX=lualatex
 BIBTEX=bibtex
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error -synctex=1
 
-all: document
+all:
+	@echo "Specify the make target, such as 'handbook' or 'chanting'."
 
 dist:
 	./helpers/dist.sh
 
-four-times:
-	./helpers/four-times.sh
-
-document:
-	cat $(FILE).fir | \
+handbook:
+	cat $(FILE_HANDBOOK).fir | \
 		sed '/\\contentsfinish/d' | \
-		sort > $(FILE).fir.tmp
-	echo '\\contentsfinish' >> $(FILE).fir.tmp
-	mv $(FILE).fir.tmp $(FILE).fir
-	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+		sort > $(FILE_HANDBOOK).fir.tmp
+	echo '\\contentsfinish' >> $(FILE_HANDBOOK).fir.tmp
+	mv $(FILE_HANDBOOK).fir.tmp $(FILE_HANDBOOK).fir
+	$(LATEX) $(LATEX_OPTS) $(FILE_HANDBOOK).tex;
 
 sass-watch:
 	node-sass -w ./assets/sass -o ./assets/stylesheets
 
-html:
-	asciidoctor -D output stillness-flowing.adoc
-
-epub:
-	./helpers/generate_epub.sh $(FILE)
-
-epub-validate:
-	EPUBCHECK=~/bin/epubcheck asciidoctor-epub3 -D output -a ebook-validate main.adoc
-
-mobi:
-	./helpers/generate_mobi.sh $(FILE)
-
-preview:
-	latexmk -pvc $(FILE).tex
-
-chapters-to-asciidoc:
-	./helpers/chapters_to_asciidoc.sh
-
-chapters-to-docx:
-	./helpers/chapters_to_docx.sh
-
-stylus-watch:
-	stylus -w ./vendor/asciidoctor-epub3/assets/styles/*.styl -o ./vendor/asciidoctor-epub3/data/styles/
-
-clean:
-	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}
+preview-handbook:
+	latexmk -pvc $(FILE_HANDBOOK).tex
 

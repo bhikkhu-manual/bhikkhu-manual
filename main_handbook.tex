@@ -1,0 +1,134 @@
+\documentclass[
+  final,
+  babelLanguage=british,
+  desktopVersion,
+  %showtrims,
+  %overleaf,
+]{anecdote}
+
+%\graphicspath{{./assets/photos/300dpi/}}
+\graphicspath{{./assets/photos/92dpi/}}
+
+% New Page size: 155mm x 110mm
+% (Old Page size: 140mm x 95mm)
+%
+% Body text: 9.5 / 13.5 pt
+
+\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Bhikkhu Manual}
+\subtitle{Essential Chants and Vinaya Notes}
+\author{Forest Sangha Publications}
+\publisher{Forest Sangha Publications}
+\date{2019-01-21}% chktex 8
+\editionInfo{\textit{Fourth edition}, 2020}
+\ISBN{000-000-0000-00-0}% TODO update ISBN % chktex 8
+
+% === Metadata ===
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2020, \thePublisher},
+  pdfsubject={},% TODO subject
+  pdfkeywords={},% TODO keywords
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={},
+  pdflang={en},
+}
+
+% FIXME \pdfinfo
+%\pdfinfo{%
+%  /Title (\thetitle)%
+%  /Author (\theauthor)
+%  /Subject (subject)% TODO subject
+%  /Keywords (keywords)% TODO keywords
+%  /GTS_PDFXVersion (PDF/X-1:2001)%
+%  /GTS_PDFXConformance (PDF/X-1a:2001)%
+%}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{London}
+
+\openany%
+
+\begin{document}
+
+\frontmatter
+
+%\ifdesktopversion
+%\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.png}}
+%\fi
+
+\input{./manuscript/tex/titlepage.tex}
+
+\input{./manuscript/tex/copyright.tex}
+
+\input{./manuscript/tex/dedication.tex}
+
+\input{./manuscript/tex/abbreviations.tex}
+
+\cleartorecto
+\pagestyle{toponerow-frontmatter}
+\tableofcontents*
+
+\clearpage
+\listfirstlines*
+
+\input{./manuscript/tex/preface.tex}
+
+\mainmatter
+\pagestyle{toponerow}
+
+\cleartorecto
+\part{Essential Chants}
+
+{\raggedright
+
+\input{./manuscript/tex/chants/morning-chanting.tex}
+\input{./manuscript/tex/chants/evening-chanting.tex}
+\input{./manuscript/tex/chants/reflections.tex}
+\input{./manuscript/tex/chants/parittas.tex}
+\input{./manuscript/tex/chants/sri-lanka.tex}
+\input{./manuscript/tex/chants/anumodana.tex}
+\input{./manuscript/tex/chants/funeral-chants.tex}
+\input{./manuscript/tex/chants/suttas.tex}
+\input{./manuscript/tex/chants/patimokkha-chants.tex}
+
+}
+
+\cleartorecto
+\part{Vinaya Notes}
+
+\input{./manuscript/tex/vinaya/ocean-quote.tex}
+\input{./manuscript/tex/vinaya/guidelines.tex}
+\input{./manuscript/tex/vinaya/requisites.tex}
+\input{./manuscript/tex/vinaya/offences.tex}
+\input{./manuscript/tex/vinaya/uposatha.tex}
+\input{./manuscript/tex/vinaya/rains-and-kathina.tex}
+\input{./manuscript/tex/vinaya/other-procedures.tex}
+\input{./manuscript/tex/vinaya/useful-notes.tex}
+
+\appendix
+
+\cleartorecto
+\part{Appendix}
+
+\input{./manuscript/tex/pali-phonetics-and-pronunciation.tex}
+\input{./manuscript/tex/dhamma-quotes.tex}
+
+\backmatter
+
+\input{./manuscript/tex/bibliography.tex}
+
+\input{./manuscript/tex/copyright-details.tex}
+
+\emptypage%
+
+\end{document}
