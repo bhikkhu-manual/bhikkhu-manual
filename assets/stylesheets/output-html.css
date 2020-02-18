@@ -6,23 +6,11 @@
   font-display: swap;
   src: local("Open Sans X Regular"), local("OpenSansX-Regular"), url("../fonts/OpenSansX-Regular.woff2") format("woff2"), url("../fonts/OpenSansX-Regular.woff") format("woff"); }
 
-body {
-  font-family: 'Open Sans X', sans-serif; }
-
-h1, h2, h3, h4 {
-  font-family: 'Nunito Sans', sans-serif; }
-
 h1 {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1pt;
   word-spacing: 2pt; }
-
-.content h1 .header:link {
-  color: #4d4d4d; }
-
-#menu-bar {
-  position: inherit; }
 
 blockquote {
   background: none;
@@ -33,3 +21,15 @@ blockquote {
 
 .instr > blockquote p {
   font-weight: bold; }
+
+body {
+  font-family: 'Open Sans X', sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: 'Nunito Sans', sans-serif; }
+
+.content h1 .header:link {
+  color: #4d4d4d; }
+
+#menu-bar {
+  position: inherit; }

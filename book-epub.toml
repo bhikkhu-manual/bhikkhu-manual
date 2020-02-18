@@ -12,3 +12,7 @@ create-missing = true
 [output.html]
 additional-css = ["assets/stylesheets/output-html.css"]
 curly-quotes = true
+
+[output.epub]
+additional-css = ["/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_main/assets/stylesheets/output-epub.css"]
+use-default-css = false

@@ -6,15 +6,19 @@
 
 ## Downlads
 
-**Bhikkhu Manual, Handbook**
+**Bhikkhu Manual Handbook: Essential Chants and Vinaya Notes**
 
-- [PDF, handbook size](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Handbook.pdf)
+(A6 page size, 148mm x 105mm)
 
-**Bhikkhu Manual, Combined Chanting Reference**
+- [PDF](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Handbook.pdf)
 
-- [PDF for desktop and printing, A5 size](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Combined-Chanting.pdf)
-- [EPUB for phones and tablets](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Combined-Chanting.epub)
-- [MOBI for Kindle](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Combined-Chanting.mobi)
+**Bhikkhu Manual Reference: All Chants with English Translations and Vinaya Notes**
+
+(A5 page size, 210mm x 148mm)
+
+- [PDF for desktop and printing](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Reference.pdf)
+- [EPUB for phones and tablets](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Reference.epub)
+- [MOBI for Kindle](https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Reference.mobi)
 
 ## Further references
 
