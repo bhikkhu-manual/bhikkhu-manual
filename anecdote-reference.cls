@@ -1431,6 +1431,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
+% A5 page size
 \setlength{\BOOK@paperHeight}{210mm}
 \setlength{\BOOK@paperWidth}{148mm}
 

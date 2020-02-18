@@ -1431,8 +1431,9 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
-\setlength{\BOOK@paperHeight}{155mm}
-\setlength{\BOOK@paperWidth}{110mm}
+% A6 page size
+\setlength{\BOOK@paperHeight}{148mm}
+\setlength{\BOOK@paperWidth}{105mm}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1449,9 +1450,9 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{26\baselineskip + \topskip}{85mm}{*}
+\settypeblocksize{24\baselineskip + \topskip}{85mm}{*}
 \setlrmargins{*}{10mm}{*}
-\setulmargins{42pt}{*}{*}
+\setulmargins{16mm}{*}{*}
 \setmarginnotes{7pt}{14pt}{5pt}
 
 \setlength{\footskip}{15pt}
