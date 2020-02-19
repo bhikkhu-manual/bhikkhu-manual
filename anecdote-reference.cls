@@ -1210,6 +1210,14 @@ philo-sophical munindo amaravati thai-land}
 
 % === Chapter styles ===
 
+% NOTE: Sub-section ref. numbers are used in the vinaya notes, such as:
+% 
+% 'If more than one article is to be shared substitute the plural form as in
+% sec. 10.4.1 above.'
+% 
+% Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
+% the content separation to still number them.
+
 \setsecnumdepth{subsubsection}
 
 % define chapter styles with "fantasy" names
