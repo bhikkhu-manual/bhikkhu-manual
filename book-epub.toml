@@ -14,5 +14,7 @@ additional-css = ["assets/stylesheets/output-html.css"]
 curly-quotes = true
 
 [output.epub]
-additional-css = ["/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_main/assets/stylesheets/output-epub.css"]
+additional-css = ["assets/stylesheets/output-epub.css"]
 use-default-css = false
+cover-image = "handbook-cover.png"
+additional-resources = ["assets/fonts/NunitoSans-Regular.ttf", "assets/fonts/NunitoSans-Italic.ttf", "assets/fonts/NunitoSans-Bold.ttf", "assets/fonts/OpenSansX-Regular.ttf"]

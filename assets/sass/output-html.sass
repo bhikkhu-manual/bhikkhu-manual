@@ -2,16 +2,15 @@
 // Nunito Sans: Regular, Italic, Light
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap&subset=latin-ext')
 
-// Open Sans: Regular
-@import 'typefaces'
+// Path is relative to the folder of output-html.css
+@font-face
+  font-family: 'Open Sans X'
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src: local('Open Sans X Regular'), local('OpenSansX-Regular'), url('../fonts/OpenSansX-Regular.woff2') format('woff2'), url('../fonts/OpenSansX-Regular.woff') format('woff')
 
 @import 'base'
-
-body
-  font-family: 'Open Sans X', sans-serif
-
-h1, h2, h3, h4
-  font-family: 'Nunito Sans', sans-serif
 
 .content h1 .header:link
   color: hsl(0, 0%, 30.0%)

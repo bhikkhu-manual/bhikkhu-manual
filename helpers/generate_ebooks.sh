@@ -36,11 +36,10 @@ fi
 
 ~/lib/kindlegen/kindlegen "./$EPUB_FILE" -dont_append_source -c1 -verbose
 
-# NOTE: Kindlegen will warn about the missing cover.
-# if [ "$?" != "0" ]; then
-#     echo "Error, exiting."
-#     exit 2
-# fi
+if [ "$?" != "0" ]; then
+    echo "Error, exiting."
+    exit 2
+fi
 
 mv "./$EPUB_FILE" "./manuscript/markdown/includes/docs"
 mv "./$MOBI_FILE" "./manuscript/markdown/includes/docs"
