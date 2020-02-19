@@ -98,6 +98,23 @@ Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 *A.III.71f*
 
+## Five Subjects for Frequent Recollection (English)
+
+I am of the nature to age, I have not gone beyond ageing.
+
+I am of the nature to sicken, I have not gone beyond sickness.
+
+I am of the nature to die, I have not gone beyond dying.
+
+All that is mine, beloved and pleasing,\
+will become otherwise, will become separated from me.
+
+I am the owner of my kamma, heir to my kamma, born of my kamma,\
+related to my kamma, abide supported by my kamma.\
+Whatever kamma I shall do, for good or for ill, of that I will be the heir.
+
+Thus we should frequently recollect.
+
 ## Ten Subjects for Frequent Recollection<a id="dasa-ime-bhikkhave"></a>
 
 > [Handa mayaṃ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]

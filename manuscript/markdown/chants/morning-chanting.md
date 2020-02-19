@@ -23,11 +23,38 @@ satthā, yassa ca mayaṃ bhagavato dhammaṃ rocema
 
 Imehi sakkārehi taṃ bhagavantaṃ sasaddhammaṃ sasāvakasaṅghaṃ abhipūjayāma.]
 
+## Dedication of Offerings (English)
+
+To the Blessed One, the Lord, who fully attained perfect enlightenment,\
+To the Teaching which he expounded so well,\
+And to the Blessed One's disciples who have practised well,\
+To these --- the Buddha, the Dhamma, and the Saṅgha ---\
+We render with offerings our rightful homage.\
+It is well for us that the Blessed One, having attained liberation,\
+Still had compassion for later generations.\
+May these simple offerings be accepted\
+For our long-lasting benefit and for the happiness it gives us.
+
+The Lord, the Perfectly Enlightened and Blessed One ---\
+I render homage to the Buddha, the Blessed One.
+
+The Teaching so completely explained by him ---\
+I bow to the Dhamma.
+
+The Blessed One's disciples who have practised well ---\
+I bow to the Saṅgha.
+
 ## Preliminary Homage
 
 > [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
 
 Namo tassa bhagavato arahato sammāsambuddhassa (×3)
+
+## Preliminary Homage (English)
+
+> [Now let us pay preliminary homage to the Buddha.]
+
+Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
 
 ## Homage to the Buddha
 
@@ -44,6 +71,23 @@ Yo dhammaṃ desesi ādi-kalyāṇaṃ majjhe-kalyāṇaṃ pariyosāna-kalyā�
 Sātthaṃ sabyañjanaṃ kevala-paripuṇṇaṃ parisuddhaṃ brahma-cariyaṃ pakāsesi\
 Tam-ahaṃ bhagavantaṃ abhipūjayāmi tam-ahaṃ bhagavantaṃ sirasā namāmi
 
+## Homage to the Buddha (English)
+
+> [Now let us chant in praise of the Buddha.]
+
+The Tathāgata is the Pure One, the Perfectly Enlightened One.\
+He is impeccable in conduct and understanding,\
+The Accomplished One,\
+The Knower of the Worlds.\
+He trains perfectly those who wish to be trained.\
+He is Teacher of gods and humans.\
+He is awake and holy.\
+In this world with its gods, demons, and kind spirits,\
+Its seekers and sages, celestial and human beings, he has by deep insight revealed the Truth.\
+He has pointed out the Dhamma: beautiful in the beginning, beautiful in the middle, beautiful in the end.\
+He has explained the Spiritual Life of complete purity in its essence and conventions.\
+I chant my praise to the Blessed One, I bow my head to the Blessed One.
+
 ## Homage to the Dhamma
 
 > [Handa mayaṃ dhammābhitthutiṃ karomase]
@@ -52,6 +96,18 @@ Yo so svākkhāto bhagavatā dhammo\
 Sandiṭṭhiko, akāliko, ehipassiko, opanayiko\
 Paccattaṃ veditabbo viññūhi\
 Tam-ahaṃ dhammaṃ abhipūjayāmi tam-ahaṃ dhammaṃ sirasā namāmi
+
+## Homage to the Dhamma (English)
+
+> [Now let us chant in praise of the Dhamma.]
+
+The Dhamma is well expounded by the Blessed One,\
+Apparent here and now,\
+Timeless,\
+Encouraging investigation,\
+Leading inwards,\
+To be experienced individually by the wise.\
+I chant my praise to this Teaching, I bow my head to this Truth.
 
 ## Homage to the Saṅgha
 
@@ -66,6 +122,23 @@ Esa bhagavato sāvakasaṅgho\
 Āhuneyyo, pāhuneyyo, dakkhiṇeyyo, añjali-karaṇīyo\
 Anuttaraṃ puññakkhettaṃ lokassa\
 Tam-ahaṃ saṅghaṃ abhipūjayāmi tam-ahaṃ saṅghaṃ sirasā namāmi
+
+## Homage to the Saṅgha (English)
+
+> [Now let us chant in praise of the Saṅgha.]
+
+They are the Blessed One's disciples, who have practised well,\
+Who have practised directly,\
+Who have practised insightfully,\
+Those who practise with integrity ---\
+That is the four pairs, the eight kinds of noble beings ---\
+These are the Blessed One's disciples.\
+Such ones are worthy of gifts,\
+Worthy of hospitality,\
+Worthy of offerings,\
+Worthy of respect;\
+They give occasion for incomparable goodness to arise in the world.\
+I chant my praise to this Saṅgha, I bow my head to this Saṅgha.
 
 ## Salutation to the Triple Gem<a id="buddho-susuddho"></a>
 
@@ -135,6 +208,82 @@ Tasmiṃ bhagavati brahma-cariyaṃ carāma\
 Bhikkhūnaṃ/Sīladharānaṃ sikkhāsājīva-samāpannā\
 Taṃ no brahma-cariyaṃ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṃvattatu
 
+## Salutation to the Triple Gem (English)
+
+> [Now let us chant our salutation to the Triple Gem and a passage to arouse urgency.]
+
+The Buddha, absolutely pure, with ocean-like compassion,\
+Possessing the clear sight of wisdom,\
+Destroyer of worldly self-corruption ---\
+Devotedly indeed, that Buddha I revere.\
+The Teaching of the Lord, like a lamp,\
+Illuminating the Path and its Fruit: the Deathless,\
+That which is beyond the conditioned world ---\
+Devotedly indeed, that Dhamma I revere.\
+The Saṅgha, the most fertile ground for cultivation,\
+Those who have realized peace, awakened after the Accomplished One,\
+Noble and wise, all longing abandoned ---\
+Devotedly indeed, that Saṅgha I revere.
+
+This salutation should be made to that which is worthy.\
+Through the power of such good action, may all obstacles disappear.\
+One who knows things as they are has come into this world; and he is an Arahant, a perfectly Awakened being,\
+Purifying the way leading out of delusion, calming and directing to perfect peace, and leading to enlightenment --- this Way he has made known.
+
+Having heard the Teaching, we know this:\
+Birth is dukkha,\
+Ageing is dukkha,\
+And death is dukkha;\
+Sorrow, lamentation, pain, grief, and despair are dukkha;\
+Association with the disliked is dukkha;\
+Separation from the liked is dukkha;\
+Not attaining one's wishes is dukkha.\
+In brief, the five focuses of identity are dukkha.
+
+These are as follows:\
+Attachment to form,\
+Attachment to feeling,\
+Attachment to perception,\
+Attachment to mental formations,\
+Attachment to sense-consciousness.\
+For the complete understanding of this,\
+The Blessed One in his lifetime frequently instructed his disciples in just this way.
+
+In addition, he further instructed:\
+Form is impermanent,\
+Feeling is impermanent,\
+Perception is impermanent,\
+Mental formations are impermanent,\
+Sense-consciousness is impermanent;
+
+Form is not-self,\
+Feeling is not-self,\
+Perception is not-self,\
+Mental formations are not-self,\
+Sense-consciousness is not-self;\
+All conditions are transient,\
+There is no self in the created or the uncreated.\
+All of us are bound by birth, ageing, and death,\
+By sorrow, lamentation, pain, grief, and despair,\
+Bound by dukkha and obstructed by dukkha.\
+Let us all aspire to complete freedom from suffering.
+
+> The following is chanted only by the monks and nuns.
+
+Remembering the Blessed One, the Noble Lord, and Perfectly Enlightened One, who long ago attained Parinibbāna,\
+We have gone forth with faith from home to homelessness,\
+And like the Blessed One, we practise the Holy Life,\
+Being fully equipped with the bhikkhus'/nuns' system of training.\
+May this Holy Life lead us to the end of this whole mass of suffering.\
+
+> An alternative version of the preceding section, which can be chanted by laypeople as well.
+
+The Blessed One, who long ago attained Parinibbāna, is our refuge.\
+So too are the Dhamma and the Saṅgha.\
+Attentively we follow the pathway of that Blessed One, with all of our mindfulness and strength.\
+May then the cultivation of this practice\
+Lead us to the end of every kind of suffering.
+
 ## Closing Homage
 
 [Arahaṃ] sammāsambuddho bhagavā\
@@ -145,4 +294,15 @@ Dhammaṃ namassāmi
 
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
+
+## Closing Homage (English)
+
+The Lord, the Perfectly Enlightened and Blessed One ---\
+I render homage to the Buddha, the Blessed One.
+
+The Teaching, so completely explained by him ---\
+I bow to the Dhamma.
+
+The Blessed One's disciples, who have practised well ---\
+I bow to the Saṅgha.
 
