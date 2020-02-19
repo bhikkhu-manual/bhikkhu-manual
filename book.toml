@@ -12,8 +12,3 @@ create-missing = true
 [output.html]
 additional-css = ["assets/stylesheets/output-html.css"]
 curly-quotes = true
-
-[output.epub]
-additional-css = ["assets/stylesheets/output-epub.css"]
-use-default-css = false
-cover-image = "handbook-cover.pn"
