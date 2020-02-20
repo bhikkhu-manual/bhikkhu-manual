@@ -31,6 +31,9 @@ reference:
 	mv $(FILE_REFERENCE).fir.tmp $(FILE_REFERENCE).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE_REFERENCE).tex;
 
+sass:
+	node-sass ./assets/sass -o ./assets/stylesheets
+
 sass-watch:
 	node-sass -w ./assets/sass -o ./assets/stylesheets
 

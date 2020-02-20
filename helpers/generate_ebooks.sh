@@ -10,6 +10,12 @@ MOBI_FILE="$EBOOK_NAME.mobi"
 mv book.toml book-html.toml
 cp book-epub.toml book.toml
 
+# Use titlepage-ebook.md for a simple title page
+cd manuscript/markdown
+mv titlepage.md titlepage-html.md
+cp titlepage-ebook.md titlepage.md
+cd ../..
+
 $MDBOOK_EPUB_BIN --standalone
 
 if [ "$?" != "0" ]; then
@@ -19,6 +25,9 @@ fi
 
 # Restore
 mv book-html.toml book.toml
+cd manuscript/markdown
+mv titlepage-html.md titlepage.md
+cd ../..
 
 mv "./book/epub/Bhikkhu Manual.epub" "./$EPUB_FILE"
 

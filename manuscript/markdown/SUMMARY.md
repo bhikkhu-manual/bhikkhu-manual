@@ -1,6 +1,6 @@
 # Summary
 
-[Bhikkhu Manual](bhikkhu-manual.md)
+[Bhikkhu Manual](titlepage.md)
 
 [List of First Lines](first-lines.md)
 
@@ -26,5 +26,7 @@
 - [Appendix](appendix.md)
   - [Pāli Phonetics and Pronunciation](pali-phonetics-and-pronunciation.md)
   - [Dhamma Quotes](dhamma-quotes.md)
+
+- [Print Guide](print-guide.md)
 
 - [Copyright](copyright.md)
