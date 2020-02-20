@@ -1,12 +1,8 @@
-# Bhikkhu Manual
-
 <div class="titlepage-cover">
-
-![Bhikkhu Manual](./includes/images/handbook-cover.png)
-
+  <img src="./includes/images/dhammacakka-circle_w600.jpg" alt="Bhikkhu Manual" />
+  <h1>Bhikkhu Manual</h1>
+  <a href="https://bhikkhu-manual.github.io">bhikkhu-manual.github.io</a>
 </div>
-
-<https://bhikkhu-manual.github.io>
 
 ## Downlads
 
