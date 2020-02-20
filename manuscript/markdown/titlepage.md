@@ -1,5 +1,5 @@
 <div class="titlepage-cover">
-  <img src="./includes/images/dhammacakka-circle_w600.jpg" alt="Bhikkhu Manual" />
+  <img src="./includes/images/dhammacakka-circle_w300.png" alt="Bhikkhu Manual" />
   <h1>Bhikkhu Manual</h1>
   <a href="https://bhikkhu-manual.github.io">bhikkhu-manual.github.io</a>
 </div>
