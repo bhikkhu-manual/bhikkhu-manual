@@ -268,7 +268,11 @@ By sorrow, lamentation, pain, grief, and despair,\
 Bound by dukkha and obstructed by dukkha.\
 Let us all aspire to complete freedom from suffering.
 
+<div class="instr">
+
 > The following is chanted only by the monks and nuns.
+
+</div>
 
 Remembering the Blessed One, the Noble Lord, and Perfectly Enlightened One, who long ago attained Parinibbāna,\
 We have gone forth with faith from home to homelessness,\
@@ -276,7 +280,11 @@ And like the Blessed One, we practise the Holy Life,\
 Being fully equipped with the bhikkhus'/nuns' system of training.\
 May this Holy Life lead us to the end of this whole mass of suffering.\
 
+<div class="instr">
+
 > An alternative version of the preceding section, which can be chanted by laypeople as well.
+
+</div>
 
 The Blessed One, who long ago attained Parinibbāna, is our refuge.\
 So too are the Dhamma and the Saṅgha.\

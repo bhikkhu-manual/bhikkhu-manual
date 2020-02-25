@@ -10,18 +10,18 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="120.95238"
    inkscape:export-xdpi="120.95238"
-   inkscape:export-filename="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_main/handbook-cover.png"
+   inkscape:export-filename="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_main/reference-cover.png"
    width="105mm"
    height="148mm"
    viewBox="0 0 105 148"
    version="1.1"
    id="svg8"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   sodipodi:docname="handbook-cover.svg">
+   sodipodi:docname="reference-cover.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="false"
@@ -32,11 +32,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="73.432596"
-     inkscape:cy="340.63628"
+     inkscape:zoom="1.4"
+     inkscape:cx="58.853509"
+     inkscape:cy="359.00309"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-page="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,6 @@
        id="image3379" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="text">
@@ -127,23 +126,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="29.944376"
-       y="123.49583"
+       x="30.291641"
+       y="118.20416"
        id="text7759"><tspan
-         sodipodi:role="line"
-         id="tspan7757"
-         x="29.944376"
-         y="123.49583"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#faa41b;fill-opacity:1;stroke-width:0.264583">Handbook Edition</tspan></text>
+         y="118.20416"
+         x="30.291641"
+         id="tspan2036"
+         sodipodi:role="line">Reference Edition</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.254866"
-       y="132.18796"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#faa41b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.3507"
+       y="129.01295"
        id="text7763"><tspan
-         sodipodi:role="line"
-         id="tspan7771"
-         x="16.254866"
-         y="132.18796">Essential Chants and Vinaya Notes</tspan></text>
+         y="129.01295"
+         x="54.3507"
+         id="tspan2038"
+         sodipodi:role="line">All Chants with English Translations</tspan><tspan
+         y="136.06851"
+         x="54.3507"
+         id="tspan2040"
+         sodipodi:role="line">and Vinaya Notes</tspan></text>
   </g>
 </svg>

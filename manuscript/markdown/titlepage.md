@@ -13,7 +13,7 @@
     <img src="./includes/images/handbook-cover.png" alt="Bhikkhu Manual Handbook" />
   </div>
   <div class="col-2-3 item-description">
-    <h3>Bhikkhu Manual Handbook</h3>
+    <h3>Bhikkhu Manual Handbook Edition</h3>
     <p><em>Essential Chants and Vinaya Notes</em></p>
     <p><a href="https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Handbook.pdf">PDF</a></p>
   </div>
@@ -21,10 +21,10 @@
 
 <div class="grid download-item">
   <div class="col-1-3 item-cover">
-    <img src="./includes/images/handbook-cover.png" alt="Bhikkhu Manual Reference" />
+    <img src="./includes/images/reference-cover.png" alt="Bhikkhu Manual Reference" />
   </div>
   <div class="col-2-3 item-description">
-    <h3>Bhikkhu Manual Reference</h3>
+    <h3>Bhikkhu Manual Reference Edition</h3>
     <p><em>All Chants with English Translations and Vinaya Notes</em></p>
     <p><a href="https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Reference.pdf">PDF for desktop and office printing</a></p>
     <p><a href="https://bhikkhu-manual.github.io/includes/docs/Bhikkhu-Manual-Reference.epub">EPUB for phones and tablets</a></p>

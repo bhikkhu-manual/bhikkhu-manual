@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="dhammacakka-circle.svg"
+   id="svg1193"
+   version="1.1"
+   viewBox="-600 -400 600 600"
+   height="600"
+   width="600"
+   inkscape:export-filename="/home/yume/prods/books/alpha/bhikkhu-manual/bhikkhu-manual_main/assets/dhammacakka-circle.png"
+   inkscape:export-xdpi="300.01077"
+   inkscape:export-ydpi="300.01077">
+  <metadata
+     id="metadata1199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1197" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg1193"
+     inkscape:window-maximized="1"
+     inkscape:window-y="37"
+     inkscape:window-x="0"
+     inkscape:cy="378.40067"
+     inkscape:cx="211.55091"
+     inkscape:zoom="0.73598031"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:snap-center="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview1195"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       id="guide1201"
+       orientation="1,0"
+       position="300,300" />
+    <sodipodi:guide
+       id="guide1203"
+       orientation="0,-1"
+       position="300,300" />
+  </sodipodi:namedview>
+  <g
+     inkscape:export-ydpi="115.04"
+     inkscape:export-xdpi="115.04"
+     transform="translate(-300,-100)"
+     id="g1297">
+    <circle
+       style="fill:#faa41b;stroke:none;stroke-width:1.00157"
+       id="path1205"
+       cx="0"
+       cy="0"
+       r="291.53217" />
+    <g
+       transform="scale(0.4)"
+       id="g1191">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0.01,750 a 750,750 0 1 0 -0.02,0 z M -0.01,525 a 525,525 0 1 1 0.02,0 z M 0.01,242 a 242,242 0 1 0 -0.02,0 z M -0.01,55 a 55,55 0 1 1 0.02,0 z"
+         fill="#C00"
+         id="path1037" />
+      <g
+         fill="none"
+         stroke="#FAA41B"
+         id="g1057">
+        <circle
+           cy="0"
+           cx="0"
+           r="67"
+           stroke-width="10"
+           id="circle1039" />
+        <circle
+           cy="0"
+           cx="0"
+           r="93"
+           stroke-width="8"
+           id="circle1041" />
+        <circle
+           cy="0"
+           cx="0"
+           r="121"
+           stroke-width="7"
+           id="circle1043" />
+        <circle
+           cy="0"
+           cx="0"
+           r="170"
+           stroke-width="74"
+           id="circle1045" />
+        <circle
+           cy="0"
+           cx="0"
+           r="221"
+           stroke-width="12"
+           id="circle1047" />
+        <circle
+           cy="0"
+           cx="0"
+           r="538.5"
+           stroke-width="11"
+           id="circle1049" />
+        <circle
+           cy="0"
+           cx="0"
+           r="595"
+           stroke-width="16"
+           id="circle1051" />
+        <circle
+           cy="0"
+           cx="0"
+           r="663"
+           stroke-width="23.5"
+           id="circle1053" />
+        <circle
+           cy="0"
+           cx="0"
+           r="722.5"
+           stroke-width="16"
+           id="circle1055" />
+      </g>
+      <g
+         fill="#FAA41B"
+         id="g1189">
+        <g
+           id="layer1x3">
+          <g
+             id="layer1"
+             stroke="#C00"
+             stroke-width="7">
+            <g
+               stroke="none"
+               id="g1063">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M -73,461 V 418 H 73 v 43 H 44 v 29 h -88 v -29 z"
+                 fill="#C00"
+                 id="path1059" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m -15,418 v -25 h 30 v 25 z"
+                 id="path1061" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               d="M 263.55,456.48 A 527.1,527.1 0 0 1 0,527.1 v -35.93 h 84.53 a 58,58 0 0 1 44.75,-7.82 58,58 0 0 1 44.55,-15.02 l 71.76,-42.96 z"
+               id="path1065" />
+            <g
+               id="column">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,290 v 98 c 0,20.7 21.5,25.6 39,17.5 V 244 Z"
+                 id="path1067" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 29.3,240 v 148 c 0,18 16.4,21.4 29.7,19.9 a 6.1,6.1 0 0 0 6,-9.3 7.1,13 0 0 1 -7.1,-13 v -82.2 a 7.1,13 0 0 1 7.1,-13 v -10 z"
+                 id="path1069" />
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#column"
+               transform="scale(-1,1)"
+               id="use1072" />
+          </g>
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#layer1"
+             transform="rotate(30)"
+             id="use1075" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#layer1"
+             transform="rotate(60)"
+             id="use1077" />
+        </g>
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#layer1x3"
+           transform="rotate(90)"
+           id="use1080" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#layer1x3"
+           transform="scale(-1)"
+           id="use1082" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#layer1x3"
+           transform="rotate(-90)"
+           id="use1084" />
+        <g
+           id="half">
+          <g
+             id="quarter">
+            <g
+               id="twelfth">
+              <g
+                 stroke="#C00"
+                 stroke-width="6"
+                 stroke-linejoin="round"
+                 id="g1106">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m -21.47,233.21 a 234,234 0 0 0 42.94,0 26.22,12.94 0 0 0 -11,17.79 c -16.03,-17.89 33.89,-25.86 16.47,15.93 a 15,15 0 0 0 -7.15,-8.02 19.5,24.6 50.3 0 1 0.07,24.74 C 13.8,291.33 2.48,303.9 -0.11,310.59 -2.48,303.9 -13.8,291.33 -19.86,283.65 a 19.5,24.6 50.3 0 1 0.07,-24.74 15,15 0 0 0 -7.15,8.02 C -44.36,225.14 5.56,233.11 -10.47,251 a 26.22,12.94 0 0 0 -11,-17.79 z"
+                   transform="rotate(15)"
+                   id="path1086" />
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m -75.62,425.3 a 8.63,8.63 0 0 1 0.87,-17.15 1200,1200 0 0 0 149.5,0 8.63,8.63 0 0 1 0.87,17.15 1200,1200 0 0 1 -151.24,0 z m -3.61,45.25 a 8.3003388,8.3003388 0 0 1 -0.15,-16.6 1200,1200 0 0 0 158.76,0 8.3003388,8.3003388 0 0 1 -0.15,16.6 1200,1200 0 0 1 -158.46,0 z M 0,524 -20.77,505.37 a 13,13 0 0 1 -0.13,-17.7 l -6.6,5.16 a 15,15 0 0 1 -1.87,-18.9 h 58.74 a 15,15 0 0 1 -1.87,18.9 l -6.6,-5.16 a 13,13 0 0 1 -0.13,17.7 z"
+                   id="path1088" />
+                <g
+                   stroke-width="7"
+                   id="g1093">
+                  <path
+                     inkscape:connector-curvature="0"
+                     d="m 0,298.55 c -5.5,-10.45 -17,-19.4 -22.12,-28.53 a 8.17,13.26 0 0 1 1.18,-20.5 l -7.16,6.16 a 15,18.64 0 0 1 -0.67,-23.7 233.76,233.76 0 0 0 57.54,0 15,18.64 0 0 1 -0.67,23.7 l -7.16,-6.16 a 8.17,13.26 0 0 1 1.18,20.5 C 17,279.15 5.5,288.1 0,298.55 Z"
+                     id="path1090" />
+                  <circle
+                     cx="0"
+                     id="c13_3"
+                     cy="441.60001"
+                     r="13.3" />
+                </g>
+                <g
+                   id="halfSeg">
+                  <path
+                     inkscape:connector-curvature="0"
+                     d="m 72.14,471.85 -11.8,10.33 a 6.02,11.35 30 0 0 -3.6,15.03 14.02949,13.068405 5 0 1 28.04,0.81 25.7,29.7 -8 1 1 -42.58,-25.97 z"
+                     id="path1095" />
+                  <use
+                     height="100%"
+                     width="100%"
+                     y="0"
+                     xlink:href="#c13_3"
+                     x="26.5"
+                     id="use1097" />
+                  <use
+                     height="100%"
+                     width="100%"
+                     xlink:href="#c13_3"
+                     x="53"
+                     y="-1"
+                     id="use1099" />
+                  <use
+                     height="100%"
+                     width="100%"
+                     xlink:href="#c13_3"
+                     x="79.5"
+                     y="-2.4000001"
+                     id="use1101" />
+                </g>
+                <use
+                   height="100%"
+                   width="100%"
+                   y="0"
+                   x="0"
+                   xlink:href="#halfSeg"
+                   transform="scale(-1,1)"
+                   id="use1104" />
+              </g>
+              <g
+                 id="s3x3">
+                <circle
+                   cx="0"
+                   id="s3"
+                   cy="565.5"
+                   r="13.5" />
+                <use
+                   height="100%"
+                   width="100%"
+                   y="0"
+                   x="0"
+                   xlink:href="#s3"
+                   transform="rotate(3.33)"
+                   id="use1109" />
+                <use
+                   height="100%"
+                   width="100%"
+                   y="0"
+                   x="0"
+                   xlink:href="#s3"
+                   transform="rotate(6.67)"
+                   id="use1111" />
+              </g>
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s3x3"
+                 transform="rotate(10)"
+                 id="use1114" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s3x3"
+                 transform="rotate(20)"
+                 id="use1116" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="s4"
+                 d="M 17.4,130 22.2,168.9 0,187.4 -22.2,168.9"
+                 fill="none"
+                 stroke="#C00"
+                 stroke-width="5" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s4"
+                 transform="rotate(15)"
+                 id="use1119" />
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twelfth"
+               transform="rotate(30)"
+               id="use1122" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twelfth"
+               transform="rotate(60)"
+               id="use1124" />
+            <g
+               id="twentieth">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="s1"
+                 d="m 0,679.5 a 28.6,12.9 45 0 0 31,15 16.2,18.6 -45 0 1 -31,6 16.2,18.6 45 0 1 -31,-6 32,10 -45 0 0 31,-15 z" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s1"
+                 transform="rotate(6)"
+                 id="use1127" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s1"
+                 transform="rotate(12)"
+                 id="use1129" />
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twentieth"
+               transform="rotate(18)"
+               id="use1132" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twentieth"
+               transform="rotate(36)"
+               id="use1134" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twentieth"
+               transform="rotate(54)"
+               id="use1136" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#twentieth"
+               transform="rotate(72)"
+               id="use1138" />
+            <g
+               id="sixteenth">
+              <g
+                 id="s2">
+                <circle
+                   cx="0"
+                   id="r9"
+                   cy="626.5"
+                   r="9" />
+                <path
+                   inkscape:connector-curvature="0"
+                   d="M 21,642.5 A 5.0062461,7.7596815 0 0 1 20.5,627 5.0062461,7.7596815 0 0 1 20,611.5 l 40,-3 a 5.0559371,7.8367025 0 0 1 1.5,15.5 5.0559371,7.8367025 0 0 1 1.5,15.5 z m 9,-21 a 5,5 0 0 0 -1,9.5 l 23,-0.5 a 5.0062461,5.0062461 0 0 0 -0.5,-10 z"
+                   id="path1141" />
+              </g>
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s2"
+                 transform="rotate(7.5)"
+                 id="use1144" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#s2"
+                 transform="rotate(15)"
+                 id="use1146" />
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#sixteenth"
+               transform="rotate(22.5)"
+               id="use1149" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#sixteenth"
+               transform="rotate(45)"
+               id="use1151" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#sixteenth"
+               transform="rotate(67.5)"
+               id="use1153" />
+          </g>
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#quarter"
+             transform="rotate(90)"
+             id="use1156" />
+          <g
+             id="sltx3">
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               id="s1t"
+               xlink:href="#s1"
+               transform="matrix(0.41,0,0,0.28,0,-87.6)" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#s1t"
+               transform="rotate(25.71)"
+               id="use1159" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#s1t"
+               transform="rotate(51.43)"
+               id="use1161" />
+          </g>
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#sltx3"
+             transform="rotate(77.14)"
+             id="use1164" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#s1t"
+             transform="rotate(154.29)"
+             id="use1166" />
+        </g>
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#half"
+           transform="scale(-1)"
+           id="use1169" />
+        <circle
+           cx="0"
+           id="c5"
+           cy="-80.5"
+           r="5" />
+        <g
+           id="c5x18">
+          <g
+             id="c5x6">
+            <g
+               id="c5x3">
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#c5"
+                 transform="rotate(9.73)"
+                 id="use1172" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#c5"
+                 transform="rotate(19.46)"
+                 id="use1174" />
+              <use
+                 height="100%"
+                 width="100%"
+                 y="0"
+                 x="0"
+                 xlink:href="#c5"
+                 transform="rotate(29.19)"
+                 id="use1176" />
+            </g>
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#c5x3"
+               transform="rotate(29.19)"
+               id="use1179" />
+          </g>
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c5x6"
+             transform="rotate(58.38)"
+             id="use1182" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c5x6"
+             transform="rotate(116.76)"
+             id="use1184" />
+        </g>
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#c5x18"
+           transform="scale(-1,1)"
+           id="use1187" />
+      </g>
+    </g>
+  </g>
+</svg>
