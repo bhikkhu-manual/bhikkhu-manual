@@ -180,10 +180,10 @@
 
 \renewcommand{\arraystretch}{1.238}% 21+5 / 21, (lineheight + parskip) / lineheight
 
-\newcommand\oldArr{}% holding old \arraystrech for restore
-\let\oldArr\arraystrech
+\newcommand\oldArr{}% holding old \arraystretch for restore
+\let\oldArr\arraystretch
 
-\newcommand\setArrayStrech[1]{%
+\newcommand\setArrayStretch[1]{%
   \let\oldArr\arraystretch
   \renewcommand{\arraystretch}{#1}%
 }
