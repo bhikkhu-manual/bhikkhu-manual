@@ -32,6 +32,12 @@
 \newif\ifoverleaf
 \overleaffalse
 
+\newif\ifhandbookedition
+\handbookeditiontrue
+
+\newif\ifreferenceedition
+\referenceeditionfalse
+
 % =======
 % Options
 % =======
@@ -1263,7 +1269,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{adrasteia}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{-10pt}
+  \setlength{\beforechapskip}{-20pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -1282,7 +1288,7 @@ philo-sophical munindo amaravati thai-land}
       \par%
     }%
   }
-  \setlength{\afterchapskip}{2.5\onelineskip}
+  \setlength{\afterchapskip}{2\onelineskip}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
@@ -1360,10 +1366,10 @@ philo-sophical munindo amaravati thai-land}
 % With no glue, the space will be at the bottom of the text block instead.
 
 \setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersecskip{1ex}
+\setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersubsecskip{1ex}
+\setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsubsecskip{1ex}

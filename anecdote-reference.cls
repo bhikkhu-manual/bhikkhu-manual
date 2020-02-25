@@ -32,6 +32,12 @@
 \newif\ifoverleaf
 \overleaffalse
 
+\newif\ifhandbookedition
+\handbookeditionfalse
+
+\newif\ifreferenceedition
+\referenceeditiontrue
+
 % =======
 % Options
 % =======
@@ -1360,10 +1366,10 @@ philo-sophical munindo amaravati thai-land}
 % With no glue, the space will be at the bottom of the text block instead.
 
 \setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersecskip{1ex}
+\setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersubsecskip{1ex}
+\setaftersubsecskip{2ex \@plus -.5ex \@minus -.2ex}
 
 \setbeforesubsubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsubsecskip{1ex}
