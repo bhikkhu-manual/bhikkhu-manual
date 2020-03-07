@@ -248,7 +248,7 @@
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
-\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9.5}{14}}
+\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9.5}{13.5}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
