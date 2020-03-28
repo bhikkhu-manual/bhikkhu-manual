@@ -15,6 +15,12 @@ dist:
 ebooks:
 	./helpers/generate_ebooks.sh
 
+handbook-four-times:
+	./helpers/four-times.sh handbook
+
+reference-four-times:
+	./helpers/four-times.sh reference
+
 handbook:
 	cat $(FILE_HANDBOOK).fir | \
 		sed '/\\contentsfinish/d' | \
