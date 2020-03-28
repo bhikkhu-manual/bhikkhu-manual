@@ -1464,7 +1464,7 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-\settypeblocksize{24\baselineskip + \topskip}{85mm}{*}
+\settypeblocksize{24\baselineskip + \topskip}{80mm}{*}
 \setlrmargins{*}{10mm}{*}
 \setulmargins{16mm}{*}{*}
 \setmarginnotes{7pt}{14pt}{5pt}
