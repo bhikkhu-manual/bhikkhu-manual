@@ -987,7 +987,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === TOC settings ===
 
-\maxtocdepth{subsection}
+\maxtocdepth{subsubsection}
 
 % the right TOC margin
 \contentsmargin{-5pt}
@@ -1033,8 +1033,46 @@ philo-sophical munindo amaravati thai-land}
   \fi}
 
 \def\tocChapterNote#1{%
-    \addcontentsline{toc}{chapternote}{%
+  \addcontentsline{toc}{chapternote}{%
+  \noexpand\numberline{}#1}%
+}
+
+\newcommand*\l@sectionenglish{\@englishtitle{0}{\tocLeftWidth}{1pc}{3em}}
+
+\newcommand*\l@subsectionenglish{\@englishtitle{0}{\tocLeftWidth}{1pc}{5em}}
+
+\def\@englishtitle#1#2#3#4#5#6{%
+  \ifnum #1>\c@tocdepth \else
+  % \vskip \z@ \@plus.2\p@
+  %\vspace*{3pt}
+  {\gentiumFont\tocSectionSize\itshape\selectfont
+    \leftskip #2\relax
+    \rightskip \@tocrmarg
+    \advance\rightskip #3\relax
+    \parfillskip -\rightskip
+    \parindent #2\relax\@afterindenttrue
+    \interlinepenalty\@M
+    \leavevmode
+    \@tempdima #4\relax
+    \advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+    {#5}\nobreak
+    \leaders\hbox{$\m@th
+      \mkern \@dotsep mu\hbox{\,}\mkern \@dotsep
+      mu$}\hfill
+    \nobreak
+    \hb@xt@\@pnumwidth{\hfil\normalsize\normalfont}%
+    \par}%
+  %\vspace*{0pt}%
+  \fi}
+
+\def\tocSectionEnglishTitle#1{%
+  \addcontentsline{toc}{sectionenglish}{%
     \noexpand\numberline{}#1}%
+}
+
+\def\tocSubsectionEnglishTitle#1{%
+  \addcontentsline{toc}{subsectionenglish}{%
+  \noexpand\numberline{}#1}%
 }
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
@@ -1092,6 +1130,19 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
   \itshape}
 {\hfill\gentiumFont\tocSectionSize\thecontentspage}
+
+\titlecontents{subsubsection}[\tocLeftWidth]
+{\gentiumFont\itshape\tocSectionSize}%
+{%
+  \contentsmargin{0pt}%
+  \hspace*{5em}%
+}
+{%
+  \contentsmargin{0pt}%
+  \hspace*{5em}%
+  \itshape%
+}%
+{\hfill\gentiumFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
@@ -1224,7 +1275,7 @@ philo-sophical munindo amaravati thai-land}
 % Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
 % the content separation to still number them.
 
-\setsecnumdepth{subsubsection}
+\setsecnumdepth{subsection}
 
 % define chapter styles with "fantasy" names
 
@@ -1402,6 +1453,30 @@ philo-sophical munindo amaravati thai-land}
 \setsecheadstyle{\sectionFmt}
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}
+
+\newcommand\sectionEnglishTitle[1]{%
+  \vspace*{-1ex}%
+  \tocSectionEnglishTitle{#1}%
+  {%
+    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
+  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
+
+\newcommand\subsectionEnglishTitle[1]{%
+  \vspace*{-1ex}%
+  \tocSubsectionEnglishTitle{#1}%
+  {%
+    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
+  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
 
 % === Page geometry and layout ===
 
