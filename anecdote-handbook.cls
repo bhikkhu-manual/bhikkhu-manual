@@ -137,6 +137,8 @@
 \RequirePackage{longtable}
 \RequirePackage{environ}
 \RequirePackage{pageslts}
+\RequirePackage{array}
+\RequirePackage{ragged2e}
 
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
@@ -402,6 +404,17 @@ philo-sophical munindo amaravati thai-land}
 % accented characters at the end of words.
 
 % === Custom commands and environments ===
+
+% https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
+
+% Use with: \begin{tabular}{L{30mm}R{30mm}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% Allows hyphenation:
+% \newcolumntype{L}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+% \newcolumntype{R}[1]{>{\RaggedLeft\hspace{0pt}}p{#1}}
 
 \newcommand\dividerRule{%
 {\centering\bigskip
@@ -1430,24 +1443,30 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\bfseries\fontsize{8.5}{13}\selectfont%
-  \color{section}%
-  \memRTLraggedright%
-  #1%
+  {%
+    \sectionFont\bfseries\fontsize{8.5}{13}\selectfont%
+    \color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
 }
 
 \newcommand\subsectionFmt[1]{%
-  \subSectionFont\fontsize{8.5}{13}\selectfont%
-  \itshape\color{section}%
-  \memRTLraggedright%
-  \prul{#1}%
+  {%
+    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    \prul{#1}%
+  }%
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \subSectionFont\fontsize{8.5}{13}\selectfont%
-  \itshape\color{section}%
-  \memRTLraggedright%
-  \prul{#1}%
+  {%
+    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    \prul{#1}%
+  }%
 }
 
 \setsecheadstyle{\sectionFmt}
