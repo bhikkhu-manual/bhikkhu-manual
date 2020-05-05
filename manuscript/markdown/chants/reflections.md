@@ -123,7 +123,7 @@ Thus we should frequently recollect.
 
 <div class="english">
 
-> Bhikkhus, there are ten dhammas which should be reflected upon again and again
+> Bhikkhus, there are ten dhammas which should be reflected upon, again and again,
 > by one who has gone forth. What are these ten?
 
 </div>
@@ -133,7 +133,7 @@ Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 <div class="english">
 
 > 'I am no longer living according to worldly aims and values.'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -143,7 +143,7 @@ Parapaṭibaddhā me jīvikā'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 <div class="english">
 
 > 'My very life is sustained through the gifts of others.'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -153,7 +153,7 @@ Añño me ākappo karaṇīyo'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 <div class="english">
 
 > 'I should strive to abandon my former habits.'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -163,7 +163,7 @@ Kacci nu kho me attā sīlato na upavadatī'ti pabbajitena abhiṇhaṃ paccavek
 <div class="english">
 
 > 'Does regret over my conduct arise in my mind?'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -173,7 +173,7 @@ Kacci nu kho maṃ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti pa
 <div class="english">
 
 > 'Could my spiritual companions find fault with my conduct?'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -183,7 +183,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti pabbajitena abhiṇhaṃ
 <div class="english">
 
 > 'All that is mine, beloved and pleasing, will become otherwise, will become separated from me.'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -194,7 +194,7 @@ Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṃ kam
 
 > 'I am the owner of my kamma, heir to my kamma, born of my kamma,\
 > related to my kamma, abide supported by my kamma; whatever kamma I shall do, for good or for ill, of that I will be the heir.'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -204,7 +204,7 @@ Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṃ kam
 <div class="english">
 
 > 'The days and nights are relentlessly passing; how well am I spending my time?'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -214,7 +214,7 @@ Kacci nu kho'haṃ suññāgāre abhiramāmī'ti pabbajitena abhiṇhaṃ paccav
 <div class="english">
 
 > 'Do I delight in solitude or not?'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -224,7 +224,7 @@ Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana-viseso adhigat
 <div class="english">
 
 > 'Has my practice borne fruit with freedom or insight so that at the end of my life I need not feel ashamed when questioned by my spiritual companions?'\
-> This should be reflected upon again and again\
+> This should be reflected upon, again and again,\
 > by one who has gone forth.
 
 </div>
@@ -233,7 +233,7 @@ Ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā'ti
 
 <div class="english">
 
-> Bhikkhus, these are the ten dhammas to be reflected upon again and again by one who has gone forth.
+> Bhikkhus, these are the ten dhammas to be reflected upon, again and again, by one who has gone forth.
 
 </div>
 
