@@ -18,11 +18,6 @@ Dhammaṃ namassāmi\
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
 
-[Yam-amha kho mayaṃ bhagavantaṃ saraṇaṃ gatā, uddissa pabbajitā yo no bhagavā
-satthā, yassa ca mayaṃ bhagavato dhammaṃ rocema
-
-Imehi sakkārehi taṃ bhagavantaṃ sasaddhammaṃ sasāvakasaṅghaṃ abhipūjayāma.]
-
 ## Dedication of Offerings (English)
 
 To the Blessed One, the Lord, who fully attained perfect enlightenment,\

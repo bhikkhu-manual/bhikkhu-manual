@@ -11,6 +11,9 @@
 \newlength\leaderIndent
 \setlength{\leaderIndent}{1.5em}
 
+\newlength\packedLeaderIndent
+\setlength{\packedLeaderIndent}{1.1em}
+
 \setlength{\vgap}{1.5em}
 \setlength{\vindent}{\leaderIndent}
 \setlength{\vleftmargin}{2em}
@@ -153,12 +156,43 @@
   \item[] \raggedright\itshape}%
   {\endlist}
 
+\newenvironment{cprenglish}%
+  {\list{}{%
+      \partopsep 0pt
+      \topsep 0pt
+      \listparindent 0em%
+      \itemindent    0em%
+      \leftmargin    \leaderIndent%
+      \rightmargin   0em%
+      \parsep        \z@ \@plus\p@%
+    }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
+\newenvironment{packedenglish}%
+  {\list{}{%
+      \topsep 0pt
+      \listparindent 0em%
+      \itemindent    0em%
+      \leftmargin    \packedLeaderIndent%
+      \rightmargin   0em%
+      \parsep        \z@ \@plus\p@%
+    }%
+  \item[] \raggedright\itshape}%
+  {\endlist}
+
 \newcommand\tr[1]{\textit{#1}}
 
 \newcommand\trline[1]{%
   \begin{english}%
     #1%
   \end{english}%
+}
+
+\newcommand\packedtrline[1]{%
+  \begin{packedenglish}%
+    #1%
+  \end{packedenglish}%
 }
 
 \newlength\preceptnumwidth
