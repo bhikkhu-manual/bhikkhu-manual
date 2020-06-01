@@ -2,7 +2,7 @@
 
 <div class="titlepage-cover">
 
-![Bhikkhu Manual](./includes/images/reference-cover.jpg)
+![Bhikkhu Manual](./includes/images/reference-desktop-cover.jpg)
 
 </div>
 

@@ -10,7 +10,7 @@
 
 <div class="grid download-item">
   <div class="col-1-3 item-cover">
-    <img src="./includes/images/handbook-cover.jpg" alt="Bhikkhu Manual Handbook" />
+    <img src="./includes/images/handbook-desktop-cover.jpg" alt="Bhikkhu Manual Handbook" />
   </div>
   <div class="col-2-3 item-description">
     <h3>Bhikkhu Manual Handbook Edition</h3>
@@ -21,7 +21,7 @@
 
 <div class="grid download-item">
   <div class="col-1-3 item-cover">
-    <img src="./includes/images/reference-cover.jpg" alt="Bhikkhu Manual Reference" />
+    <img src="./includes/images/reference-desktop-cover.jpg" alt="Bhikkhu Manual Reference" />
   </div>
   <div class="col-2-3 item-description">
     <h3>Bhikkhu Manual Reference Edition</h3>
