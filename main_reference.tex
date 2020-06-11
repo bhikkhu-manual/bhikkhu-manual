@@ -80,8 +80,6 @@
 \clearpage
 \listfirstlines*
 
-%\input{./manuscript/tex/preface.tex}
-
 \mainmatter
 \pagestyle{toponerow}
 
@@ -93,6 +91,9 @@
 \input{./manuscript/tex/chants/morning-chanting-reference.tex}
 \input{./manuscript/tex/chants/evening-chanting-reference.tex}
 \input{./manuscript/tex/chants/reflections-reference.tex}
+% NOTE: make sure paritta chapter starts on the left side, to that the A B C
+% marks of the invitation are on the outer margin of a right-hand page.
+\cleartoverso
 \input{./manuscript/tex/chants/parittas-reference.tex}
 \input{./manuscript/tex/chants/anumodana-reference.tex}
 \input{./manuscript/tex/chants/funeral-chants-reference.tex}
@@ -105,6 +106,8 @@
 \cleartorecto
 \part{Vinaya Notes}
 
+{\raggedright
+
 \input{./manuscript/tex/vinaya/ocean-quote.tex}
 \input{./manuscript/tex/vinaya/guidelines.tex}
 \input{./manuscript/tex/vinaya/requisites.tex}
@@ -114,18 +117,24 @@
 \input{./manuscript/tex/vinaya/other-procedures.tex}
 \input{./manuscript/tex/vinaya/useful-notes.tex}
 
+}
+
 \appendix
 
 \cleartorecto
 \part{Appendix}
 
+{\raggedright
+
 \input{./manuscript/tex/pali-phonetics-and-pronunciation.tex}
 \input{./manuscript/tex/dhamma-quotes.tex}
+
+}
 
 \backmatter
 
 \input{./manuscript/tex/copyright-details.tex}
 
-\emptypage%
+\emptyUntilEven
 
 \end{document}

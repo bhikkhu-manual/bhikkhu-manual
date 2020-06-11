@@ -20,7 +20,7 @@
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote-chanting}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
+\ProvidesClass{anecdote-reference}[2017/08/19 v0.11 A memoir-based documentclass with a contemporary style for books.]
 
 % ========================
 % Preliminary Declarations
@@ -137,6 +137,8 @@
 \RequirePackage{longtable}
 \RequirePackage{environ}
 \RequirePackage{pageslts}
+\RequirePackage{array}
+\RequirePackage{ragged2e}
 
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
@@ -403,6 +405,17 @@ philo-sophical munindo amaravati thai-land}
 
 % === Custom commands and environments ===
 
+% https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
+
+% Use with: \begin{tabular}{L{30mm}R{30mm}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% Allows hyphenation:
+% \newcolumntype{L}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+% \newcolumntype{R}[1]{>{\RaggedLeft\hspace{0pt}}p{#1}}
+
 \newcommand\dividerRule{%
 {\centering\bigskip
 {\color[gray]{0.6}\rule{0.6\linewidth}{0.2pt}}
@@ -420,6 +433,12 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\emptypage{%
   \clearpage
   \thispagestyle{empty}\mbox{}\newpage
+}
+
+\newcommand{\emptyUntilEven}{%
+  \ifodd\thepage%
+  \clearpage\thispagestyle{empty}\null%
+  \fi%
 }
 
 \newcounter{pageRem}
@@ -987,7 +1006,7 @@ philo-sophical munindo amaravati thai-land}
 
 % === TOC settings ===
 
-\maxtocdepth{subsection}
+\maxtocdepth{subsubsection}
 
 % the right TOC margin
 \contentsmargin{-5pt}
@@ -1033,8 +1052,21 @@ philo-sophical munindo amaravati thai-land}
   \fi}
 
 \def\tocChapterNote#1{%
-    \addcontentsline{toc}{chapternote}{%
-    \noexpand\numberline{}#1}%
+  \addcontentsline{toc}{chapternote}{%
+  \noexpand\numberline{}#1}%
+}
+
+\newcommand{\tocEnglishTitleFmt}[1]{%
+  {%
+    \gentiumFont\tocSectionSize\itshape\selectfont%
+    \hspace*{\tocLeftWidth}\hspace*{5em}%
+    #1%
+    \par
+  }%
+}
+
+\def\tocEnglishTitle#1{%
+  \addtocontents{toc}{\protect\tocEnglishTitleFmt{#1}}%
 }
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
@@ -1069,10 +1101,11 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\tocFont\fontsize{10}{14}\selectfont\thecontentspage}
-[\addvspace{5pt}]
+[\addvspace{6pt}]
 
 \titlecontents{section}[\tocLeftWidth]
-{\gentiumFont\tocSectionSize}%
+{\addvspace{3pt}%
+\gentiumFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1083,7 +1116,8 @@ philo-sophical munindo amaravati thai-land}
 {\hfill\gentiumFont\tocSectionSize\thecontentspage}
 
 \titlecontents{subsection}[\tocLeftWidth]
-{\gentiumFont\tocSectionSize}%
+{\addvspace{3pt}%
+\gentiumFont\tocSectionSize}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel\space%
@@ -1092,6 +1126,19 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
   \itshape}
 {\hfill\gentiumFont\tocSectionSize\thecontentspage}
+
+\titlecontents{subsubsection}[\tocLeftWidth]
+{\gentiumFont\itshape\tocSectionSize}%
+{%
+  \contentsmargin{0pt}%
+  \hspace*{5em}%
+}
+{%
+  \contentsmargin{0pt}%
+  \hspace*{5em}%
+  \itshape%
+}%
+{\hfill\gentiumFont\tocSectionSize\upshape\selectfont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
@@ -1217,14 +1264,14 @@ philo-sophical munindo amaravati thai-land}
 % === Chapter styles ===
 
 % NOTE: Sub-section ref. numbers are used in the vinaya notes, such as:
-% 
+%
 % 'If more than one article is to be shared substitute the plural form as in
 % sec. 10.4.1 above.'
-% 
+%
 % Sub-sub-section is only used in the Sri Lankan chants chapter, but it helps
 % the content separation to still number them.
 
-\setsecnumdepth{subsubsection}
+\setsecnumdepth{subsection}
 
 % define chapter styles with "fantasy" names
 
@@ -1269,7 +1316,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{adrasteia}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{-10pt}
+  \setlength{\beforechapskip}{-20pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
@@ -1379,29 +1426,47 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\bfseries\fontsize{11}{17}\selectfont%
-  \color{section}%
-  \memRTLraggedright%
-  #1%
+  {%
+    \sectionFont\bfseries\fontsize{11}{17}\selectfont%
+    \color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
 }
 
 \newcommand\subsectionFmt[1]{%
-  \subSectionFont\fontsize{11}{17}\selectfont%
-  \itshape\color{section}%
-  \memRTLraggedright%
-  \prul{#1}%
+  {%
+    \subSectionFont\fontsize{11}{17}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    \prul{#1}%
+  }%
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \subSectionFont\fontsize{11}{17}\selectfont%
-  \itshape\color{section}%
-  \memRTLraggedright%
-  \prul{#1}%
+  {%
+    \subSectionFont\fontsize{11}{17}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    \prul{#1}%
+  }%
 }
 
 \setsecheadstyle{\sectionFmt}
 \setsubsecheadstyle{\subsectionFmt}
 \setsubsubsecheadstyle{\subsubsectionFmt}
+
+\newcommand\englishTitle[1]{%
+  \vspace*{-1ex}%
+  \tocEnglishTitle{#1}%
+  {%
+    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \itshape\color{section}%
+    \memRTLraggedright%
+    #1%
+  }%
+  \vspace*{2ex \@plus -.5ex \@minus -.2ex}%
+}
 
 % === Page geometry and layout ===
 
