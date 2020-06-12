@@ -1,5 +1,31 @@
 # Reflections
 
+**Contents**
+
+- [Reflection on the Four Requisites](#patisankha-yoniso)
+- [Five Subjects for Frequent Recollection](#jara-dhammomhi)
+- [Ten Subjects for Frequent Recollection](#dasa-ime-bhikkhave)
+- [Caturappamaññā-obhāsana](#caturappamanna)
+  - [Suffusion With the Divine Abidings](#suffusion)
+- [Recollection After Using the Requisites](#recollection-after)
+- [Reflection on the Off-Putting Qualities of the Requisites](#off-putting)
+- [Mettāpharaṇa](#mettapharana)
+  - [Reflection on Universal Well-Being](#universal)
+- [Reflection on the Unconditioned](#unconditioned)
+- [Reflection on the Thirty-Two Parts](#thirty-two)
+- [Sabba-patti-dāna-gāthā](#sabba-patti)
+- [Uddissanādhiṭṭhāna-gāthā](#imina-punna)
+  - [Verses of Sharing and Aspiration](#sharing)
+- [Sabbe sattā sadā hontu](#sabbe-satta)
+- [Ti-loka-vijaya-rāja-patti-dāna-gāthā](#ti-loka)
+- [The Teaching on Striving According to Dhamma](#striving)
+- [Dedication of Merit to the Devas and Others](#dedication)
+  - [Pasannā hontu sabbe pi](#pasanna-hontu)
+- [Verses on Friends](#friends)
+- [Reflection on Impermanence](#impermanence)
+- [The Guardian Meditations](#guardian)
+- [Yan-dāni me kataṃ puññaṃ](#yan-dani)
+
 ## Reflection on the Four Requisites<a id="patisankha-yoniso"></a>
 
 > [Handa mayaṃ taṅkhaṇika-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
@@ -304,7 +330,7 @@ Ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā'ti
 
 *A.V.87*
 
-## Caturappamaññā-obhāsana
+## Caturappamaññā-obhāsana<a id="caturappamanna"></a>
 
 > [Handa mayaṃ caturappamaññā-obhāsanaṃ karomase]
 
@@ -338,7 +364,7 @@ abyāpajjhena pharitvā viharatī'ti
 
 *D.I.251*
 
-## Suffusion With the Divine Abidings
+### Suffusion With the Divine Abidings<a id="suffusion"></a>
 
 > [Now let us make the Four Boundless Qualities shine forth.]
 
@@ -386,7 +412,7 @@ world with a heart imbued with equanimity;\
 abundant, exalted, immeasurable, without hostility,\
 and without ill-will.
 
-## Recollection After Using the Requisites
+## Recollection After Using the Requisites<a id="recollection-after"></a>
 
 > [Handa mayaṃ atīta-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
 
@@ -445,7 +471,7 @@ abyāpajjha-paramatāyā'ti.
 
 *M.I.10*
 
-## Reflection on the Off-Putting Qualities of the Requisites
+## Reflection on the Off-Putting Qualities of the Requisites<a id="off-putting"></a>
 
 > [Handa mayaṃ dhātu-paṭikūla-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
 
@@ -609,7 +635,7 @@ Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyo jāyati
 
 </div>
 
-## Mettāpharaṇa
+## Mettāpharaṇa<a id="mettapharana"></a>
 
 > [Handa mayam mettāpharaṇaṃ karomase]
 
@@ -628,7 +654,7 @@ yaṃ kammaṃ karissanti, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādā bha
 
 *M.I.288; A.V.88*
 
-## Reflection on Universal Well-Being
+### Reflection on Universal Well-Being<a id="universal"></a>
 
 > [Now let us chant the reflections on universal well-being]
 
@@ -663,7 +689,7 @@ Of such acts they will be the heirs.
 
 *M.I.288; A.V.88*
 
-## Reflection on the Unconditioned
+## Reflection on the Unconditioned<a id="unconditioned"></a>
 
 > [Handa mayaṃ nibbāna-sutta-pāṭhaṃ bhaṇāmase]
 
@@ -709,7 +735,7 @@ Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyati
 
 *Ud.8.3*
 
-## Reflection on the Thirty-Two Parts
+## Reflection on the Thirty-Two Parts<a id="thirty-two"></a>
 
 > [Handa mayaṃ dvattiṃsākāra-pāṭhaṃ bhaṇāmase]
 
@@ -776,7 +802,7 @@ tacapariyanto pūro nānappakārassa asucino
 
 *M.I.57*
 
-## Sabba-patti-dāna-gāthā
+## Sabba-patti-dāna-gāthā<a id="sabba-patti"></a>
 
 *Verses on the Sharing of Merit*
 
@@ -854,7 +880,7 @@ Tesāsā sijjhataṃ subhā
 
 </div>
 
-## Uddissanādhiṭṭhāna-gāthā
+## Uddissanādhiṭṭhāna-gāthā<a id="imina-punna"></a>
 
 > [Handa mayaṃ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
 
@@ -882,7 +908,7 @@ Tesottamānubhāvena mārokāsaṃ labhantu mā\
   
 </div>
 
-## Verses of Sharing and Aspiration
+### Verses of Sharing and Aspiration<a id="sharing"></a>
 
 > [Now let us chant the verses of sharing and aspiration]
 
@@ -916,7 +942,7 @@ May darkness and delusion be dispelled.\
 [By the power of the ten merits,\
 May Māra gain no opening.]
 
-## Sabbe sattā sadā hontu
+## Sabbe sattā sadā hontu<a id="sabbe-satta"></a>
 
 Sabbe sattā sadā hontu\
 Averā sukha-jīvino\
@@ -930,7 +956,7 @@ Sabbe bhāgī bhavantu te
 
 </div>
 
-## Ti-loka-vijaya-rāja-patti-dāna-gāthā
+## Ti-loka-vijaya-rāja-patti-dāna-gāthā<a id="ti-loka"></a>
 
 Yaṅ kiñci kusalaṃ kammaṃ\
 <span class="vin">&nbsp;</span>kattabbaṃ kiriyaṃ mama\
@@ -951,7 +977,7 @@ Manuññaṃ bhojanaṃ sabbe\
 
 *Apadāna 4*
 
-## The Teaching on Striving According to Dhamma
+## The Teaching on Striving According to Dhamma<a id="striving"></a>
 
 > [Handa mayaṃ dhamma-pahaṃsāna-pāṭham bhaṇāmase]
 
@@ -1270,7 +1296,7 @@ Alam-eva appamādena sampādetun'ti
 
 </div>
 
-## Dedication of Merit to the Devas and Others
+## Dedication of Merit to the Devas and Others<a id="dedication"></a>
 
 > [Handa mayaṃ patti-dāna-gāthāyo bhaṇāmase]
 
@@ -1336,7 +1362,7 @@ Dhamme ariyappavedite.
 
 </div>
 
-### Pasannā hontu sabbe pi
+### Pasannā hontu sabbe pi<a id="pasanna-hontu"></a>
 
 Pasannā hontu sabbe pi\
 Pāṇino Buddha-sāsane.\
@@ -1349,7 +1375,7 @@ Niccaṃ rakkhanti puttakaṃ.\
 Evaṃ dhammena rājāno\
 Pajaṃ rakkhantu sabbadā.
 
-## Verses on Friends
+## Verses on Friends<a id="friends"></a>
 
 Aññadatthu haro mitto\
 Yo ca mitto vacī-paramo,\
@@ -1391,7 +1417,7 @@ Mātā puttaṃ va orasaṃ.
 
 </div>
 
-## Reflection on Impermanence
+## Reflection on Impermanence<a id="impermanence"></a>
 
 > [Handa mayaṃ aniccānussati-pāṭhaṃ bhaṇāmase]
 
@@ -1571,7 +1597,7 @@ Tesaṃ vūpasamo sukho
 
 </div>
 
-## The Guardian Meditations
+## The Guardian Meditations<a id="guardian"></a>
 
 > [Handa mayaṃ catur'ārakkhā-kammaṭṭhāna-pāṭhaṃ bhaṇāmase]
 
@@ -1639,7 +1665,7 @@ Tañ-hi dhuvaṃ na jīvitaṃ.
 
 </div>
 
-## Yan-dāni me kataṃ puññaṃ
+## Yan-dāni me kataṃ puññaṃ<a id="yan-dani"></a>
 
 Yan-dāni me kataṃ puññaṃ\
 <span class="vin"></span>tenānen'uddisena ca,\

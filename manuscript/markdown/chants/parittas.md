@@ -1,7 +1,83 @@
 # Paritta Chants
 
-## Thai Tradition
+**Contents**
 
+- [Thai Tradition](#thai)
+  - [Notes for Particular Chants](#particular)
+- [Invitations](#invitations)
+  - [Invitation for Paritta Chanting](#invitation)
+  - [Invitation to the Devas](#devas)
+- [Introductory Chants](#introductory)
+  - [Pubba-bhāga-nama-kāra-pāṭha](#namo-tassa)
+  - [Saraṇa-gamana-pāṭha](#buddham-saranam)
+  - [Sambuddhe](#sambuddhe)
+    - [The Buddhas](#buddhas)
+  - [Nama-kāra-siddhi-gāthā](#yo-cakkhuma)
+    - [The Verses of Success through Homage](#through-homage)
+  - [Namo-kāra-aṭṭhaka](#namo-arahato)
+    - [The Homage Octet](#octet)
+- [Core Sequence](#core)
+  - [Maṅgala-sutta](#asevana)
+    - [The Thirty-Eight Highest Blessings](#thirty-eight)
+  - [Ratana-sutta](#ratana-sutta)
+    - [Verses from the Discourse on Treasures](#treasures)
+  - [Karaṇīya-metta-sutta](#karaniyam-attha)
+    - [Mettañ-ca sabba-lokasmiṃ](#sabba-lokasmim)
+    - [The Buddha's Words on Loving-Kindness](#loving-kindness)
+  - [Khandha-paritta](#virupakkhehi)
+    - [Appamāṇo buddho appamāṇo dhammo](#appamano-buddho)
+    - [The Group Protection](#group-protection)
+  - [Chaddanta-paritta](#vadhissamenanti)
+  - [Mora-paritta](#udetayan-cakkhuma)
+    - [The Peacock's Protection](#peacock)
+  - [Vaṭṭaka-paritta](#atthi-loke)
+    - [The Quail's Protection](#quail)
+  - [Buddha-dhamma-saṅgha-guṇā](#iti-pi-so)
+  - [Araññe rukkha-mūle vā](#aranne)
+  - [Āṭānāṭiya-paritta (short)](#vipassissa)
+    - [Homage to the Seven Past Buddhas](#past-buddhas)
+  - [Sacca-kiriyā-gāthā](#natthi-me)
+  - [Yaṅkiñci ratanaṃ loke](#yankinci-ratanam)
+  - [Sakkatvā buddharatanaṃ](#sakkatva)
+    - [Having Revered](#having-revered)
+  - [Aṅgulimāla-paritta](#yato-ham-bhagini)
+  - [Bojjhaṅga-paritta](#bojjhango)
+    - [The Factors of Awakening Protection](#awakening)
+  - [Abhaya-paritta](#yan-dunnimittam)
+    - [The Danger-free Protection](#danger-free)
+- [Closing Sequence](#closing)
+  - [Devatā-uyyojana-gāthā](#dukkhappatta)
+  - [Verses on Sending Off the Devatā](#sending-off)
+  - [Jaya-maṅgala-aṭṭha-gāthā](#bahum)
+    - [Verses on the Buddha's Victories](#victories)
+  - [Jaya-paritta](#maha-karuniko)
+    - [Jayanto bodhiyā mūle](#jayanto)
+    - [Victory Protection](#victory-protection)
+  - [So attha-laddho](#so-attha-laddho)
+  - [Sā attha-laddhā](#sa-attha-laddha)
+  - [Te attha-laddhā sukhitā](#te-attha-laddha)
+  - [Bhavatu sabba-maṅgalaṃ](#bhavatu)
+  - [Mahā-kāruṇiko nātho'ti ādikā gāthā](#maha-karuniko)
+  - [Āṭānāṭiya-paritta (long)](#atanatiya)
+    - [Natthi me saraṇaṃ aññaṃ](#atanatiya-natthi-me)
+    - [Yaṅkiñci ratanaṃ loke](#atanatiya-yankinci)
+    - [Sakkatvā](#atanatiya-sakkatva)
+    - [Sabbītiyo vivajjantu](#atanatiya-sabbitiyo)
+  - [The Twenty-Eight Buddhas' Protection](#twenty-eight)
+  - [Pabbatopama-gāthā](#pabbatopama)
+  - [Bhāra-sutta-gāthā](#bhara-sutta)
+  - [Khemākhema-saraṇa-gamana-paridīpikā-gāthā](#khemakhema)
+  - [Bhadd'eka-ratta-gāthā](#bhadd-eka-ratta)
+  - [Ti-lakkhaṇ'ādi-gāthā](#ti-lakkhan-adi)
+    - [Verses on the Three Characteristics](#three-characteristics)
+  - [Dhamma-gārav'ādi-gāthā](#dhamma-garav-adi)
+  - [Paṭhama-buddha-bhāsita-gāthā](#pathama-buddha)
+  - [Pacchima-ovāda-gāthā](#pacchima-ovada)
+  - [Ye dhammā hetuppabhavā](#hetuppabhava)
+  - [Nakkhattayakkha](#nakkhattayakkha)
+  - [Verses on Respect](#respect)
+
+## Thai Tradition<a id="thai"></a>
 
 Paritta chanting ceremonies in Thailand vary regionally but may be outlined as:
 
@@ -50,7 +126,7 @@ be included or not, as wished, but should be recited in the order listed here.
 |      | <a href="#te-attha-laddha">Te attha-laddhā sukhitā</a>       |     |
 |      | <a href="#bhavatu">Bhavatu sabba-maṅgalaṃ</a>                |     |
 
-### Notes for Particular Chants
+### Notes for Particular Chants<a id="particular"></a>
 
 **Asevanā ca bālānaṃ:** The candles on the shrine during a house invitation are
 lit by the senior bhikkhu or nun at *Asevanā*.
@@ -92,9 +168,9 @@ In this minimal chanting sequence usually one does not invite the devas.
 with Buddhism in general (e.g. inauguration of a new abbot, or at the end of an
 *upasampadā*).
 
-## Invitations
+## Invitations<a id="invitations"></a>
 
-### Invitation for Paritta Chanting
+### Invitation for Paritta Chanting<a id="invitation"></a>
 
 <div class="instr">
 
@@ -136,7 +212,7 @@ Parittaṃ brūtha maṅgalaṃ
 
 </div>
 
-### Invitation to the Devas
+### Invitation to the Devas<a id="devas"></a>
 
 In Thai custom, the third monk in seniority invites the devas, holding his hands
 in *añjali*, and lifting up the ceremonial string.
@@ -222,7 +298,7 @@ Saṅgha-payirūpāsana-kālo ayam-bhadantā
 
 </div>
 
-## Introductory Chants
+## Introductory Chants<a id="introductory"></a>
 
 ### Pubba-bhāga-nama-kāra-pāṭha<a id="namo-tassa"></a>
 
@@ -282,7 +358,7 @@ Hantvā sabbe upaddave\
 Anekā antarāyāpi\
 Vinassantu asesato
 
-#### The Buddhas
+#### The Buddhas<a id="buddhas"></a>
 
 I pay homage with my head to\
 the 512,028 Buddhas.
@@ -337,7 +413,7 @@ Buddhānubuddhaṃ sama-sīla-diṭṭhiṃ\
 Tan-tejasā te jaya-siddhi hotu\
 Sabb'antarāyā ca vināsamentu
 
-#### The Verses of Success through Homage
+#### The Verses of Success through Homage<a id="through-homage"></a>
 
 The One with Vision, with the stain of delusion removed,\
 Self-awakened, Well-Gone, and Released.\
@@ -388,7 +464,7 @@ Suvatthi hotu sabbadā\
 Namo-kārassa tejena\
 Vidhimhi homi tejavā
 
-#### The Homage Octet
+#### The Homage Octet<a id="octet"></a>
 
 Homage to the Great Seer, the Worthy One, Rightly Self-awakened.
 
@@ -406,7 +482,7 @@ By the potency of this homage, may there always be well-being.
 
 By the majesty of this homage, may I be successful in this ceremony.
 
-## Core Sequence
+## Core Sequence<a id="core"></a>
 
 ### Maṅgala-sutta<a id="asevana"></a>
 
@@ -478,7 +554,7 @@ Tan-tesaṃ maṅgalam-uttaman'ti
 
 *Snp 2.4*
 
-#### The Thirty-Eight Highest Blessings
+#### The Thirty-Eight Highest Blessings<a id="thirty-eight"></a>
 
 > [Now let us chant the verses on the Highest Blessings]
 
@@ -554,7 +630,7 @@ These are the highest blessings.
 
 *Snp 2.4*
 
-### Ratana-sutta
+### Ratana-sutta<a id="ratana-sutta"></a>
 
 <div class="instr">
 
@@ -675,7 +751,7 @@ Saṅghaṃ namassāma suvatthi hotū'ti.
 
 *Snp 2.1*
 
-#### Verses from the Discourse on Treasures
+#### Verses from the Discourse on Treasures<a id="treasures"></a>
 
 <div class="instr">
 
@@ -765,7 +841,7 @@ Mātā yathā niyaṃ puttaṃ\
 Evam'pi sabba-bhūtesu\
 Mānasam-bhāvaye aparimāṇaṃ
 
-#### Mettañ-ca sabba-lokasmiṃ
+#### Mettañ-ca sabba-lokasmiṃ<a id="sabba-lokasmim"></a>
 
 <div class="instr">
 
@@ -790,7 +866,7 @@ Na hi jātu gabbha-seyyaṃ punaretī'ti
 
 *Snp 1.8*
 
-#### The Buddha's Words on Loving-Kindness
+#### The Buddha's Words on Loving-Kindness<a id="loving-kindness"></a>
 
 > [Now let us chant the Buddha's words on loving-kindness]
 
@@ -867,7 +943,7 @@ Sabbe sattā sabbe pāṇā\
 Sabbe bhadrāni passantu\
 <span class="vin"></span>mā kiñci pāpam-āgamā
 
-#### Appamāṇo buddho appamāṇo dhammo
+#### Appamāṇo buddho appamāṇo dhammo<a id="appamano-buddho"></a>
 
 <div class="instr">
 
@@ -890,7 +966,7 @@ So'haṃ namo bhagavato\
 
 *A.II.72-73*
 
-#### The Group Protection
+#### The Group Protection<a id="group-protection"></a>
 
 I have goodwill for the Virupakkhas, the Erapathas,\
 goodwill for the Chabya descendants, and the Black Gotamakas.
@@ -968,7 +1044,7 @@ Moro vāsam-akappayī'ti
 
 *Ja.159*
 
-#### The Peacock's Protection
+#### The Peacock's Protection<a id="peacock"></a>
 
 The One King, rising, with Vision,\
 golden-hued, illuminating the Earth: I pay homage to you,\
@@ -1017,7 +1093,7 @@ Saccena me samo n'atthi\
 
 *Cariyāpiṭaka vv.319-322*
 
-#### The Quail's Protection
+#### The Quail's Protection<a id="quail"></a>
 
 There is in this world the quality of virtue,\
 truth, purity, tenderness.\
@@ -1061,7 +1137,7 @@ Esa bhagavato sāvaka-saṅgho\
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo\
 Anuttaraṃ puññakkhettaṃ lokassā'ti
 
-### Araññe rukkha-mūle vā
+### Araññe rukkha-mūle vā<a id="aranne"></a>
 
 Araññe rukkha-mūle vā\
 Suññāgāre va bhikkhavo\
@@ -1113,7 +1189,7 @@ Vijjā-caraṇa-sampannaṃ\
 
 *D.III.195-196*
 
-#### Homage to the Seven Past Buddhas
+#### Homage to the Seven Past Buddhas<a id="past-buddhas"></a>
 
 Homage to Vipassī, possessed of vision and splendor.
 
@@ -1194,7 +1270,7 @@ Nassantupaddavā sabbe\
   
 </div>
 
-#### Having Revered
+#### Having Revered<a id="having-revered"></a>
 
 Having revered the jewel of the Buddha, the highest, most excellent medicine,
 the welfare of human and heavenly beings: Through the Buddha's majesty and
@@ -1270,7 +1346,7 @@ Etena sacca-vajjena\
 
 *S.V.80f*
 
-#### The Factors of Awakening Protection
+#### The Factors of Awakening Protection<a id="awakening"></a>
 
 The factors for Awakening include: mindfulness, analysis of qualities,
 persistence, rapture, and calm as factors for Awakening, plus concentration and
@@ -1322,7 +1398,7 @@ Saṅghānubhāvena vināsamentu
   
 </div>
 
-#### The Danger-free Protection
+#### The Danger-free Protection<a id="danger-free"></a>
 
 Whatever unlucky portents and ill omens,\
 and whatever distressing bird calls,\
@@ -1342,7 +1418,7 @@ evil planets, upsetting nightmares:
 
 By the Saṅgha's power may they be destroyed.
 
-## Closing Sequence
+## Closing Sequence<a id="closing"></a>
 
 ### Devatā-uyyojana-gāthā<a id="dukkhappatta"></a>
 
@@ -1363,7 +1439,7 @@ Bhāvanābhiratā hontu\
 Arahantānañ-ca tejena\
 <span class="vin"></span>rakkhaṃ bandhāmi sabbaso
 
-### Verses on Sending Off the Devatā
+### Verses on Sending Off the Devatā<a id="sending-off"></a>
 
 May all beings: who have fallen into suffering be without suffering,\
 who have fallen into danger be without danger,\
@@ -1427,7 +1503,7 @@ Yo vācano dina-dine saratem-atandī\
 Hitvān'aneka-vividhāni c'upaddavāni\
 Mokkhaṃ sukhaṃ adhigameyya naro sapañño
 
-#### Verses on the Buddha's Victories
+#### Verses on the Buddha's Victories<a id="victories"></a>
 
 Creating a form with a thousand arms, each equipped with a weapon,\
 Māra, on the elephant Girimekhala,\
@@ -1485,7 +1561,7 @@ Patto sambodhim-uttamaṃ\
 Etena sacca-vajjena\
 Hotu te jaya-maṅgalaṃ
 
-#### Jayanto bodhiyā mūle
+#### Jayanto bodhiyā mūle<a id="jayanto"></a>
 
 <div class="instr">
 
@@ -1516,7 +1592,7 @@ Labhant'atthe padakkhiṇe
 
 *A.I.294*
 
-#### Victory Protection
+#### Victory Protection<a id="victory-protection"></a>
 
 (The Buddha), our protector, with great compassion,\
 for the welfare of all beings,\
@@ -1545,7 +1621,7 @@ with regard to those who lead the holy life.\
 Doing these rightful things,
 your rightful aims are achieved.
 
-### So attha-laddho
+### So attha-laddho<a id="so-attha-laddho"></a>
 
 So attha-laddho sukhito\
 <span class="vin"></span>viruḷho buddha-sāsane\
@@ -1559,7 +1635,7 @@ Arogo sukhito hohi\
   
 </div>
 
-### Sā attha-laddhā
+### Sā attha-laddhā<a id="sa-attha-laddha"></a>
 
 Sā attha-laddhā sukhitā\
 <span class="vin"></span>viruḷhā buddha-sāsane\
@@ -1586,7 +1662,7 @@ Sabba-dhammānubhāvena sadā sotthī bhavantu te
 Bhavatu sabba-maṅgalaṃ rakkhantu sabba-devatā\
 Sabba-saṅghānubhāvena sadā sotthī bhavantu te
 
-### Mahā-kāruṇiko nātho'ti ādikā gāthā
+### Mahā-kāruṇiko nātho'ti ādikā gāthā<a id="maha-karuniko"></a>
 
 Mahā-kāruṇiko nātho\
 Atthāya sabba-pāṇinaṃ\
@@ -1598,7 +1674,7 @@ Patto sambodhim-uttamaṃ\
 Etena sacca-vajjena\
 Mā hontu sabb'upaddavā
 
-### Āṭānāṭiya-paritta (long)
+### Āṭānāṭiya-paritta (long)<a id="atanatiya"></a>
 
 <div class="instr">
 
@@ -1727,7 +1803,7 @@ Tepi tumhe anurakkhantu\
 
 [^1]: If chanting for oneself, change *tumhe* to *amhe* here and in the lines below.
 
-#### Natthi me saraṇaṃ aññaṃ
+#### Natthi me saraṇaṃ aññaṃ<a id="atanatiya-natthi-me"></a>
 
 
 Natthi me saraṇaṃ aññaṃ\
@@ -1745,7 +1821,7 @@ Etena saccavajjena\
 
 [^2]: If chanting for oneself, change *te* to *me* here and in the lines below.
 
-#### Yaṅkiñci ratanaṃ loke
+#### Yaṅkiñci ratanaṃ loke<a id="atanatiya-yankinci"></a>
 
 Yaṅkiñci ratanaṃ loke\
 <span class="vin"></span>vijjati vividhaṃ puthu\
@@ -1760,7 +1836,7 @@ Yaṅkiñci ratanaṃ loke\
 Ratanaṃ saṅghasamaṃ\
 <span class="vin"></span>natthi tasmā sotthī bhavantu te
 
-#### Sakkatvā
+#### Sakkatvā<a id="atanatiya-sakkatva"></a>
 
 Sakkatvā buddharatanaṃ\
 <span class="vin"></span>osadhaṃ uttamaṃ varaṃ\
@@ -1781,7 +1857,7 @@ Sakkatvā saṅgharatanaṃ\
 Nassantupaddavā sabbe\
 <span class="vin"></span>rogā vūpasamentu te
 
-#### Sabbītiyo vivajjantu
+#### Sabbītiyo vivajjantu<a id="atanatiya-sabbitiyo"></a>
 
 Sabbītiyo vivajjantu\
 <span class="vin"></span>sabbarogo vinassatu\
@@ -1792,7 +1868,7 @@ Abhivādanasīlissa\
 Cattāro dhammā vaḍḍhanti\
 <span class="vin"></span>āyu vaṇṇo sukhaṃ balaṃ
 
-### The Twenty-Eight Buddhas' Protection
+### The Twenty-Eight Buddhas' Protection<a id="twenty-eight"></a>
 
 <div class="instr">
 
@@ -1887,7 +1963,7 @@ May no dangers threaten you, may you be happy and long-lived,\
 Greeted kindly and welcome everywhere.\
 May four things accrue to you: long life, beauty, bliss, and strength.
 
-### Pabbatopama-gāthā
+### Pabbatopama-gāthā<a id="pabbatopama"></a>
 
 *Verses on Mountains*
 
@@ -1916,7 +1992,7 @@ Idh'eva naṃ pasaṃsanti\
 
 *S.I.102*
 
-### Bhāra-sutta-gāthā
+### Bhāra-sutta-gāthā<a id="bhara-sutta"></a>
 
 *Verses on the Burden*
 
@@ -1950,7 +2026,7 @@ Samūlaṃ taṇhaṃ abbuyha\
 
 *S.III.26*
 
-### Khemākhema-saraṇa-gamana-paridīpikā-gāthā
+### Khemākhema-saraṇa-gamana-paridīpikā-gāthā<a id="khemakhema"></a>
 
 *True and False Refuges*
 
@@ -2026,7 +2102,7 @@ Etaṃ saraṇam-āgamma\
 
 *Dhp 188-192*
 
-### Bhadd'eka-ratta-gāthā
+### Bhadd'eka-ratta-gāthā<a id="bhadd-eka-ratta"></a>
 
 *Verses on a Shining Night of Prosperity*
 
@@ -2088,7 +2164,7 @@ Taṃ ve bhadd'eka-ratto'ti\
 
 *M.III.187*
 
-### Ti-lakkhaṇ'ādi-gāthā
+### Ti-lakkhaṇ'ādi-gāthā<a id="ti-lakkhan-adi"></a>
 
 Sabbe saṅkhārā aniccā'ti\
 <span class="vin"></span>yadā paññāya passati\
@@ -2130,7 +2206,7 @@ Khīṇ'āsavā jutimanto\
 
 *Dhp 85-89*
 
-#### Verses on the Three Characteristics
+#### Verses on the Three Characteristics<a id="three-characteristics"></a>
 
 'Impermanent are all conditioned things' --\
 When with wisdom this is seen\
@@ -2165,7 +2241,7 @@ Such rare delight one should desire,\
 Sense pleasures cast away,\
 Not having anything.
 
-### Dhamma-gārav'ādi-gāthā
+### Dhamma-gārav'ādi-gāthā<a id="dhamma-garav-adi"></a>
 
 *Verses on Respect for the Dhamma*
 
@@ -2241,7 +2317,7 @@ Esānisaṃso dhamme suciṇṇe
 
 *Thag 303-304*
 
-### Paṭhama-buddha-bhāsita-gāthā
+### Paṭhama-buddha-bhāsita-gāthā<a id="pathama-buddha"></a>
 
 *Verses on the Buddha's First Exclamation*
 
@@ -2279,7 +2355,7 @@ Visaṅkhāra-gataṃ cittaṃ\
 
 *Dhp 153-154*
 
-### Pacchima-ovāda-gāthā
+### Pacchima-ovāda-gāthā<a id="pacchima-ovada"></a>
 
 *Verses on the Last Instructions*
 
@@ -2298,7 +2374,7 @@ Ayaṃ tathāgatassa pacchimā vācā
 
 *D.II.156*
 
-### Ye dhammā hetuppabhavā
+### Ye dhammā hetuppabhavā<a id="hetuppabhava"></a>
 
 *Arising From a Cause*
 
@@ -2318,7 +2394,7 @@ Evaṃ-vādī mahāsamaṇo'ti
 
 *Mv.1.23.5*
 
-### Nakkhattayakkha
+### Nakkhattayakkha<a id="nakkhattayakkha"></a>
 
 <div class="instr">
 
@@ -2337,7 +2413,7 @@ Hantvā tesaṃ upaddave
 
 </div>
 
-### Verses on Respect
+### Verses on Respect<a id="respect"></a>
 
 Satthu-garu dhamma-garu,\
 Saṅghe ca tibba-gāravo,\
