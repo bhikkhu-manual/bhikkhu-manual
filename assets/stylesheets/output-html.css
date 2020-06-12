@@ -38,7 +38,9 @@
       padding-right: 20px; }
 
 body {
-  font-family: 'Open Sans X', sans-serif; }
+  font-family: 'Open Sans X', sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.7; }
 
 h1, h2, h3, h4 {
   font-family: 'Nunito Sans', sans-serif; }
@@ -58,6 +60,10 @@ blockquote {
 
 .instr > blockquote p {
   font-weight: bold; }
+
+span.vin {
+  display: inline-block;
+  width: 2em; }
 
 .titlepage-cover {
   text-align: center;
