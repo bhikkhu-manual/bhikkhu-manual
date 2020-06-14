@@ -155,11 +155,11 @@ ceremonies, etc.), it is an alternative, instead of chanting *jet tamnaan* or
 *sipsong tamnaan*, to do a minimum sequence called *suat phorn phra* which
 contains only:
 
-(1) *Namo Tassa*,\
-(2) *Iti pi so bhagavā*,\
-(3) *Bāhuṃ*,\
-(4) *Mahā-kāruṇiko nātho*, and\
-(5) *Bhavatu sabba-maṅgalaṃ*.
+(1) *Namo Tassa*,\
+(2) *Iti pi so bhagavā*,\
+(3) *Bāhuṃ*,\
+(4) *Mahā-kāruṇiko nātho*, and\
+(5) *Bhavatu sabba-maṅgalaṃ*.
 
 In this minimal chanting sequence usually one does not invite the devas.
 
