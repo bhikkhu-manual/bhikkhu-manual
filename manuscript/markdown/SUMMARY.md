@@ -15,7 +15,6 @@
   - [Pāṭimokkha Chants](chants/patimokkha-chants.md)
   - [Chants Used in Sri Lanka](chants/sri-lanka.md)
 - [Vinaya Notes](vinaya-notes.md)
-  - [Quote](vinaya/ocean-quote.md)
   - [Guidelines](vinaya/guidelines.md)
   - [Requisites](vinaya/requisites.md)
   - [Offences](vinaya/offences.md)
@@ -25,7 +24,7 @@
   - [Useful Notes](vinaya/useful-notes.md)
 - [Appendix](appendix.md)
   - [Pāli Phonetics and Pronunciation](pali-phonetics-and-pronunciation.md)
-  - [Dhamma Quotes](dhamma-quotes.md)
+  - [Quotations](quotations.md)
 
 - [Print Guide](print-guide.md)
 

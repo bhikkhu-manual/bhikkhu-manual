@@ -1,5 +1,22 @@
 # Morning Chanting
 
+**Contents**
+
+- [Dedication of Offerings](#yo-so-bhagava)
+- [Dedication of Offerings (English)](#dedication)
+- [Preliminary Homage](#homage-pali)
+- [Preliminary Homage (English)](#homage-english)
+- [Homage to the Buddha](#buddha-pali)
+- [Homage to the Buddha (English)](#buddha-english)
+- [Homage to the Dhamma](#dhamma-pali)
+- [Homage to the Dhamma (English)](#dhamma-english)
+- [Homage to the Saṅgha](#sangha-pali)
+- [Homage to the Saṅgha (English)](#sangha-english)
+- [Salutation to the Triple Gem](#buddho-susuddho)
+- [Salutation to the Triple Gem (English)](#salutation-english)
+- [Closing Homage](#closing-pali)
+- [Closing Homage (English)](#closing-english)
+
 ## Dedication of Offerings<a id="yo-so-bhagava"></a>
 
 [Yo so] bhagavā arahaṃ sammāsambuddho\
@@ -18,7 +35,7 @@ Dhammaṃ namassāmi\
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
 
-## Dedication of Offerings (English)
+## Dedication of Offerings (English)<a id="dedication"></a>
 
 To the Blessed One, the Lord, who fully attained perfect enlightenment,\
 To the Teaching which he expounded so well,\
@@ -39,19 +56,19 @@ I bow to the Dhamma.
 The Blessed One's disciples who have practised well ---\
 I bow to the Saṅgha.
 
-## Preliminary Homage
+## Preliminary Homage<a id="homage-pali"></a>
 
 > [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
 
 Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
-## Preliminary Homage (English)
+## Preliminary Homage (English)<a id="homage-english"></a>
 
 > [Now let us pay preliminary homage to the Buddha.]
 
 Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
 
-## Homage to the Buddha
+## Homage to the Buddha<a id="buddha-pali"></a>
 
 > [Handa mayaṃ buddhābhitthutiṃ karomase]
 
@@ -66,7 +83,7 @@ Yo dhammaṃ desesi ādi-kalyāṇaṃ majjhe-kalyāṇaṃ pariyosāna-kalyā�
 Sātthaṃ sabyañjanaṃ kevala-paripuṇṇaṃ parisuddhaṃ brahma-cariyaṃ pakāsesi\
 Tam-ahaṃ bhagavantaṃ abhipūjayāmi tam-ahaṃ bhagavantaṃ sirasā namāmi
 
-## Homage to the Buddha (English)
+## Homage to the Buddha (English)<a id="buddha-english"></a>
 
 > [Now let us chant in praise of the Buddha.]
 
@@ -83,7 +100,7 @@ He has pointed out the Dhamma: beautiful in the beginning, beautiful in the midd
 He has explained the Spiritual Life of complete purity in its essence and conventions.\
 I chant my praise to the Blessed One, I bow my head to the Blessed One.
 
-## Homage to the Dhamma
+## Homage to the Dhamma<a id="dhamma-pali"></a>
 
 > [Handa mayaṃ dhammābhitthutiṃ karomase]
 
@@ -92,7 +109,7 @@ Sandiṭṭhiko, akāliko, ehipassiko, opanayiko\
 Paccattaṃ veditabbo viññūhi\
 Tam-ahaṃ dhammaṃ abhipūjayāmi tam-ahaṃ dhammaṃ sirasā namāmi
 
-## Homage to the Dhamma (English)
+## Homage to the Dhamma (English)<a id="dhamma-english"></a>
 
 > [Now let us chant in praise of the Dhamma.]
 
@@ -104,7 +121,7 @@ Leading inwards,\
 To be experienced individually by the wise.\
 I chant my praise to this Teaching, I bow my head to this Truth.
 
-## Homage to the Saṅgha
+## Homage to the Saṅgha<a id="sangha-pali"></a>
 
 > [Handa mayaṃ saṅghābhitthutiṃ karomase]
 
@@ -118,7 +135,7 @@ Esa bhagavato sāvakasaṅgho\
 Anuttaraṃ puññakkhettaṃ lokassa\
 Tam-ahaṃ saṅghaṃ abhipūjayāmi tam-ahaṃ saṅghaṃ sirasā namāmi
 
-## Homage to the Saṅgha (English)
+## Homage to the Saṅgha (English)<a id="sangha-english"></a>
 
 > [Now let us chant in praise of the Saṅgha.]
 
@@ -203,7 +220,7 @@ Tasmiṃ bhagavati brahma-cariyaṃ carāma\
 Bhikkhūnaṃ/Sīladharānaṃ sikkhāsājīva-samāpannā\
 Taṃ no brahma-cariyaṃ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṃvattatu
 
-## Salutation to the Triple Gem (English)
+## Salutation to the Triple Gem (English)<a id="salutation-english"></a>
 
 > [Now let us chant our salutation to the Triple Gem and a passage to arouse urgency.]
 
@@ -287,7 +304,7 @@ Attentively we follow the pathway of that Blessed One, with all of our mindfulne
 May then the cultivation of this practice\
 Lead us to the end of every kind of suffering.
 
-## Closing Homage
+## Closing Homage<a id="closing-pali"></a>
 
 [Arahaṃ] sammāsambuddho bhagavā\
 Buddhaṃ bhagavantaṃ abhivādemi
@@ -298,7 +315,7 @@ Dhammaṃ namassāmi
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
 
-## Closing Homage (English)
+## Closing Homage (English)<a id="closing-english"></a>
 
 The Lord, the Perfectly Enlightened and Blessed One ---\
 I render homage to the Buddha, the Blessed One.

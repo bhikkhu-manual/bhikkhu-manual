@@ -1,6 +1,27 @@
 # Evening Chanting
 
-## Dedication of Offerings
+**Contents**
+
+- [Dedication of Offerings](#dedication-pali)
+- [Dedication of Offerings (English)](#dedication-english)
+- [Preliminary Homage](#homage-pali)
+- [Preliminary Homage (English)](#homage-english)
+- [Recollection of the Buddha](#b-sati-pli)
+- [Recollection of the Buddha (English)](#b-sati-eng)
+- [Supreme Praise of the Buddha](#b-bhi-pli)
+- [Supreme Praise of the Buddha (English)](#b-bhi-eng)
+- [Recollection of the Dhamma](#d-sati-pli)
+- [Recollection of the Dhamma (English)](#d-sati-eng)
+- [Supreme Praise of the Dhamma](#d-bhi-pali)
+- [Supreme Praise of the Dhamma (English)](#d-bhi-eng)
+- [Recollection of the Saṅgha](#s-sati-pli)
+- [Recollection of the Saṅgha (English)](#s-sati-eng)
+- [Supreme Praise of the Saṅgha](#s-bhi-pli)
+- [Supreme Praise of the Saṅgha (English)](#s-bhi-eng)
+- [Closing Homage](#closing-pali)
+- [Closing Homage (English)](#closing-english)
+
+## Dedication of Offerings<a id="dedication-pali"></a>
 
 [Yo so] bhagavā arahaṃ sammāsambuddho\
 Svākkhāto yena bhagavatā dhammo\
@@ -20,7 +41,7 @@ Dhammaṃ namassāmi
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
 
-## Dedication of Offerings (English)
+## Dedication of Offerings (English)<a id="dedication-english"></a>
 
 [To the Blessed One,] the Lord, who fully attained\
 perfect enlightenment,\
@@ -41,19 +62,19 @@ I bow to the Dhamma.
 [The Blessed One's disciples,] who have practised well ---\
 I bow to the Saṅgha.
 
-## Preliminary Homage
+## Preliminary Homage<a id="homage-pali"></a>
 
 > [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
 
 Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
-## Preliminary Homage (English)
+## Preliminary Homage (English)<a id="homage-english"></a>
 
 > [Now let us pay preliminary homage to the Buddha.]
 
 Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
 
-## Recollection of the Buddha
+## Recollection of the Buddha<a id="b-sati-pli"></a>
 
 > [Handa mayaṃ buddhānussatinayaṃ karomase]
 
@@ -62,7 +83,7 @@ Itipi so bhagavā arahaṃ sammāsambuddho\
 Vijjācaraṇa-sampanno sugato lokavidū\
 Anuttaro purisadamma-sārathi satthā deva-manussānaṃ buddho bhagavā'ti
 
-## Recollection of the Buddha (English)
+## Recollection of the Buddha (English)<a id="b-sati-eng"></a>
 
 > [Now let us chant the recollection of the Buddha.]
 
@@ -74,7 +95,7 @@ the Accomplished One, the Knower of the Worlds;\
 He trains perfectly those who wish to be trained;\
 he is Teacher of gods and humans; he is Awake and Holy.
 
-## Supreme Praise of the Buddha
+## Supreme Praise of the Buddha<a id="b-bhi-pli"></a>
 
 > [Handa mayaṃ buddhābhigītiṃ karomase]
 
@@ -104,7 +125,7 @@ Buddhe kukammaṃ pakataṃ mayā yaṃ\
 Buddho paṭiggaṇhātu accayantaṃ\
 Kālantare saṃvarituṃ va buddhe
 
-## Supreme Praise of the Buddha (English)
+## Supreme Praise of the Buddha (English)<a id="b-bhi-eng"></a>
 
 > [Now let us chant the supreme praise of the Buddha.]
 
@@ -136,7 +157,7 @@ For whatever wrong action I have committed towards the Buddha,\
 May my acknowledgement of fault be accepted,\
 That in future there may be restraint regarding the Buddha.
 
-## Recollection of the Dhamma
+## Recollection of the Dhamma<a id="d-sati-pli"></a>
 
 > [Handa mayaṃ dhammānussatinayaṃ karomase]
 
@@ -144,7 +165,7 @@ Svākkhāto bhagavatā dhammo\
 Sandiṭṭhiko akāliko ehipassiko\
 Opanayiko paccattaṃ veditabbo viññūhī'ti
 
-## Recollection of the Dhamma (English)
+## Recollection of the Dhamma (English)<a id="d-sati-eng"></a>
 
 > [Now let us chant the recollection of the Dhamma.]
 
@@ -152,7 +173,7 @@ The Dhamma is well expounded by the Blessed One,\
 Apparent here and now, timeless, encouraging investigation,\
 Leading inwards, to be experienced individually by the wise.
 
-## Supreme Praise of the Dhamma
+## Supreme Praise of the Dhamma<a id="d-bhi-pali"></a>
 
 > [Handa mayaṃ dhammābhigītiṃ karomase]
 
@@ -182,7 +203,7 @@ Dhamme kukammaṃ pakataṃ mayā yaṃ\
 Dhammo paṭiggaṇhātu accayantaṃ\
 Kālantare saṃvarituṃ va dhamme
 
-## Supreme Praise of the Dhamma (English)
+## Supreme Praise of the Dhamma (English)<a id="d-bhi-eng"></a>
 
 > [Now let us chant the supreme praise of the Dhamma.]
 
@@ -212,7 +233,7 @@ For whatever wrong action I have committed towards the Dhamma,\
 May my acknowledgement of fault be accepted,\
 That in future there may be restraint regarding the Dhamma.
 
-## Recollection of the Saṅgha
+## Recollection of the Saṅgha<a id="s-sati-pli"></a>
 
 > [Handa mayaṃ saṅghānussatinayaṃ karomase]
 
@@ -225,7 +246,7 @@ Esa bhagavato sāvakasaṅgho\
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo\
 Anuttaraṃ puññakkhettaṃ lokassā'ti
 
-## Recollection of the Saṅgha (English)
+## Recollection of the Saṅgha (English)<a id="s-sati-eng"></a>
 
 > [Now let us chant the recollection of the Saṅgha.]
 
@@ -239,7 +260,7 @@ Such ones are worthy of gifts, worthy of hospitality,\
 worthy of offerings, worthy of respect;\
 They give occasion for incomparable goodness to arise in the world.
 
-## Supreme Praise of the Saṅgha
+## Supreme Praise of the Saṅgha<a id="s-bhi-pli"></a>
 
 > [Handa mayaṃ saṅghābhigītiṃ karomase]
 
@@ -269,7 +290,7 @@ Saṅghe kukammaṃ pakataṃ mayā yaṃ\
 Saṅgho paṭiggaṇhātu accayantaṃ\
 Kālantare saṃvarituṃ va saṅghe
 
-## Supreme Praise of the Saṅgha (English)
+## Supreme Praise of the Saṅgha (English)<a id="s-bhi-eng"></a>
 
 > [Now let us chant the supreme praise of the Saṅgha.]
 
@@ -300,7 +321,7 @@ For whatever wrong action I have committed towards the Saṅgha,\
 May my acknowledgement of fault be accepted,\
 That in future there may be restraint regarding the Saṅgha.
 
-## Closing Homage
+## Closing Homage<a id="closing-pali"></a>
 
 [Arahaṃ] sammāsambuddho bhagavā\
 Buddhaṃ bhagavantaṃ abhivādemi
@@ -311,7 +332,7 @@ Dhammaṃ namassāmi
 [Supaṭipanno] bhagavato sāvakasaṅgho\
 Saṅghaṃ namāmi
 
-## Closing Homage (English)
+## Closing Homage (English)<a id="closing-english"></a>
 
 [The Lord,] the Perfectly Enlightened and Blessed One ---\
 I render homage to the Buddha, the Blessed One.
