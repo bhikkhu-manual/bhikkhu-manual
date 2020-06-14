@@ -207,7 +207,7 @@ Kālantare saṃvarituṃ va dhamme
 
 > [Now let us chant the supreme praise of the Dhamma.]
 
-It is excellent because it is `well expounded,'\
+It is excellent because it is 'well expounded,'\
 And it can be divided into Path and Fruit, Learning and Liberation.\
 The Dhamma holds those who uphold it from falling into delusion.\
 I revere the excellent Teaching, that which removes darkness ---\

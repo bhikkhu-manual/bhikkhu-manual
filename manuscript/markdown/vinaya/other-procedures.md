@@ -192,7 +192,7 @@ Desetu dhammaṃ anukampimaṃ pajaṃ
 > The Brahmā god Sahampati, Lord of the world,\
 > With palms joined in reverence, requested a favour:
 > 
-> `Beings are here with but little dust in their eyes,\
+> 'Beings are here with but little dust in their eyes,\
 > Pray, teach the Dhamma out of compassion for them.'
 
 </div>
