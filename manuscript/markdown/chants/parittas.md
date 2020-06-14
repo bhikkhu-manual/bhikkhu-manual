@@ -57,7 +57,7 @@
   - [Sā attha-laddhā](#sa-attha-laddha)
   - [Te attha-laddhā sukhitā](#te-attha-laddha)
   - [Bhavatu sabba-maṅgalaṃ](#bhavatu)
-  - [Mahā-kāruṇiko nātho'ti ādikā gāthā](#maha-karuniko)
+  - [Mahā-kāruṇiko nātho'ti ādikā gāthā](#atthaya)
   - [Āṭānāṭiya-paritta (long)](#atanatiya)
     - [Natthi me saraṇaṃ aññaṃ](#atanatiya-natthi-me)
     - [Yaṅkiñci ratanaṃ loke](#atanatiya-yankinci)
@@ -1662,7 +1662,7 @@ Sabba-dhammānubhāvena sadā sotthī bhavantu te
 Bhavatu sabba-maṅgalaṃ rakkhantu sabba-devatā\
 Sabba-saṅghānubhāvena sadā sotthī bhavantu te
 
-### Mahā-kāruṇiko nātho'ti ādikā gāthā<a id="maha-karuniko"></a>
+### Mahā-kāruṇiko nātho'ti ādikā gāthā<a id="atthaya"></a>
 
 Mahā-kāruṇiko nātho\
 Atthāya sabba-pāṇinaṃ\
@@ -1770,7 +1770,7 @@ Sabba-veramatikkanto\
 <span class="vin"></span>nibbuto ca tuvaṃ bhava\
 Tesaṃ saccena sīlena\
 <span class="vin"></span>khantimettābalena ca\
-Tepi tumhe[^1] anurakkhantu\
+Tepi tumhe<sup><a href="#fn1">1</a></sup> anurakkhantu\
 <span class="vin"></span>ārogyena sukhena ca\
 Puratthimasmiṃ disābhāge\
 <span class="vin"></span>santi bhūtā mahiddhikā\
@@ -1801,7 +1801,7 @@ Tepi tumhe anurakkhantu\
 Tepi tumhe anurakkhantu\
 <span class="vin"></span>ārogyena sukhena ca
 
-[^1]: If chanting for oneself, change *tumhe* to *amhe* here and in the lines below.
+<sup id="fn1">1</sup> If chanting for oneself, change *tumhe* to *amhe* here and in the lines below.
 
 #### Natthi me saraṇaṃ aññaṃ<a id="atanatiya-natthi-me"></a>
 
@@ -1809,7 +1809,7 @@ Tepi tumhe anurakkhantu\
 Natthi me saraṇaṃ aññaṃ\
 <span class="vin"></span>buddho me saraṇaṃ varaṃ\
 Etena saccavajjena\
-<span class="vin"></span>hotu te[^2] jayamaṅgalaṃ\
+<span class="vin"></span>hotu te<sup><a href="#fn2">2</a></sup> jayamaṅgalaṃ\
 Natthi me saraṇaṃ aññaṃ\
 <span class="vin"></span>dhammo me saraṇaṃ varaṃ\
 Etena saccavajjena\
@@ -1819,7 +1819,7 @@ Natthi me saraṇaṃ aññaṃ\
 Etena saccavajjena\
 <span class="vin"></span>hotu te jayamaṅgalaṃ
 
-[^2]: If chanting for oneself, change *te* to *me* here and in the lines below.
+<sup id="fn2">2</sup> If chanting for oneself, change *te* to *me* here and in the lines below.
 
 #### Yaṅkiñci ratanaṃ loke<a id="atanatiya-yankinci"></a>
 

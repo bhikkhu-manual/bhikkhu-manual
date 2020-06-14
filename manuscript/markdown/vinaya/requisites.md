@@ -9,7 +9,7 @@
   - [Generally Addressing the Recipient](#general-address)
   - [Addressing the Recipient by Name](#recipient-by-name)
   - [Receiving Bhikkhu is Absent](#receiving-bhikkhu-absent)
-- [Vikappana-paccuddharaṇa (Relinquishing Shared Ownership)](#vikappana)
+- [Vikappana-paccuddharaṇa (Relinquishing Shared Ownership)](#vikappana-relinquishing)
 
 ## Bindu (Marking)<a id="bindu"></a>
 
@@ -165,7 +165,7 @@ If more than one article is to be shared substitute the plural form as in [Gener
 
 When the item is beyond forearm's length substitute as in [Generally Addressing](#general-address) above.
 
-## Vikappana-paccuddharaṇa (Relinquishing Shared Ownership)<a id="vikappana"></a>
+## Vikappana-paccuddharaṇa (Relinquishing Shared Ownership)<a id="vikappana-relinquishing"></a>
 
 Before actually using the shared article, the other bhikkhu must relinquish his
 share.

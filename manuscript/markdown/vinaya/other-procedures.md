@@ -24,7 +24,7 @@
 
 Taking dependence happens either individually or with the whole community before
 the Rains Retreat and Winter Retreat. It is frequently preceded by *Asking for
-Forgiveness*, see [Asking for Forgiveness](#asking-forgiveness) for preparation.
+Forgiveness*, see [Asking for Forgiveness](rains-and-kathina.html#asking-forgiveness) for preparation.
 
 The bhikkhu:
 

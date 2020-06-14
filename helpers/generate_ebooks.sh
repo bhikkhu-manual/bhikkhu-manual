@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MDBOOK_EPUB_BIN=../mdbook-epub-gambhiro/target/debug/mdbook-epub
+MDBOOK_EPUB_BIN=../mdbook-epub/target/debug/mdbook-epub
 
 EBOOK_NAME="Bhikkhu-Manual-Reference"
 EPUB_FILE="$EBOOK_NAME.epub"

@@ -89,7 +89,7 @@ For senior bhikkhus generally use '*Āyasmante*'. For Ajahns use '*There*',
 '*Mahāthere*', '*Ācariye*', '*Upajjhāye*', as appropriate.
 
 When entering Rains, asking for forgiveness is followed by taking dependence
-(*nissaya*), see [Nissaya](#nissaya).
+(*nissaya*), see [Nissaya](other-procedures.html#nissaya).
 
 When a single community member is asking for forgiveness:
 
@@ -363,8 +363,8 @@ Khamati saṅghassa, tasmā tuṇhī. Evam-etaṃ dhārayāmi.
 
 ### Spreading the Kaṭhina<a id="spreading-the-kathina"></a>
 
-After the Kaṭhina robe has been sewn and dyed, and the old [robe relinquished](#relinquish-robe),
-the new robe should be marked and [determined](#determine-robe).
+After the Kaṭhina robe has been sewn and dyed, and the old [robe relinquished](requisites.html#relinquish-robe),
+the new robe should be marked and [determined](requisites.html#determine-robe).
 Then the recipient chants *one* of the following:
 
 ‘Namo...’ (×3)\
