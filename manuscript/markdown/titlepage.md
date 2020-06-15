@@ -6,7 +6,7 @@
 
 ## Downlads
 
-*(NOTE: For press-quality print files and guidelines, see the [Print Guide](./print-guide.html))*
+*(NOTE: See the [Print Guide](./print-guide.html) for press-quality print files and guidelines.)*
 
 <div class="grid download-item">
   <div class="col-1-3 item-cover">
