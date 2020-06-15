@@ -23,7 +23,7 @@ Declaring one's purity before the Sangha:
 
 '*I, ven. sirs, am quite pure (of offences). May the Saṅgha hold me to be pure.*'
 
-*Vin.I.120--129*
+*Vin.I.120-129*
 
 ### Pārisuddhi for Three Bhikkhus<a id="three-bhikkhus"></a>
 

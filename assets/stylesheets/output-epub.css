@@ -27,9 +27,7 @@
   src: url("OpenSansX-Regular.ttf") format("truetype"); }
 
 body {
-  font-family: 'Open Sans X', sans-serif;
-  font-size: 1.6rem;
-  line-height: 1.7; }
+  font-family: 'Open Sans X', sans-serif; }
 
 h1, h2, h3, h4 {
   font-family: 'Nunito Sans', sans-serif; }
@@ -69,3 +67,6 @@ span.vin {
     margin-top: 0.5em; }
   .download-item .item-cover img {
     width: 170px; }
+
+body {
+  line-height: 1.7; }

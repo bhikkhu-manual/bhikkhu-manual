@@ -42,12 +42,12 @@ for the chanting.
 The leader may prompt the chanting, then all members of the group are chanting
 together.
 
-> *Leader:* ‘Na--’\
+> *Leader:* ‘Na&ndash;’\
 > *All:* ‘Namo tassa...’ (×3)
 
 The leader picks up and holds the tray, still in a bowed posture.
 
-> *Leader:* ‘Ā--’\
+> *Leader:* ‘Ā&ndash;’\
 > *All:* ‘*Āyasmante* pamādena, dvārattayena kataṃ, sabbaṃ aparādhaṃ khamatu *no* bhante.’
 
 (*Forgive us, ven. sir, for all wrong-doing done carelessly to the ven. one by way of the three doors.*)

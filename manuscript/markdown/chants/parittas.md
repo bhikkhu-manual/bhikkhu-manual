@@ -913,7 +913,7 @@ Outwards and unbounded,\
 Freed from hatred and ill-will.
 
 Whether standing or walking, seated, \
-Or lying down -- free from drowsiness --\
+Or lying down &ndash; free from drowsiness &ndash;\
 One should sustain this recollection.\
 This is said to be the sublime abiding.
 
@@ -1205,7 +1205,7 @@ Homage to Kassapa, everywhere released.
 
 Homage to Aṅgīrasa, splendid son of the Sakyans,
 
-Who taught this Dhamma -- the dispelling of all stress.
+Who taught this Dhamma &ndash; the dispelling of all stress.
 
 Those unbound in the world, who have seen things as they have come to be,
 
@@ -1357,8 +1357,8 @@ matured, bring about heightened knowledge, Unbinding and Awakening.
 
 By the utterance of this truth, may you always be well.
 
-At one time, our Protector -- seeing that Moggallāna and Kassapa were sick and
-in pain -- taught them the seven factors for Awakening.
+At one time, our Protector &ndash; seeing that Moggallāna and Kassapa were sick and
+in pain &ndash; taught them the seven factors for Awakening.
 
 They, delighting in that, were instantly freed from their illness.
 
@@ -2037,9 +2037,9 @@ Bahuṃ ve saraṇaṃ yanti\
 
 <div class="english">
 
-> To many refuges they go --\
+> To many refuges they go &ndash;\
 > To mountain slopes and forest glades,\
-> To parkland shrines and sacred sites --\
+> To parkland shrines and sacred sites &ndash;\
 > People overcome by fear.
 
 </div>
@@ -2080,7 +2080,7 @@ Ariyañ-c'aṭṭh'aṅgikaṃ maggaṃ\
 <div class="english">
 
 > Suffering and its origin\
-> And that which lies beyond --\
+> And that which lies beyond &ndash;\
 > The Noble Eightfold Path\
 > That leads the way to suff'ring's end.
 
@@ -2208,17 +2208,17 @@ Khīṇ'āsavā jutimanto\
 
 #### Verses on the Three Characteristics<a id="three-characteristics"></a>
 
-'Impermanent are all conditioned things' --\
+'Impermanent are all conditioned things' &ndash;\
 When with wisdom this is seen\
 One feels weary of all dukkha;\
 This is the path to purity.
 
-'Dukkha are all conditioned things' --\
+'Dukkha are all conditioned things' &ndash;\
 When with wisdom this is seen\
 One feels weary of all dukkha;\
 This is the path to purity.
 
-'There is no self in anything' --\
+'There is no self in anything' &ndash;\
 When with wisdom this is seen\
 One feels weary of all dukkha;\
 This is the path to purity.
@@ -2254,7 +2254,7 @@ Yo c'etarahi sambuddho\
 
 > All the Buddhas of the past,\
 > All the Buddhas yet to come,\
-> The Buddha of this current age --\
+> The Buddha of this current age &ndash;\
 > Dispellers of much sorrow.
 
 </div>
@@ -2268,7 +2268,7 @@ Atho pi viharissanti\
 
 > Those having lived or living now,\
 > Those living in the future,\
-> All do revere the True Dhamma --\
+> All do revere the True Dhamma &ndash;\
 > That is the nature of all Buddhas.
 
 </div>
@@ -2282,7 +2282,7 @@ Saddhammo garu-kātabbo\
 
 > Therefore desiring one's own welfare,\
 > Pursuing greatest aspirations,\
-> One should revere the True Dhamma --\
+> One should revere the True Dhamma &ndash;\
 > Recollecting the Buddha's teaching.
 
 </div>
@@ -2298,7 +2298,7 @@ Dhammo pāpeti suggatiṃ
 
 > What is true Dhamma and what not\
 > Will never have the same results,\
-> While lack of Dhamma leads to hell-realms --\
+> While lack of Dhamma leads to hell-realms &ndash;\
 > True Dhamma takes one on a good course.
 
 </div>
@@ -2310,7 +2310,7 @@ Esānisaṃso dhamme suciṇṇe
 <div class="english">
 
 > The Dhamma guards who lives in line with it\
-> And leads to happiness when practised well --\
+> And leads to happiness when practised well &ndash;\
 > This is the blessing of well-practised Dhamma.
 
 </div>
@@ -2330,7 +2330,7 @@ Gaha-kāraṃ gavesanto\
 
 > For many lifetimes in the round of birth,\
 > Wandering on endlessly,\
-> For the builder of this house I searched --\
+> For the builder of this house I searched &ndash;\
 > How painful is repeated birth.
 
 </div>

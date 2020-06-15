@@ -47,19 +47,19 @@ Saṅghaṃ namāmi
 perfect enlightenment,\
 To the Teaching, which he expounded so well,\
 And to the Blessed One's disciples who have practised well,\
-To these --- the Buddha, the Dhamma, and the Saṅgha ---\
+To these &ndash; the Buddha, the Dhamma, and the Saṅgha &ndash;\
 We render with offerings our rightful homage.\
 It is well for us that the Blessed One, having attained liberation,\
 Still had compassion for later generations.\
 May these simple offerings be accepted\
 For our long-lasting benefit and for the happiness it gives us.\
-The Lord, the Perfectly Enlightened and Blessed One ---\
+The Lord, the Perfectly Enlightened and Blessed One &ndash;\
 I render homage to the Buddha, the Blessed One.
 
-[The Teaching,] so completely explained by him ---\
+[The Teaching,] so completely explained by him &ndash;\
 I bow to the Dhamma.
 
-[The Blessed One's disciples,] who have practised well ---\
+[The Blessed One's disciples,] who have practised well &ndash;\
 I bow to the Saṅgha.
 
 ## Preliminary Homage<a id="homage-pali"></a>
@@ -133,9 +133,9 @@ The Buddha, the truly worthy one, endowed with\
 such excellent qualities,\
 Whose being is composed of purity, transcendental wisdom,\
 and compassion,\
-Who has enlightened the wise like the sun awakening the lotus ---\
+Who has enlightened the wise like the sun awakening the lotus &ndash;\
 I bow my head to that peaceful chief of conquerors.\
-The Buddha, who is the safe, secure refuge of all beings ---\
+The Buddha, who is the safe, secure refuge of all beings &ndash;\
 As the First Object of Recollection, I venerate him with bowed head.\
 I am indeed the Buddha's servant, the Buddha is my Lord and Guide.\
 The Buddha is sorrow's destroyer, who bestows blessings on me.\
@@ -143,7 +143,7 @@ To the Buddha I dedicate this body and life,\
 And in devotion I will walk the Buddha's Path of Awakening.\
 For me there is no other refuge, the Buddha is my excellent refuge.\
 By the utterance of this Truth, may I grow in the Master's Way.\
-By my devotion to the Buddha, and the blessing of this practice ---\
+By my devotion to the Buddha, and the blessing of this practice &ndash;\
 By its power, may all obstacles be overcome.
 
 <div class="instr">
@@ -210,8 +210,8 @@ Kālantare saṃvarituṃ va dhamme
 It is excellent because it is 'well expounded,'\
 And it can be divided into Path and Fruit, Learning and Liberation.\
 The Dhamma holds those who uphold it from falling into delusion.\
-I revere the excellent Teaching, that which removes darkness ---\
-The Dhamma, which is the supreme, secure refuge of all beings ---\
+I revere the excellent Teaching, that which removes darkness &ndash;\
+The Dhamma, which is the supreme, secure refuge of all beings &ndash;\
 As the Second Object of Recollection, I venerate it with bowed head.\
 I am indeed the Dhamma's servant, the Dhamma is my Lord and Guide.\
 The Dhamma is sorrow's destroyer, and it bestows blessings on me.\
@@ -219,7 +219,7 @@ To the Dhamma I dedicate this body and life,\
 And in devotion I will walk this excellent way of Truth.\
 For me there is no other refuge, the Dhamma is my excellent refuge.\
 By the utterance of this Truth, may I grow in the Master's Way.\
-By my devotion to the Dhamma, and the blessing of this practice ---\
+By my devotion to the Dhamma, and the blessing of this practice &ndash;\
 By its power, may all obstacles be overcome.
 
 <div class="instr">
@@ -253,8 +253,8 @@ Anuttaraṃ puññakkhettaṃ lokassā'ti
 They are the Blessed One's disciples, who have practised well,\
 Who have practised directly,\
 Who have practised insightfully,\
-Those who practise with integrity ---\
-That is the four pairs, the eight kinds of noble beings ---\
+Those who practise with integrity &ndash;\
+That is the four pairs, the eight kinds of noble beings &ndash;\
 These are the Blessed One's disciples.\
 Such ones are worthy of gifts, worthy of hospitality,\
 worthy of offerings, worthy of respect;\
@@ -298,7 +298,7 @@ Born of the Dhamma, that Saṅgha which has practised well,\
 The field of the Saṅgha formed of eight kinds of noble beings,\
 Guided in body and mind by excellent morality and virtue.\
 I revere that assembly of noble beings perfected in purity.\
-The Saṅgha, which is the supreme, secure refuge of all beings ---\
+The Saṅgha, which is the supreme, secure refuge of all beings &ndash;\
 As the Third Object of Recollection, I venerate it with bowed head.
 
 I am indeed the Saṅgha's servant, the Saṅgha is my Lord and Guide.\
@@ -307,7 +307,7 @@ To the Saṅgha I dedicate this body and life,\
 And in devotion I will walk the well-practised way of the Saṅgha.\
 For me there is no other refuge, the Saṅgha is my excellent refuge.\
 By the utterance of this Truth, may I grow in the Master's Way.\
-By my devotion to the Saṅgha, and the blessing of this practice ---\
+By my devotion to the Saṅgha, and the blessing of this practice &ndash;\
 By its power, may all obstacles be overcome.
 
 <div class="instr">
@@ -334,12 +334,12 @@ Saṅghaṃ namāmi
 
 ## Closing Homage (English)<a id="closing-english"></a>
 
-[The Lord,] the Perfectly Enlightened and Blessed One ---\
+[The Lord,] the Perfectly Enlightened and Blessed One &ndash;\
 I render homage to the Buddha, the Blessed One.
 
-[The Teaching,] so completely explained by him ---\
+[The Teaching,] so completely explained by him &ndash;\
 I bow to the Dhamma.
 
-[The Blessed One's disciples,] who have practised well ---\
+[The Blessed One's disciples,] who have practised well &ndash;\
 I bow to the Saṅgha.
 

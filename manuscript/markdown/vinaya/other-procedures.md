@@ -64,7 +64,7 @@ etc., responds:
 
 'Kappiyaṃ bhante.' '*It is allowable, ven. sir.*'
 
-*Sp.IV.767--768*
+*Sp.IV.767-768*
 
 ## Entering Town after Midday<a id="midday"></a>
 
@@ -99,7 +99,7 @@ recites:
 
 The Sangha responds: 'Sādhu.'
 
-*Sp.VII.1405--1409*
+*Sp.VII.1405-1409*
 
 ## Paṃsukūla-cīvara (Taking Rag-cloth)<a id="rag-cloth"></a>
 

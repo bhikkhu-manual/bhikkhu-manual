@@ -40,20 +40,20 @@ Saṅghaṃ namāmi
 To the Blessed One, the Lord, who fully attained perfect enlightenment,\
 To the Teaching which he expounded so well,\
 And to the Blessed One's disciples who have practised well,\
-To these --- the Buddha, the Dhamma, and the Saṅgha ---\
+To these &ndash; the Buddha, the Dhamma, and the Saṅgha &ndash;\
 We render with offerings our rightful homage.\
 It is well for us that the Blessed One, having attained liberation,\
 Still had compassion for later generations.\
 May these simple offerings be accepted\
 For our long-lasting benefit and for the happiness it gives us.
 
-The Lord, the Perfectly Enlightened and Blessed One ---\
+The Lord, the Perfectly Enlightened and Blessed One &ndash;\
 I render homage to the Buddha, the Blessed One.
 
-The Teaching so completely explained by him ---\
+The Teaching so completely explained by him &ndash;\
 I bow to the Dhamma.
 
-The Blessed One's disciples who have practised well ---\
+The Blessed One's disciples who have practised well &ndash;\
 I bow to the Saṅgha.
 
 ## Preliminary Homage<a id="homage-pali"></a>
@@ -142,8 +142,8 @@ Tam-ahaṃ saṅghaṃ abhipūjayāmi tam-ahaṃ saṅghaṃ sirasā namāmi
 They are the Blessed One's disciples, who have practised well,\
 Who have practised directly,\
 Who have practised insightfully,\
-Those who practise with integrity ---\
-That is the four pairs, the eight kinds of noble beings ---\
+Those who practise with integrity &ndash;\
+That is the four pairs, the eight kinds of noble beings &ndash;\
 These are the Blessed One's disciples.\
 Such ones are worthy of gifts,\
 Worthy of hospitality,\
@@ -226,21 +226,21 @@ Taṃ no brahma-cariyaṃ imassa kevalassa dukkha-kkhandhassa antakiriyāya sa�
 
 The Buddha, absolutely pure, with ocean-like compassion,\
 Possessing the clear sight of wisdom,\
-Destroyer of worldly self-corruption ---\
+Destroyer of worldly self-corruption &ndash;\
 Devotedly indeed, that Buddha I revere.\
 The Teaching of the Lord, like a lamp,\
 Illuminating the Path and its Fruit: the Deathless,\
-That which is beyond the conditioned world ---\
+That which is beyond the conditioned world &ndash;\
 Devotedly indeed, that Dhamma I revere.\
 The Saṅgha, the most fertile ground for cultivation,\
 Those who have realized peace, awakened after the Accomplished One,\
-Noble and wise, all longing abandoned ---\
+Noble and wise, all longing abandoned &ndash;\
 Devotedly indeed, that Saṅgha I revere.
 
 This salutation should be made to that which is worthy.\
 Through the power of such good action, may all obstacles disappear.\
 One who knows things as they are has come into this world; and he is an Arahant, a perfectly Awakened being,\
-Purifying the way leading out of delusion, calming and directing to perfect peace, and leading to enlightenment --- this Way he has made known.
+Purifying the way leading out of delusion, calming and directing to perfect peace, and leading to enlightenment &ndash; this Way he has made known.
 
 Having heard the Teaching, we know this:\
 Birth is dukkha,\
@@ -317,12 +317,12 @@ Saṅghaṃ namāmi
 
 ## Closing Homage (English)<a id="closing-english"></a>
 
-The Lord, the Perfectly Enlightened and Blessed One ---\
+The Lord, the Perfectly Enlightened and Blessed One &ndash;\
 I render homage to the Buddha, the Blessed One.
 
-The Teaching, so completely explained by him ---\
+The Teaching, so completely explained by him &ndash;\
 I bow to the Dhamma.
 
-The Blessed One's disciples, who have practised well ---\
+The Blessed One's disciples, who have practised well &ndash;\
 I bow to the Saṅgha.
 
