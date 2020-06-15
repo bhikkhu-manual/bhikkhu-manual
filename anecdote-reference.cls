@@ -250,14 +250,14 @@
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {8}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {8}{8}}
 \newcommand{\tocSize}{\@setfontsize                  \tocSize                  {9}{14}}
-\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {9.5}{14}}
+\newcommand{\tocSectionSize}{\@setfontsize           \tocSectionSize           {10.5}{15}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
 
 \renewcommand{\footnotesize}{%
-   \@setfontsize\footnotesize\@viiipt{11}%
+   \@setfontsize\footnotesize{9}{11}%
    \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
    \abovedisplayshortskip \z@ \@plus\p@
    \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
@@ -1079,7 +1079,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{part}[\tocLeftWidth]
 {\addvspace{25pt}%
-\tocFont\bfseries\fontsize{12}{12}\selectfont}%
+\tocFont\bfseries\fontsize{13}{13}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \textls*{PART \thecontentslabel.}\space%
@@ -1091,7 +1091,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{10}{14}\selectfont}%
+\tocFont\bfseries\fontsize{11}{15}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1100,7 +1100,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\tocFont\fontsize{10}{14}\selectfont\thecontentspage}
+{\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
 [\addvspace{6pt}]
 
 \titlecontents{section}[\tocLeftWidth]
@@ -1142,7 +1142,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\addvspace{15pt}%
-\tocFont\bfseries\fontsize{10}{14}\selectfont}%
+\tocFont\bfseries\fontsize{11}{15}\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space%
@@ -1151,7 +1151,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\tocFont\fontsize{10}{14}\selectfont\thecontentspage}
+{\hfill\tocFont\fontsize{11}{15}\selectfont\thecontentspage}
 [\addvspace{5pt}]
 
 % === List of First Lines ===
@@ -1460,7 +1460,7 @@ philo-sophical munindo amaravati thai-land}
   \vspace*{-1ex}%
   \tocEnglishTitle{#1}%
   {%
-    \subSectionFont\fontsize{8.5}{13}\selectfont%
+    \subSectionFont\fontsize{11}{17}\selectfont%
     \itshape\color{section}%
     \memRTLraggedright%
     #1%
@@ -1553,7 +1553,7 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand\sideparfont{\instrFmt}
 
 \renewcommand*\sideparform{%
-  \vspace*{-4.2pt}%
+  \vspace*{-7.2pt}%
   \ifmemtortm\raggedright\else\raggedleft\fi
 }
 
