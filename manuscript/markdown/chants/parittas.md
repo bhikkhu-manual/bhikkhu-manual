@@ -91,9 +91,11 @@ The third introductory chant in the Mahānikāya sect is commonly *Sambuddhe*.
 In Dhammayut circles and frequently in the forest tradition, the third chant is
 *Yo cakkhumā* instead.
 
+<!-- NOTE: don't include the Thai script in the ebooks, it crashes certain Kindles -->
+
 There is a shorter and longer traditional core sequence. The *jet tamnaan*
-(เจ็ดตํานาน) contains D1-D7 as below, the *sipsong tamnaan*
-(สิบสองตํานาน) contains S1-S12. Chants that are not numbered 'D' or 'S' can
+contains D1-D7 as below, the *sipsong tamnaan*
+contains S1-S12. Chants that are not numbered 'D' or 'S' can
 be included or not, as wished, but should be recited in the order listed here.
 
 |      | first line                                                   |     |
