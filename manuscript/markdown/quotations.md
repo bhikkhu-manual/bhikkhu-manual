@@ -287,27 +287,27 @@ sleep.\
 
 *(Puññakiriyā-vatthu)*
 
-(1) *Dānamaya:* meritorious action based in generosity, merit acquired
-by giving;
+(1) *Dāna:* meritorious action based in generosity, merit acquired by giving;
 
-(2) *Sīlamaya:* by observing the precepts or moral behaviour;
+(2) *Sīla:* by observing the precepts or moral behaviour;
 
-(3) *Bhāvanāmaya:* by mental development or meditation;
+(3) *Bhāvanā:* by mental development or meditation;
 
-(4) *Apacāyanamaya:* by humility or reverence;
+(4) *Apacāyana:* by humility or reverence;
 
-(5) *Veyyāvaccamaya:* by rendering services;
+(5) *Veyyāvacca:* by rendering services;
 
-(6) *Pattidānamaya:* by sharing or giving out merit;
+(6) *Pattidāna:* by sharing or giving out merit;
 
-(7) *Pattānumodanāmaya:* by rejoicing in others' merit;
+(7) *Pattānumodanā:* by rejoicing in others' merit;
 
-(8) *Dhammassavanamaya:* by listening to the Doctrine or right teaching;
+(8) *Dhammassavana:* by listening to the Doctrine or right teaching;
 
-(9) *Dhammadesanāmaya:* by teaching the Doctrine or showing truth;
+(9) *Dhammadesanā:* by teaching the Doctrine or showing truth;
 
-(10) *Diṭṭhujukamma:* by straightening one's views or forming correct
-views.
+(10) *Diṭṭhujukamma:* by straightening one's views or forming correct views.
+
+*DhsA.157*
 
 ## The Root of All Things<a id="the-root-of-all-things"></a>
 
