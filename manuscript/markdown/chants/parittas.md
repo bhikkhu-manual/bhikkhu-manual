@@ -249,7 +249,9 @@ Avikkhitta-cittā parittaṃ bhaṇantu
 
 **C.**\
 Samantā cakka-vāḷesu\
-Atr'āgacchantu devatā
+Atr'āgacchantu devatā\
+Saddhammaṃ muni-rājassa\
+Suṇantu sagga-mokkha-daṃ
 
 **D.**\
 Sagge kāme ca rūpe\
