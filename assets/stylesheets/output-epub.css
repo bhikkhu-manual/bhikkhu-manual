@@ -30,7 +30,8 @@ body {
   font-family: 'Open Sans X', sans-serif; }
 
 h1, h2, h3, h4 {
-  font-family: 'Nunito Sans', sans-serif; }
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: left; }
 
 h1 {
   font-weight: normal;
@@ -67,6 +68,15 @@ span.vin {
     margin-top: 0.5em; }
   .download-item .item-cover img {
     width: 170px; }
+
+h1 {
+  font-size: 1.5em; }
+
+h2 {
+  font-size: 1.3em; }
+
+#toc ol li {
+  list-style-type: none; }
 
 body {
   line-height: 1.7; }
