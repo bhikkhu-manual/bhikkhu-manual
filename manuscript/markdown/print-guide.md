@@ -1,6 +1,6 @@
 # Print Guide
 
-PDF downloads.
+Print specs and files: [bhikkhu-manual-print](https://github.com/bhikkhu-manual/bhikkhu-manual-print)
 
-Instructions.
+Download the print files and covers: [ZIP archive](https://github.com/bhikkhu-manual/bhikkhu-manual-print/archive/master.zip)
 
