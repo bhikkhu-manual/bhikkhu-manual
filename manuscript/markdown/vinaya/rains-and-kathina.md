@@ -313,7 +313,7 @@ The chanting bhikkhu announces the motion and decision to give the
 
 The bhikkhu receiving the robe, in front of everyone, relinquishes the robe he
 will replace, usually the *antaravāsaka*. He marks the robe he has received
-with a *bindu*.
+with a *bindu*, either when receiving it, or after having changed into it, before determining it.
 
 He leaves the room and changes into the new robe. He returns to the
 gathered bhikkhus, determines the new robe and completes the *Kaṭhina* by

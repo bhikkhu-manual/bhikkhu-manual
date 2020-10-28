@@ -10,6 +10,13 @@ MOBI_FILE="$EBOOK_NAME.mobi"
 mv book.toml book-html.toml
 cp book-epub.toml book.toml
 
+# Update the date
+cd manuscript/markdown
+TODAY=$(date --iso-8601)
+sed -i 's/\(Last updated on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' titlepage.md
+sed -i 's/\(Last updated on:\) *[0-9-]\{10\}/\1 '"$TODAY"'/' titlepage-ebook.md
+cd ../..
+
 # Use titlepage-ebook.md for a simple title page
 cd manuscript/markdown
 mv titlepage.md titlepage-html.md

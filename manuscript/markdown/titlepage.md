@@ -4,6 +4,10 @@
   <a href="https://bhikkhu-manual.github.io">bhikkhu-manual.github.io</a>
 </div>
 
+<div>
+  <p><em>Last updated on: 2020-10-28</em></p>
+</div>
+
 ## Downlads
 
 *(NOTE: See the [Print Guide](./print-guide.html) for press-quality print files and guidelines.)*
