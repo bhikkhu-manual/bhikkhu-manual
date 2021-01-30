@@ -84,7 +84,7 @@ recites:
 > Ayaṃ paṭhama-bhāgo *therassa* pāpuṇāti.\
 > Avasesā bhāgā amhākañc'eva pāpuṇanti.\
 > Bhikkhūnañca sīladharānaṃ sāmaṇerānaṃ gahaṭṭhānaṃ\
-> Te yathāsukhaṃ paribhuñjantu.' (×3)
+> Te yathāsukhaṃ paribhuñjantu.'
 
 'therassa' → 'mahātherassa'
 
