@@ -25,6 +25,7 @@
 - [Appendix](appendix.md)
   - [Pāli Phonetics and Pronunciation](pali-phonetics-and-pronunciation.md)
   - [Quotations](quotations.md)
+  - [Namo Tassa](namo-tassa.md)
 
 - [Print Guide](print-guide.md)
 
