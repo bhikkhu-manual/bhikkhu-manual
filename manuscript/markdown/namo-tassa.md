@@ -20,10 +20,10 @@ Uses:
 
 - Funeral Chanting (*Matika*)
 
-Namo  
-tas || sa bhagavato arahato sammāsambud || dhas || sa Namo  
-tas || sa bhagavato arahato sammāsambud || dhas || sa Namo  
-tas || sa bhagavato arahato sammāsambud || dhas || sa
+Namo tas ||  
+sa bhagavato arahato sammāsambud || dhas || sa Namo tas ||  
+sa bhagavato arahato sammāsambud || dhas || sa Namo tas ||  
+sa bhagavato arahato sammāsambud || dhas || sa
 
 ## Method 3
 
