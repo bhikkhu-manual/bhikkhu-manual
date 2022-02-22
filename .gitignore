@@ -8,6 +8,7 @@ main_reference.pdf
 *~
 \#*\#
 *.elc
+.auctex-auto/
 auto-save-list
 tramp
 .\#*
