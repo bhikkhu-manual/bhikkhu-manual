@@ -608,7 +608,7 @@ N'atthi me ettha saṃsayo.
 > Their total stilling is bliss.
 
 > All living beings are dying,\
-> have dies, and will die.\
+> have died, and will die.\
 > In the same way, I will die:\
 > I have no doubt about this.
 
