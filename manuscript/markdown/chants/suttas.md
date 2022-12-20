@@ -11,7 +11,7 @@
 - [The Fire Sermon](#fire-sermon)
 - [Ānāpānassati-sutta](#anapanassati)
 - [Dhaj'agga Sutta](#dhaj-agga)
-- [Girimānanda-suttaṃ](#girimananda)
+- [Girimānanda-sutta](#girimananda)
 
 ## Dhammacakkappavattana-sutta<a id="dhammacakkappavattana"></a>
 
@@ -1422,7 +1422,7 @@ Dhaj’agga Suttaṃ Niṭṭhitaṃ.
 
 *S.I.218*
 
-## Girimānanda-suttaṃ<a id="girimananda"></a>
+## Girimānanda-sutta<a id="girimananda"></a>
 
 [Evaṃ me sutaṃ] 
 Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
