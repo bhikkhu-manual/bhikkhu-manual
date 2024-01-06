@@ -10,7 +10,7 @@
 - [Āditta-pariyāya-sutta](#aditta-pariyaya)
 - [The Fire Sermon](#fire-sermon)
 - [Ānāpānassati-sutta](#anapanassati)
-- [Dhaj'agga Sutta](#dhaj-agga)
+- [Dhaj'agga-sutta](#dhaj-agga)
 - [Girimānanda-sutta](#girimananda)
 
 ## Dhammacakkappavattana-sutta<a id="dhammacakkappavattana"></a>
@@ -1337,7 +1337,7 @@ Mahapphalā hoti mahānisaṃsā'ti
 
 *M.III.78*
 
-## Dhaj'agga Sutta<a id="dhaj-agga"></a>
+## Dhaj'agga-sutta<a id="dhaj-agga"></a>
 
 [Evam-me sutaṃ.] Ekaṃ samayaṃ Bhagavā, Sāvatthiyaṃ viharati, Jeta-vane
 Anāthapiṇḍikassa ārāme. Tatra kho Bhagavā bhikkhū āmantesi: “bhikkhavo-ti”.
@@ -1418,7 +1418,7 @@ Dhammaṃ saṅghañ-ca bhikkhavo;\
 Bhayaṃ vā chambhitattaṃ vā,\
 Loma-haṃso na hessatī-ti.”
 
-Dhaj’agga Suttaṃ Niṭṭhitaṃ.
+Dhaj’agga-suttaṃ niṭṭhitaṃ.
 
 *S.I.218*
 
