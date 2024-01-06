@@ -570,7 +570,8 @@ Yaṃ so dhammaṃ idh'aññāya\
 > When the dreaded hot wind arises, that is warded off.\
 > To meditate and obtain insight in a refuge and at ease:
 
-> A dwelling-place is praised by the Awakened One\\\vin as chief gift to an Order.\
+> A dwelling-place is praised by the Awakened One\
+> as chief gift to an Order.\
 > Therefore a wise man, looking to his own weal,\
 > Should have charming dwelling-places built\
 > So that those who have heard much can stay therein.

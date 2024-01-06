@@ -25,7 +25,7 @@ handbook:
 	cat $(FILE_HANDBOOK).fir | \
 		sed '/\\contentsfinish/d' | \
 		sort > $(FILE_HANDBOOK).fir.tmp
-	echo '\\contentsfinish' >> $(FILE_HANDBOOK).fir.tmp
+	echo '\contentsfinish' >> $(FILE_HANDBOOK).fir.tmp
 	mv $(FILE_HANDBOOK).fir.tmp $(FILE_HANDBOOK).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE_HANDBOOK).tex;
 
@@ -33,7 +33,7 @@ reference:
 	cat $(FILE_REFERENCE).fir | \
 		sed '/\\contentsfinish/d' | \
 		sort > $(FILE_REFERENCE).fir.tmp
-	echo '\\contentsfinish' >> $(FILE_REFERENCE).fir.tmp
+	echo '\contentsfinish' >> $(FILE_REFERENCE).fir.tmp
 	mv $(FILE_REFERENCE).fir.tmp $(FILE_REFERENCE).fir
 	$(LATEX) $(LATEX_OPTS) $(FILE_REFERENCE).tex;
 

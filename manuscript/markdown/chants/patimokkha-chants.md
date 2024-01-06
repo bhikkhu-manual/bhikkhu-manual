@@ -543,7 +543,7 @@ sāmaṇerassa daṇḍa-kammaṃ kātun'ti
 
 <div class="english">
 
-> These are the ten grounds for a novice to be punished\
+> These are the five grounds for a novice to be punished\
 > that were established by the Blessed One.
 
 </div>
