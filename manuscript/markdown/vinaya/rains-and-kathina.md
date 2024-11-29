@@ -48,7 +48,7 @@ together.
 The leader picks up and holds the tray, still in a bowed posture.
 
 > *Leader:* ‘Ā&ndash;’\
-> *All:* ‘*Āyasmante* pamādena, dvārattayena kataṃ, sabbaṃ aparādhaṃ khamatu *no* bhante.’
+> *All:* ‘*Āyasmante* pamādena, dvārattayena kataṁ, sabbaṁ aparādhaṁ khamatu *no* bhante.’
 
 (*Forgive us, ven. sir, for all wrong-doing done carelessly to the ven. one by way of the three doors.*)
 
@@ -56,7 +56,7 @@ The leader offers the tray to the Ācariya.
 
 The Ācariya:
 
-> ‘Ahaṃ khamāmi, *tumhehi pi* me khamitabbaṃ.’\
+> ‘Ahaṁ khamāmi, *tumhehi pi* me khamitabbaṁ.’\
 > *(I forgive you. You should also forgive me.)*
 
 The group responds together:
@@ -66,16 +66,16 @@ The group responds together:
 
 The group stays in a bowed posture while the Ācariya gives his blessing:
 
-> ‘Evaṃ hotu evaṃ hotu,\
+> ‘Evaṁ hotu evaṁ hotu,\
 > Yo ca pubbe pamajjitvā pacchā so nappamajjati,\
-> So'maṃ lokaṃ pabhāseti abbhā mutto va candimā.’
+> So'maṁ lokaṁ pabhāseti abbhā mutto va candimā.’
 
-> ‘Yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati,\
-> So'maṃ lokaṃ pabhāseti abbhā mutto va candimā.’
+> ‘Yassa pāpaṁ kataṁ kammaṁ kusalena pithīyati,\
+> So'maṁ lokaṁ pabhāseti abbhā mutto va candimā.’
 
-> ‘Abhivādana sīlissa niccaṃ vuḍḍhāpacāyino,\
+> ‘Abhivādana sīlissa niccaṁ vuḍḍhāpacāyino,\
 > Cattāro dhammā vaḍḍhanti:\
-> Āyu vaṇṇo sukhaṃ balaṃ.’
+> Āyu vaṇṇo sukhaṁ balaṁ.’
 
 > *Dhp 172, 173, 109*
 
@@ -107,19 +107,19 @@ in a dwelling with a lockable door.
 
 The boundaries are specified, then all resident bhikkhus:
 
-'Imasmiṃ āvāse imaṃ te-māsaṃ vassaṃ upema.' (×3)\
+'Imasmiṁ āvāse imaṁ te-māsaṁ vassaṁ upema.' (×3)\
 '*We enter the Rains in this monastery for three months.*'
 
 If one bhikkhu at a time: ‘upema’ → ‘upemi’
 
 Alternatively:
 
-'Imasmiṃ vihāre imaṃ te-māsaṃ vassaṃ upemi.' (×3)\
+'Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.' (×3)\
 '*I enter the Rains in this dwelling for three months.*'
 
 Alternatively:
 
-'Idha vassaṃ upemi.' (×3)\
+'Idha vassaṁ upemi.' (×3)\
 '*I enter the Rains here.*'
 
 *Sp.V.1067*
@@ -132,7 +132,7 @@ supporters, etc.
 
 One may take leave using one's own language, or the Pali:
 
-‘Sattāha-karaṇīyaṃ kiccaṃ me-v-atthi tasmā mayā gantabbaṃ, imasmiṃ
+‘Sattāha-karaṇīyaṁ kiccaṁ me-v-atthi tasmā mayā gantabbaṁ, imasmiṁ
 sattāh'abbhantare nivattissāmi.’
 
 ‘*I have an obligation which must be fulfilled within seven days. Therefore I
@@ -155,8 +155,8 @@ After the preliminary duties, one bhikkhu chants the *ñatti*:
 
 > 'Suṇātu me *bhante* saṅgho.\
 > Ajja pavāraṇā *paṇṇarasī*.\
-> Yadi saṅghassa pattakallaṃ,\
-> Saṅgho *te-vācikaṃ* pavāreyya.'
+> Yadi saṅghassa pattakallaṁ,\
+> Saṅgho *te-vācikaṁ* pavāreyya.'
 
 '*Ven. sirs, may the Community listen to me. Today is the Pavāraṇā on the
 fifteenth (day of the fortnight). If the Community is ready, the Community
@@ -171,28 +171,28 @@ If the announcing bhikkhu is the most senior:\
 'bhante' → 'āvuso'
 
 If each bhikkhu is to state his invitation twice:\
-'te-vācikaṃ' → 'dve-vācikaṃ'
+'te-vācikaṁ' → 'dve-vācikaṁ'
 
 If each bhikkhu is to state his invitation once:\
-'te-vācikaṃ' → 'eka-vācikaṃ'
+'te-vācikaṁ' → 'eka-vācikaṁ'
 
 If bhikkhus of equal rains are to invite in unison:
 
-'Saṅgho te-vācikaṃ pavāreyya' → 'Saṅgho samāna-vassikaṃ pavāreyya'
+'Saṅgho te-vācikaṁ pavāreyya' → 'Saṅgho samāna-vassikaṁ pavāreyya'
 
 '*The Community should invite in the manner of equal Rains.*'
 
 After the *ñatti*, if each bhikkhu is to invite 'three times', then, in
 order of Rains:
 
-> ‘*Saṅghaṃ bhante* pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
-> maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> ‘*Saṅghaṁ bhante* pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+> maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
-> Dutiyam-pi bhante saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
-> vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> Dutiyam-pi bhante saṅghaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+> vadantu maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
-> Tatiyam-pi bhante saṅghaṃ pavāremi Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
-> maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.’
+> Tatiyam-pi bhante saṅghaṁ pavāremi Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+> maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.’
 
 '*Ven. sirs, I invite admonition from the Sangha. According to what has been
 seen, heard or suspected, may the ven. ones instruct me out of compassion.
@@ -200,7 +200,7 @@ Seeing it, I shall make amends. For a second time... For a third time....*'
 
 For the most senior bhikkhu:
 
-'Saṅghaṃ bhante' → 'Saṅghaṃ āvuso'\
+'Saṅghaṁ bhante' → 'Saṅghaṁ āvuso'\
 'Dutiyam-pi bhante' → 'Dutiyam-pi āvuso'\
 'Tatiyam-pi bhante' → 'Tatiyam-pi āvuso'
 
@@ -208,8 +208,8 @@ For the most senior bhikkhu:
 
 Preliminary duties, then *ñatti*:
 
-> ‘Suṇantu me *āyasmanto*, ajja pavāraṇā paṇṇarasī, yad'āyasmantānaṃ
-> pattakallaṃ, mayaṃ aññamaññaṃ pavāreyyāma.’
+> ‘Suṇantu me *āyasmanto*, ajja pavāraṇā paṇṇarasī, yad'āyasmantānaṁ
+> pattakallaṁ, mayaṁ aññamaññaṁ pavāreyyāma.’
 
 '*Sirs, may you listen to me. Today is the pavāraṇā on the 15th (day of the
 fortnight). If there is complete preparedness of the ven. ones, we should invite
@@ -222,14 +222,14 @@ If there are three bhikkhus:\
 
 Then each bhikkhu in order of Rains:
 
-> ‘Ahaṃ bhante āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
-> maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> ‘Ahaṁ bhante āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+> maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
 > Dutiyam-pi bhante āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
-> vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> vadantu maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
 > Tatiyam-pi bhante āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
-> vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.’
+> vadantu maṁ āyasmanto anukampaṁ upādāya. Passanto paṭikkarissāmi.’
 
 For the most senior bhikkhu:\
 ‘bhante’ → ‘āvuso’
@@ -241,14 +241,14 @@ If there are three bhikkhus:\
 
 Preliminary duties, but no *ñatti*, then each bhikkhu in order of Rains:
 
-> ‘Ahaṃ bhante āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu
-> maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> ‘Ahaṁ bhante āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadatu
+> maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
-> Dutiyam-pi bhante āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
-> vadatu maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.
+> Dutiyam-pi bhante āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+> vadatu maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.
 > 
-> Tatiyam-pi bhante āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
-> vadatu maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.’
+> Tatiyam-pi bhante āyasmantaṁ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+> vadatu maṁ āyasmā anukampaṁ upādāya. Passanto paṭikkarissāmi.’
 
 For the senior bhikkhu: ‘bhante’ → ‘āvuso’ *Vin.I.163*
 
@@ -260,7 +260,7 @@ Preliminary duties, then:\
 
 ### Pavāraṇā by a sick bhikkhu<a id="sick-bhikkhu"></a>
 
-‘Pavāraṇaṃ dammi, pavāraṇaṃ me hara,\
+‘Pavāraṇaṁ dammi, pavāraṇaṁ me hara,\
 mam'atthāya pavārehi.’
 
 ‘*I give my invitation. May you convey invitation for me. May you invite on my behalf.*’
@@ -274,8 +274,8 @@ If the sick bhikkhu is the junior one:\
 The *pavāraṇā* of the sick bhikkhu (e.g. ‘Uttaro’) is conveyed in his place
 in the order of Rains:
 
-> ‘Āyasmā bhante ‘uttaro’ gilāno saṅghaṃ pavāreti. Diṭṭhena vā sutena vā
-> parisaṅkāya vā, vadantu taṃ āyasmanto anukampaṃ upādāya.\
+> ‘Āyasmā bhante ‘uttaro’ gilāno saṅghaṁ pavāreti. Diṭṭhena vā sutena vā
+> parisaṅkāya vā, vadantu taṁ āyasmanto anukampaṁ upādāya.\
 > Passanto paṭikkarissati.
 > 
 > Dutiyam-pi bhante āyasmā ‘uttaro’ gilāno...\
@@ -329,17 +329,17 @@ Together, the other bhikkhus chant their anumodanā (see [Kaṭhina Anumodanā](
 
 </div>
 
-Suṇātu me bhante saṅgho. Idaṃ saṅghassa kaṭhina-dussaṃ uppannaṃ. Yadi saṅghassa
-pattakallaṃ, saṅgho imaṃ kaṭhina-dussaṃ āyasmato *Amarassa* dadeyya, kaṭhinaṃ
-attharituṃ. Esā ñatti.
+Suṇātu me bhante saṅgho. Idaṁ saṅghassa kaṭhina-dussaṁ uppannaṁ. Yadi saṅghassa
+pattakallaṁ, saṅgho imaṁ kaṭhina-dussaṁ āyasmato *Amarassa* dadeyya, kaṭhinaṁ
+attharituṁ. Esā ñatti.
 
-Suṇātu me bhante saṅgho. Idaṃ saṅghassa kaṭhina-dussaṃ uppannaṃ. Saṅgho imaṃ
-kaṭhina-dussaṃ āyasmato *Amarassa* deti, kaṭhinaṃ attharituṃ. Yass'āyasmato
-khamati, imassa kaṭhina-dussassa āyasmato *Amarassa* dānaṃ, kaṭhinaṃ attharituṃ,
+Suṇātu me bhante saṅgho. Idaṁ saṅghassa kaṭhina-dussaṁ uppannaṁ. Saṅgho imaṁ
+kaṭhina-dussaṁ āyasmato *Amarassa* deti, kaṭhinaṁ attharituṁ. Yass'āyasmato
+khamati, imassa kaṭhina-dussassa āyasmato *Amarassa* dānaṁ, kaṭhinaṁ attharituṁ,
 so tuṇh'assa. Yassa nakkhamati, so bhāseyya.
 
-Dinnaṃ idaṃ saṅghena kaṭhina-dussaṃ āyasmato *Amarassa*, kaṭhinaṃ attharituṃ.
-Khamati saṅghassa, tasmā tuṇhī. Evam-etaṃ dhārayāmi.
+Dinnaṁ idaṁ saṅghena kaṭhina-dussaṁ āyasmato *Amarassa*, kaṭhinaṁ attharituṁ.
+Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
 
 *Mv.VII.1.4*
 
@@ -368,9 +368,9 @@ the new robe should be marked and [determined](requisites.html#determine-robe).
 Then the recipient chants *one* of the following:
 
 ‘Namo...’ (×3)\
-(a) ‘Imāya saṅghāṭiyā kaṭhinaṃ attharāmi.’\
-(b) ‘Iminā uttarāsaṅgena kaṭhinaṃ attharāmi.’\
-(c) ‘Iminā antaravāsakena kaṭhinaṃ attharāmi.’
+(a) ‘Imāya saṅghāṭiyā kaṭhinaṁ attharāmi.’\
+(b) ‘Iminā uttarāsaṅgena kaṭhinaṁ attharāmi.’\
+(c) ‘Iminā antaravāsakena kaṭhinaṁ attharāmi.’
 
 ‘*By means of this outer robe / upper robe / lower robe I spread the Kaṭhina.*’
 
@@ -380,7 +380,7 @@ Then the recipient chants *one* of the following:
 
 The recipient of the Kaṭhina:
 
-‘Atthataṃ bhante saṅghassa kaṭhinaṃ, dhammiko kaṭhinatthāro, anumodatha.’ (×3)
+‘Atthataṁ bhante saṅghassa kaṭhinaṁ, dhammiko kaṭhinatthāro, anumodatha.’ (×3)
 
 ‘*Ven. sirs, the spreading of the Kaṭhina is in accordance with the Dhamma. Please approve of it.*’
 
@@ -389,7 +389,7 @@ If the recipient is senior to all the other bhikkhus:\
 
 The rest of the Sangha, chanting together:
 
-‘Atthataṃ bhante saṅghassa kaṭhinaṃ, dhammiko kaṭhinatthāro, anumodāma.’ (×3)
+‘Atthataṁ bhante saṅghassa kaṭhinaṁ, dhammiko kaṭhinatthāro, anumodāma.’ (×3)
 
 ‘*Ven. sirs, the spreading of the Kaṭhina is in accordance with the Dhamma. We approve of it.*’
 

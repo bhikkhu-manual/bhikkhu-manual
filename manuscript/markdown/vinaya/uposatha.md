@@ -19,7 +19,7 @@
 
 Declaring one's purity before the Sangha:
 
-'Parisuddho ahaṃ bhante, parisuddho'ti maṃ saṅgho dhāretu.'
+'Parisuddho ahaṁ bhante, parisuddho'ti maṁ saṅgho dhāretu.'
 
 '*I, ven. sirs, am quite pure (of offences). May the Saṅgha hold me to be pure.*'
 
@@ -31,8 +31,8 @@ The Pātimokkha requires at least four bhikkhus. If there are only three
 bhikkhus then, after the preliminary duties and the general confession,
 one bhikkhu chants the *ñatti*:
 
-'Suṇantu me bhante āyasmantā ajj'uposatho paṇṇaraso, yad'āyasmantānaṃ
-pattakallaṃ, mayaṃ aññamaññaṃ pārisuddhi uposathaṃ kareyyāma.'
+'Suṇantu me bhante āyasmantā ajj'uposatho paṇṇaraso, yad'āyasmantānaṁ
+pattakallaṁ, mayaṁ aññamaññaṁ pārisuddhi uposathaṁ kareyyāma.'
 
 '*Let the ven. ones listen to me. Today is an Observance day, which is a
 fifteenth (day of the fortnight). If it seems right to the ven. ones let us
@@ -46,8 +46,8 @@ If the announcing bhikkhu is the most senior:\
 
 Then, starting with the senior bhikkhu:
 
-'Parisuddho ahaṃ āvuso,\
-parisuddho'ti maṃ dhāretha.' (×3)
+'Parisuddho ahaṁ āvuso,\
+parisuddho'ti maṁ dhāretha.' (×3)
 
 '*I, friends, am quite pure. Understand that I am quite pure.*'
 
@@ -58,7 +58,7 @@ For each of the two junior bhikkhus:\
 
 Omit the *ñatti*. The senior bhikkhu declares purity first:
 
-'Parisuddho ahaṃ āvuso, parisuddho'ti maṃ dhārehi.' (×3)
+'Parisuddho ahaṁ āvuso, parisuddho'ti maṁ dhārehi.' (×3)
 
 For the junior:\
 'āvuso' → 'bhante'\
@@ -79,7 +79,7 @@ duties, he then determines:
 
 **(a)** The sick bhikkhu makes general confession, then:
 
-'Pārisuddhiṃ dammi, pārisuddhiṃ me hara, pārisuddhiṃ me ārocehi.'
+'Pārisuddhiṁ dammi, pārisuddhiṁ me hara, pārisuddhiṁ me ārocehi.'
 
 '*I give my purity. Please convey purity for me (and) declare purity for me.*'
 
@@ -91,7 +91,7 @@ If the sick bhikkhu is the junior:\
 Pātimokkha:
 
 'Āyasmā bhante 'uttaro' bhikkhu gilāno, parisuddho'ti paṭijāni, parisuddho'ti
-taṃ saṅgho dhāretu.'
+taṁ saṅgho dhāretu.'
 
 '*Ven. sirs, 'Uttaro Bhikkhu' who is sick acknowedges that he is pure. May the
 Saṅgha hold him to be pure.*'
@@ -104,7 +104,7 @@ If the bhikkhu conveying purity is senior to the sick bhikkhu:
 
 **(a)** The sick bhikkhu sends his consent to the *saṅghakamma*:
 
-'Chandaṃ dammi, chandaṃ me hara, chandaṃ me ārocehi.'
+'Chandaṁ dammi, chandaṁ me hara, chandaṁ me ārocehi.'
 
 '*I offer my consent. May you convey my consent (to the Saṅgha). May you declare
 my consent to them.*'
@@ -115,7 +115,7 @@ If the sick bhikkhu is the junior:\
 
 **(b)** Informing the Sangha of the sick bhikkhu's consent:
 
-'Āyasmā bhante 'uttaro' mayhaṃ chandaṃ adāsi, tassa chando mayā āhaṭo, sādhu
+'Āyasmā bhante 'uttaro' mayhaṁ chandaṁ adāsi, tassa chando mayā āhaṭo, sādhu
 bhante saṅgho dhāretu.'
 
 '*Ven. sirs, 'Uttaro Bhikkhu' has given his consent to me. I have conveyed his
@@ -129,7 +129,7 @@ If the bhikkhu conveying consent is senior to the sick bhikkhu:
 
 When both purity and consent are conveyed to the Sangha:
 
-'*Uttaro* bhante bhikkhu gilāno mayhaṃ chandañca pārisuddhiñca adāsi,
+'*Uttaro* bhante bhikkhu gilāno mayhaṁ chandañca pārisuddhiñca adāsi,
 tassa chando ca pārisuddhi ca mayā āhaṭā, sādhu bhante saṅgho dhāretu.'
 
 '*Ven. sirs, 'Uttaro Bhikkhu' is sick. He has given his consent and
@@ -154,7 +154,7 @@ abbreviate directly after the Nidāna for a shorter recitation.
 If the abbreviation is after the Pārājika rules, the chanter concludes
 with:
 
-'Uddiṭṭhaṃ kho āyasmanto nidānam.\
+'Uddiṭṭhaṁ kho āyasmanto nidānam.\
 Uddiṭṭhā cattāro pārājikā dhammā.\
 Sutā terasa saṅghādisesā dhammā.\
 Sutā dve aniyatā dhammā.\
@@ -164,10 +164,10 @@ Sutā cattāro pāṭidesanīyā dhammā.\
 Sutā sekhiyā dhammā.\
 Sutā sattādhikaraṇa-samathā dhammā.
 
-Ettakantassa bhagavato suttāgataṃ sutta-pariyāpannaṃ anvaḍḍha-māsaṃ
-uddesaṃ āgacchati. Tattha sabbeh'eva samaggehi sammoda-mānehi
+Ettakantassa bhagavato suttāgataṁ sutta-pariyāpannaṁ anvaḍḍha-māsaṁ
+uddesaṁ āgacchati. Tattha sabbeh'eva samaggehi sammoda-mānehi
 avivada-mānehi sikkhitabban'ti.
 
-Bhikkhu-pāṭimokkhaṃ niṭṭhitaṃ.'
+Bhikkhu-pāṭimokkhaṁ niṭṭhitaṁ.'
 
 *Vinaya Mukha Vol 2., p.107*

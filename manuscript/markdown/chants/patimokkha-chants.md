@@ -12,9 +12,9 @@
 
 *Verses on the Training Code*
 
-> [Handa mayaṃ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
+> [Handa mayaṁ ovāda-pāṭimokkha-gāthāyo bhaṇāmase]
 
-Sabba-pāpassa akaraṇaṃ
+Sabba-pāpassa akaraṇaṁ
 
 <div class="english">
 
@@ -30,7 +30,7 @@ Kusalassūpasampadā
 
 </div>
 
-Sacitta-pariyodapanaṃ
+Sacitta-pariyodapanaṁ
 
 <div class="english">
 
@@ -38,7 +38,7 @@ Sacitta-pariyodapanaṃ
 
 </div>
 
-Etaṃ buddhāna sāsanaṃ
+Etaṁ buddhāna sāsanaṁ
 
 <div class="english">
 
@@ -46,7 +46,7 @@ Etaṃ buddhāna sāsanaṃ
 
 </div>
 
-Khantī paramaṃ tapo tītikkhā
+Khantī paramaṁ tapo tītikkhā
 
 <div class="english">
 
@@ -55,7 +55,7 @@ Khantī paramaṃ tapo tītikkhā
 
 </div>
 
-Nibbānaṃ paramaṃ vadanti buddhā
+Nibbānaṁ paramaṁ vadanti buddhā
 
 <div class="english">
 
@@ -71,7 +71,7 @@ Na hi pabbajito parūpaghātī
 
 </div>
 
-Samaṇo hoti paraṃ viheṭhayanto
+Samaṇo hoti paraṁ viheṭhayanto
 
 <div class="english">
 
@@ -87,7 +87,7 @@ Anūpavādo anūpaghāto
 
 </div>
 
-Pāṭimokkhe ca saṃvaro
+Pāṭimokkhe ca saṁvaro
 
 <div class="english">
 
@@ -95,7 +95,7 @@ Pāṭimokkhe ca saṃvaro
 
 </div>
 
-Mattaññutā ca bhattasmiṃ
+Mattaññutā ca bhattasmiṁ
 
 <div class="english">
 
@@ -103,7 +103,7 @@ Mattaññutā ca bhattasmiṃ
 
 </div>
 
-Pantañca sayan'āsanaṃ
+Pantañca sayan'āsanaṁ
 
 <div class="english">
 
@@ -119,7 +119,7 @@ Adhicitte ca āyogo
 
 </div>
 
-Etaṃ buddhāna sāsanaṃ
+Etaṁ buddhāna sāsanaṁ
 
 <div class="english">
 
@@ -131,15 +131,15 @@ Etaṃ buddhāna sāsanaṃ
 
 ## Sacca-kiriyā-gāthā<a id="sacca"></a>
 
-> [Handa mayaṃ sacca-kiriyā-gāthāyo bhaṇāmase]
+> [Handa mayaṁ sacca-kiriyā-gāthāyo bhaṇāmase]
 
-Natthi me saraṇaṃ aññaṃ buddho me saraṇaṃ varaṃ\
+Natthi me saraṇaṁ aññaṁ buddho me saraṇaṁ varaṁ\
 Etena sacca-vajjena sotthi me hotu sabbadā
 
-Natthi me saraṇaṃ aññaṃ dhammo me saraṇaṃ varaṃ\
+Natthi me saraṇaṁ aññaṁ dhammo me saraṇaṁ varaṁ\
 Etena sacca-vajjena sotthi me hotu sabbadā
 
-Natthi me saraṇaṃ aññaṃ saṅgho me saraṇaṃ varaṃ\
+Natthi me saraṇaṁ aññaṁ saṅgho me saraṇaṁ varaṁ\
 Etena sacca-vajjena sotthi me hotu sabbadā
 
 <div class="english">
@@ -152,24 +152,24 @@ Etena sacca-vajjena sotthi me hotu sabbadā
 
 ## Sīl'uddesa-pāṭha<a id="sil-uddesa"></a>
 
-> [Handa mayaṃ sīl'uddesa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ sīl'uddesa-pāṭhaṁ bhaṇāmase]
 
-Bhāsitam idaṃ tena bhagavatā jānatā passatā\
+Bhāsitam idaṁ tena bhagavatā jānatā passatā\
 <span class="vin"></span>arahatā sammā-sambuddhena\
 Sampanna-sīlā bhikkhave viharatha\
 <span class="vin"></span>sampanna-pāṭimokkhā\
-Pāṭimokkha-saṃvara-saṃvutā viharatha\
+Pāṭimokkha-saṁvara-saṁvutā viharatha\
 <span class="vin"></span>ācāra-gocara-sampannā\
 Aṇu-mattesu vajjesu bhaya-dassāvī\
 <span class="vin"></span>samādāya sikkhatha sikkhāpadesū'ti
 
-Tasmā-tih'amhehi sikkhitabbaṃ\
+Tasmā-tih'amhehi sikkhitabbaṁ\
 Sampanna-sīlā viharissāma sampanna-pāṭimokkhā\
-Pāṭimokkha-saṃvara-saṃvutā viharissāma\
+Pāṭimokkha-saṁvara-saṁvutā viharissāma\
 <span class="vin"></span>ācāra-gocara-sampannā\
 Aṇu-mattesu vajjesu bhaya-dassāvī\
 <span class="vin"></span>samādāya sikkhissāma sikkhāpadesū'ti\
-Evañ hi no sikkhitabbaṃ
+Evañ hi no sikkhitabbaṁ
 
 <div class="english">
 
@@ -192,9 +192,9 @@ Evañ hi no sikkhitabbaṃ
 
 *The Verses of Tāyana*
 
-> [Handa mayaṃ tāyana-gāthāyo bhaṇāmase]
+> [Handa mayaṁ tāyana-gāthāyo bhaṇāmase]
 
-Chinda sotaṃ parakkamma\
+Chinda sotaṁ parakkamma\
 Kāme panūda brāhmaṇa\
 Nappahāya muni kāme\
 N'ekattam-upapajjati
@@ -208,10 +208,10 @@ N'ekattam-upapajjati
 
 </div>
 
-Kayirā ce kayirāthenaṃ\
-Daḷham-enaṃ parakkame\
+Kayirā ce kayirāthenaṁ\
+Daḷham-enaṁ parakkame\
 Sithilo hi paribbājo\
-Bhiyyo ākirate rajaṃ
+Bhiyyo ākirate rajaṁ
 
 <div class="english">
 
@@ -222,10 +222,10 @@ Bhiyyo ākirate rajaṃ
 
 </div>
 
-Akataṃ dukkaṭaṃ seyyo\
-Pacchā tappati dukkaṭaṃ\
-Katañca sukataṃ seyyo\
-Yaṃ katvā nānutappati
+Akataṁ dukkaṭaṁ seyyo\
+Pacchā tappati dukkaṭaṁ\
+Katañca sukataṁ seyyo\
+Yaṁ katvā nānutappati
 
 <div class="english">
 
@@ -238,7 +238,7 @@ Yaṃ katvā nānutappati
 
 Kuso yathā duggahito\
 Hattham-evānukantati\
-Sāmaññaṃ dupparāmaṭṭhaṃ\
+Sāmaññaṁ dupparāmaṭṭhaṁ\
 Nirayāyūpakaḍḍhati
 
 <div class="english">
@@ -250,10 +250,10 @@ Nirayāyūpakaḍḍhati
 
 </div>
 
-Yaṃ kiñci sithilaṃ kammaṃ\
-Saṅkiliṭṭhañca yaṃ vataṃ\
-Saṅkassaraṃ brahma-cariyaṃ\
-Na taṃ hoti mahapphalan'ti
+Yaṁ kiñci sithilaṁ kammaṁ\
+Saṅkiliṭṭhañca yaṁ vataṁ\
+Saṅkassaraṁ brahma-cariyaṁ\
+Na taṁ hoti mahapphalan'ti
 
 <div class="english">
 
@@ -269,7 +269,7 @@ Na taṃ hoti mahapphalan'ti
 ## Sāmaṇera-sikkhā<a id="samanera"></a>
 
 Anuññāsi kho bhagavā\
-Sāmaṇerānaṃ dasa sikkhā-padāni
+Sāmaṇerānaṁ dasa sikkhā-padāni
 
 <div class="english">
 
@@ -278,7 +278,7 @@ Sāmaṇerānaṃ dasa sikkhā-padāni
 
 </div>
 
-Tesu ca sāmaṇerehi sikkhituṃ
+Tesu ca sāmaṇerehi sikkhituṁ
 
 <div class="english">
 
@@ -370,7 +370,7 @@ Jāta-rūpa-rajata-paṭiggahaṇā veramaṇī'ti.
 *Vin.I.83f*
 
 Anuññāsi kho Bhagavā\
-Dasahi aṅgehi samannāgataṃ sāmaṇeraṃ nāsetuṃ
+Dasahi aṅgehi samannāgataṁ sāmaṇeraṁ nāsetuṁ
 
 <div class="english">
 
@@ -427,7 +427,7 @@ Majja-pāyī hoti
 
 </div>
 
-Buddhassa avaṇṇaṃ bhāsati
+Buddhassa avaṇṇaṁ bhāsati
 
 <div class="english">
 
@@ -435,7 +435,7 @@ Buddhassa avaṇṇaṃ bhāsati
 
 </div>
 
-Dhammassa avaṇṇaṃ bhāsati
+Dhammassa avaṇṇaṁ bhāsati
 
 <div class="english">
 
@@ -443,7 +443,7 @@ Dhammassa avaṇṇaṃ bhāsati
 
 </div>
 
-Saṅghassa avaṇṇaṃ bhāsati
+Saṅghassa avaṇṇaṁ bhāsati
 
 <div class="english">
 
@@ -468,7 +468,7 @@ Bhikkhunī-dūsako hoti
 </div>
 
 Anuññāsi kho Bhagavā\
-Imehi dasahi aṅgehi samannāgataṃ sāmaṇeraṃ nāsetun'ti.
+Imehi dasahi aṅgehi samannāgataṁ sāmaṇeraṁ nāsetun'ti.
 
 <div class="english">
 
@@ -480,7 +480,7 @@ Imehi dasahi aṅgehi samannāgataṃ sāmaṇeraṃ nāsetun'ti.
 *Vin.I.85*
 
 Anuññāsi kho Bhagavā\
-Pañcahi aṅgehi samannāgatassa sāmaṇerassa daṇḍa-kammaṃ kātuṃ
+Pañcahi aṅgehi samannāgatassa sāmaṇerassa daṇḍa-kammaṁ kātuṁ
 
 <div class="english">
 
@@ -497,7 +497,7 @@ Katamehi pañcahi
 
 </div>
 
-Bhikkhūnaṃ alābhāya parisakkati
+Bhikkhūnaṁ alābhāya parisakkati
 
 <div class="english">
 
@@ -505,7 +505,7 @@ Bhikkhūnaṃ alābhāya parisakkati
 
 </div>
 
-Bhikkhūnaṃ anatthāya parisakkati
+Bhikkhūnaṁ anatthāya parisakkati
 
 <div class="english">
 
@@ -513,7 +513,7 @@ Bhikkhūnaṃ anatthāya parisakkati
 
 </div>
 
-Bhikkhūnaṃ anāvāsāya parisakkati
+Bhikkhūnaṁ anāvāsāya parisakkati
 
 <div class="english">
 
@@ -539,7 +539,7 @@ Bhikkhū bhikkhūhi bhedeti
 
 Anuññāsi kho Bhagavā\
 Imehi pañcahi aṅgehi samannāgatassa\
-sāmaṇerassa daṇḍa-kammaṃ kātun'ti
+sāmaṇerassa daṇḍa-kammaṁ kātun'ti
 
 <div class="english">
 

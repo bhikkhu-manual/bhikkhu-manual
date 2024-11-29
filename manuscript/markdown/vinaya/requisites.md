@@ -16,25 +16,25 @@
 Before use, a new robe must be marked with three dots, blue, green, black or
 brown in colour, saying, either out loud or mentally:
 
-'Imaṃ bindukappaṃ karomi.' (×3)\
+'Imaṁ bindukappaṁ karomi.' (×3)\
 '*I make this properly marked.*' *Vin.IV.120*
 
 ## Adhiṭṭhāna (Determining)<a id="determine-robe"></a>
 
-'Imaṃ *saṅghāṭiṃ* adhiṭṭhāmi.'\
+'Imaṁ *saṅghāṭiṁ* adhiṭṭhāmi.'\
 '*I determine this outer robe.*'
 
-For '*saṅghāṭiṃ*' substitute item as appropriate:
+For '*saṅghāṭiṁ*' substitute item as appropriate:
 
-- uttarā-saṅgaṃ (upper robe)
-- antara-vāsakaṃ (lower robe)
-- pattaṃ (alms bowl)
-- nisīdanaṃ (sitting-cloth)
-- kaṇḍu-paṭicchādiṃ (skin-eruption covering cloth)
-- vassika-sāṭikaṃ (rains cloth)
-- paccattharaṇaṃ (sleeping cloth)
-- mukha-puñchana-colaṃ (handkerchief)
-- parikkhāra-colaṃ (small requisite)
+- uttarā-saṅgaṁ (upper robe)
+- antara-vāsakaṁ (lower robe)
+- pattaṁ (alms bowl)
+- nisīdanaṁ (sitting-cloth)
+- kaṇḍu-paṭicchādiṁ (skin-eruption covering cloth)
+- vassika-sāṭikaṁ (rains cloth)
+- paccattharaṇaṁ (sleeping cloth)
+- mukha-puñchana-colaṁ (handkerchief)
+- parikkhāra-colaṁ (small requisite)
 
 The first three articles must be properly marked *before* being
 determined for use. Only one of each of these items may be determined at
@@ -56,7 +56,7 @@ reciting the relevant Pali passage, or by uttering the Pali passage
 without touching the article. In the latter case, if the article is
 beyond forearm's length:
 
-‘imaṃ’ (this) → ‘etaṃ’ (that)\
+‘imaṁ’ (this) → ‘etaṁ’ (that)\
 ‘imāni’ (these) → ‘etāni’ (those)
 
 *Sp.III.643-644*
@@ -66,10 +66,10 @@ beyond forearm's length:
 When an outer robe, upper robe, lower robe, alms bowl or sitting-cloth is to be
 replaced, the article already determined must first be relinquished from use:
 
-'Imaṃ saṅghāṭiṃ paccuddharāmi.'\
+'Imaṁ saṅghāṭiṁ paccuddharāmi.'\
 '*I relinquish this outer robe.*' *Sp.III.643*
 
-Substitute the appropriate item for '*saṅghāṭiṃ*'.
+Substitute the appropriate item for '*saṅghāṭiṁ*'.
 
 Apart from relinquishing from use, a determined article ceases to be determined
 if it is given to another, is stolen, is taken on trust by a friend, or has a
@@ -84,27 +84,27 @@ ways.
 
 In the presence of the receiving bhikkhu, and with the article within forearm's length:
 
-'Imaṃ cīvaraṃ tuyhaṃ vikappemi.'\
+'Imaṁ cīvaraṁ tuyhaṁ vikappemi.'\
 '*I share this robe with you.*'
 
-'Imāni cīvarāni tuyhaṃ vikappemi.'\
+'Imāni cīvarāni tuyhaṁ vikappemi.'\
 '*... these robes ...*'
 
-'Imaṃ pattaṃ tuyhaṃ vikappemi.'\
+'Imaṁ pattaṁ tuyhaṁ vikappemi.'\
 '*... this bowl ...*'
 
-'Ime patte tuyhaṃ vikappemi.'\
+'Ime patte tuyhaṁ vikappemi.'\
 '*... these bowls ...*'
 
 When the receiving bhikkhu is the senior:\
-'tuyhaṃ' → 'āyasmato'
+'tuyhaṁ' → 'āyasmato'
 
 When it is shared with more than one bhikkhu:\
-'tuyhaṃ' → 'tumhākaṃ'
+'tuyhaṁ' → 'tumhākaṁ'
 
 When the article is beyond forearm's length:
 
-'imaṃ' → 'etaṃ';\
+'imaṁ' → 'etaṁ';\
 'imāni' → 'etāni';\
 'ime' → 'ete' *Vin.IV.122*
 
@@ -113,7 +113,7 @@ When the article is beyond forearm's length:
 In the presence of the receiving bhikkhu (who is named, e.g., '*Uttaro*'), and
 with the article within forearm's length, one says to another bhikkhu:
 
-'Imaṃ cīvaraṃ *uttarassa* bhikkhuno vikappemi.'\
+'Imaṁ cīvaraṁ *uttarassa* bhikkhuno vikappemi.'\
 '*I share this robe with Uttaro Bhikkhu.*'
 
 When the receiving bhikkhu is the senior:\
@@ -122,7 +122,7 @@ When the receiving bhikkhu is the senior:\
 If it is shared with a novice:\
 '*uttarassa* bhikkhuno' → '*uttarassa* sāmaṇerassa'
 
-To share a bowl: ‘cīvaraṃ’ → ‘pattaṃ’
+To share a bowl: ‘cīvaraṁ’ → ‘pattaṁ’
 
 If more than one article is to be shared substitute the plural form as in [Generally Addressing](#general-address) above.
 
@@ -134,7 +134,7 @@ When the item is beyond forearm's length substitute as in [Generally Addressing]
 
 In the absence of the receiving bhikkhus, say to a witness:
 
-'Imaṃ cīvaraṃ vikappanatthāya tuyhaṃ dammi.'\
+'Imaṁ cīvaraṁ vikappanatthāya tuyhaṁ dammi.'\
 '*I give this robe to you for the purpose of sharing.*'
 
 The witness should then ask the original owner the names of two bhikkhus or
@@ -150,16 +150,16 @@ After the original owner tells their names, e.g.,
 
 The witness then says:
 
-'Ahaṃ tesaṃ dammi.' '*I give it to them.*'
+'Ahaṁ tesaṁ dammi.' '*I give it to them.*'
 
 or
 
-'Ahaṃ *uttarassa* bhikkhuno ca *tissassa* sāmaṇerassa dammi.'\
+'Ahaṁ *uttarassa* bhikkhuno ca *tissassa* sāmaṇerassa dammi.'\
 '*I give it to Bhikkhu Uttaro and Sāmaṇera Tisso.*'
 
 *Vin.IV.122*
 
-To share a bowl: ‘cīvaraṃ’ → ‘pattaṃ’
+To share a bowl: ‘cīvaraṁ’ → ‘pattaṁ’
 
 If more than one article is to be shared substitute the plural form as in [Generally Addressing](#general-address) above.
 
@@ -172,15 +172,15 @@ share.
 
 If the other bhikkhu is senior, and the article is within forearm's length:
 
-‘Imaṃ cīvaraṃ mayhaṃ santakaṃ paribhuñja vā visajjehi vā yathāpaccayaṃ vā karohi.’\
+‘Imaṁ cīvaraṁ mayhaṁ santakaṁ paribhuñja vā visajjehi vā yathāpaccayaṁ vā karohi.’\
 ‘*This robe of mine: you may use it, give it away, or do as you wish with it.*’
 
 *Kv.122*
 
 When more than one robe is being relinquished:
 
-‘imaṃ cīvaraṃ’ → ‘imāni cīvarāni’\
-‘santakaṃ’ → ‘santakāni’
+‘imaṁ cīvaraṁ’ → ‘imāni cīvarāni’\
+‘santakaṁ’ → ‘santakāni’
 
 When the second owner is junior:
 
@@ -190,16 +190,16 @@ When the second owner is junior:
 
 If the articles are beyond forearm's length, change case accordingly:
 
-‘imaṃ’ (this) → ‘etaṃ’ (that)\
+‘imaṁ’ (this) → ‘etaṁ’ (that)\
 ‘imāni’ (these) → ‘etāni’ (those)
 
 To rescind the shared ownership in the case when the [receiving bhikkhu is absent](#receiving-bhikkhu-absent), the witness says:
 
-‘Tesaṃ santakaṃ paribhuñja vā vissajjehi vā yathāpaccayaṃ vā karohi.’\
+‘Tesaṁ santakaṁ paribhuñja vā vissajjehi vā yathāpaccayaṁ vā karohi.’\
 ‘*Use what is theirs, give it away or do as you like with it.*’
 
 To rescind the shared ownership of a bowl:\
-‘cīvaraṃ’ → ‘pattaṃ’
+‘cīvaraṁ’ → ‘pattaṁ’
 
 and alter according to [Generally Addressing](#general-address) above.
 

@@ -14,7 +14,7 @@
 - [The Four Bases of Judgement](#the-four-bases-of-judgement)
 - [The Five Facts to be Frequently Contemplated](#the-five-facts-to-be-frequently-contemplated)
 - [The Five Qualities for a New Bhikkhu to Establish](#the-five-qualities-for-a-new-bhikkhu-to-establish)
-- [The Five Ways of Restraint (Saṃvara)](#the-five-ways-of-restraint)
+- [The Five Ways of Restraint (Saṁvara)](#the-five-ways-of-restraint)
 - [The Six Attributes of Dhamma](#the-six-attributes-of-dhamma)
 - [The Seven Qualities of a Wholesome Friend](#the-seven-qualities-of-a-wholesome-friend)
 - [The Seven Things Favourable to Mental Development (Sappāya)](#the-seven-things-favourable-to-mental-development)
@@ -134,7 +134,7 @@ views.
 
 *A.III.138*
 
-## The Five Ways of Restraint (Saṃvara)<a id="the-five-ways-of-restraint"></a>
+## The Five Ways of Restraint (Saṁvara)<a id="the-five-ways-of-restraint"></a>
 
 Restraint by the Monastic Code of Discipline, by mindfulness, by
 knowledge, by patience, by energy and effort.
@@ -227,7 +227,7 @@ give regularly; to calm one's mind on giving; to be joyful after giving.
 (7) *Sacca:* truthfulness;\
 (8) *Adhiṭṭhāna:* determination;\
 (9) *Mettā:* loving-kindness;\
-(10) *Upekkhā:* equanimity. *Buddhavaṃsa v.6*
+(10) *Upekkhā:* equanimity. *Buddhavaṁsa v.6*
 
 ## The Ten Wholesome Courses of Action<a id="the-ten-wholesome-courses-of-action"></a>
 

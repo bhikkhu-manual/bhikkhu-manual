@@ -78,7 +78,7 @@ so is a *dukkaṭa* offence.
 
 </div>
 
-**JB:** Ahaṃ bhante sambahulā nānā-vatthukāyo *thullaccayāyo* āpattiyo āpanno tā paṭidesemi.
+**JB:** Ahaṁ bhante sambahulā nānā-vatthukāyo *thullaccayāyo* āpattiyo āpanno tā paṭidesemi.
 
 *I, ven. sir, having many times fallen into grave offences with different bases, these I confess.*
 
@@ -90,15 +90,15 @@ so is a *dukkaṭa* offence.
 
 *Yes, ven. sir, I see.*
 
-**SB:** Āyatiṃ āvuso saṃvareyyāsi.
+**SB:** Āyatiṁ āvuso saṁvareyyāsi.
 
 *In future, friend, you should be restrained.*
 
-**JB:** Sādhu suṭṭhu bhante saṃvarissāmi. (×3)
+**JB:** Sādhu suṭṭhu bhante saṁvarissāmi. (×3)
 
 *It is well indeed, ven. sir. I shall be restrained.*
 
-**SB:** Ahaṃ āvuso sambahulā nānā-vatthukāyo *thullaccayāyo* āpattiyo āpanno tā paṭidesemi.
+**SB:** Ahaṁ āvuso sambahulā nānā-vatthukāyo *thullaccayāyo* āpattiyo āpanno tā paṭidesemi.
 
 *I, friend, having many times fallen into grave offences with different bases, these I confess.*
 
@@ -110,11 +110,11 @@ so is a *dukkaṭa* offence.
 
 *Yes, friend, I see.*
 
-**JB:** Āyatiṃ bhante saṃvareyyātha.
+**JB:** Āyatiṁ bhante saṁvareyyātha.
 
 *In future, ven. sir, you should be restrained.*
 
-**SB:** Sādhu suṭṭhu āvuso saṃvarissāmi. (×3)
+**SB:** Sādhu suṭṭhu āvuso saṁvarissāmi. (×3)
 
 *It is well indeed, friend. I shall be restrained.*
 
@@ -128,15 +128,15 @@ When confessing two offences of the same class:\
 When confessing a single offence:
 
 'Sambahulā nānā-vatthukāyo *thullaccayāyo* āpattiyo āpanno tā paṭidesemi.'\
-→ 'Ekaṃ *thullaccayaṃ* āpattiṃ āpanno taṃ paṭidesemi.'
+→ 'Ekaṁ *thullaccayaṁ* āpattiṁ āpanno taṁ paṭidesemi.'
 
-Replace, as appropriate, '*thullaccayaṃ*' with '*pācittiyaṃ*', '*dukkaṭaṃ*', '*dubbhāsitaṃ*'.
+Replace, as appropriate, '*thullaccayaṁ*' with '*pācittiyaṁ*', '*dukkaṭaṁ*', '*dubbhāsitaṁ*'.
 
 ## Nissaggiya Pācittiya<a id="nissaggiya-pacittiya"></a>
 
 When confessing a *nissaggiya pācittiya* ('expiation with forfeiture') offence,
-substitute '*nissaggiyāyo pācittiyāyo*' for '*thullaccayāyo*', or '*nissaggiyaṃ
-pācittiyaṃ*' for '*thullaccayaṃ*' in the formula at [Light Offences](#confessing-light-offences) above.
+substitute '*nissaggiyāyo pācittiyāyo*' for '*thullaccayāyo*', or '*nissaggiyaṁ
+pācittiyaṁ*' for '*thullaccayaṁ*' in the formula at [Light Offences](#confessing-light-offences) above.
 
 However, before confessing, the article in question must be forfeited to another
 bhikkhu or to a Sangha.
@@ -148,44 +148,44 @@ bhikkhu or to a Sangha.
 On the eleventh dawn of keeping one ‘extra robe’, within forearm's length,
 forfeiting to a more senior bhikkhu:
 
-'Idaṃ me *bhante* cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.'
+'Idaṁ me *bhante* cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.'
 
 '*This extra robe, ven. sir, which has passed beyond the ten day (limit), is to
 be forfeited by me: I forfeit it to you.*'
 
 More than one robe, within forearm's length:
 
-‘Imāni me bhante cīvarāni dasāhātikkantāni nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi.’
+‘Imāni me bhante cīvarāni dasāhātikkantāni nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.’
 
 If forfeiting to a Sangha: ‘āyasamato’ → ‘saṅghassa’ 
 
 If forfeiting to a group of bhikkhus:\
-‘āyasamato’ → ‘āysamantānaṃ’
+‘āyasamato’ → ‘āysamantānaṁ’
 
 If senior bhikkhu: ‘bhante’ → ‘āvuso’
 
 If beyond forearm's length:
 
-'idaṃ' (*this*) → 'etaṃ' (*that*)\
-'imāhaṃ' → 'etāhaṃ'\
+'idaṁ' (*this*) → 'etaṁ' (*that*)\
+'imāhaṁ' → 'etāhaṁ'\
 'imāni' (*these*) → 'etāni' (*those*)\
-'imānāhaṃ' → 'etānāhaṃ'
+'imānāhaṁ' → 'etānāhaṁ'
 
 #### Returning the robe<a id="np-1-returning-the-robe"></a>
 
-'Imaṃ cīvaraṃ āyasmato dammi.'\
+'Imaṁ cīvaraṁ āyasmato dammi.'\
 '*I give this robe to you.*' *Vin.III.197*
 
 For returning more than one robe:\
-'imaṃ' → 'imāni' ; 'cīvaraṃ' → 'cīvarāni'
+'imaṁ' → 'imāni' ; 'cīvaraṁ' → 'cīvarāni'
 
 This formula for returning the article(s) also applies in NP. 2, 3, 6, 7, 8, 9,
 10 below.
 
 ### Nissaggiya Pācittiya 2 (‘separated from’)<a id="np-2"></a>
 
-‘Idaṃ me bhante cīvaraṃ ratti-vippavutthaṃ aññatra bhikkhu-sammatiyā
-nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante cīvaraṁ ratti-vippavutthaṁ aññatra bhikkhu-sammatiyā
+nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This robe, ven. sir, which has stayed separate (from me) for a night without
 the consent of the bhikkhus, is to be forfeited by me: I forfeit it to you.*'
@@ -193,11 +193,11 @@ the consent of the bhikkhus, is to be forfeited by me: I forfeit it to you.*'
 *Vin.III.199-200*
 
 If multiple robes:\
-'cīvaraṃ' → 'dvicīvaraṃ'/'ticīvaraṃ' (two-/three-robes)
+'cīvaraṁ' → 'dvicīvaraṁ'/'ticīvaraṁ' (two-/three-robes)
 
 ### Nissaggiya Pācittiya 3 (‘over-kept cloth’)<a id="np-3"></a>
 
-‘Idaṃ me bhante akāla-cīvaraṃ māsātikkantaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante akāla-cīvaraṁ māsātikkantaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This, ven. sir, 'out of season' robe, which has passed beyond the month
 (limit), is to be forfeited by me: I forfeit it to you.*'
@@ -206,12 +206,12 @@ If multiple robes:\
 
 For more than one piece of cloth:
 
-‘Imāni me bhante akāla-cīvarāni māsātikkantāni nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi.’
+‘Imāni me bhante akāla-cīvarāni māsātikkantāni nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.’
 
 ### Nissaggiya Pācittiya 6 (‘asked for’)<a id="np-6"></a>
 
-‘Idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ aññatra samayā viññāpitaṃ
-nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante cīvaraṁ aññātakaṁ gahapatikaṁ aññatra samayā viññāpitaṁ
+nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This robe, ven. sir, which has been asked from an unrelated householder at
 other than the proper occasion, is to be forfeited by me: I forfeit it to you.*'
@@ -220,13 +220,13 @@ other than the proper occasion, is to be forfeited by me: I forfeit it to you.*'
 
 For more than one piece of cloth:
 
-‘Imāni me bhante cīvarāni aññātakaṃ gahapatikaṃ aññatra samayā viññāpitāni
-nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi.’
+‘Imāni me bhante cīvarāni aññātakaṁ gahapatikaṁ aññatra samayā viññāpitāni
+nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.’
 
 ### Nissaggiya Pācittiya 7 (‘beyond limit’)<a id="np-7"></a>
 
-‘Idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ upasaṃkamitvā tat'uttariṃ
-viññāpitaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante cīvaraṁ aññātakaṁ gahapatikaṁ upasaṁkamitvā tat'uttariṁ
+viññāpitaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This robe, ven. sir, which has been asked for beyond the limitation from an
 unrelated householder, is to be forfeited by me: I forfeit it to you.*'
@@ -235,13 +235,13 @@ unrelated householder, is to be forfeited by me: I forfeit it to you.*'
 
 For more than one piece of cloth:
 
-‘Imāni me bhante cīvarāni aññātakaṃ gahapatikaṃ tat'uttariṃ viññāpitāni
-nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi.’
+‘Imāni me bhante cīvarāni aññātakaṁ gahapatikaṁ tat'uttariṁ viññāpitāni
+nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.’
 
 ### Nissaggiya Pācittiya 8 (‘instructing’)<a id="np-8-instructing"></a>
 
-‘Idaṃ me bhante cīvaraṃ pubbe appavārito aññātakaṃ gahapatikaṃ upasaṅkamitvā
-cīvare vikappaṃ āpannaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante cīvaraṁ pubbe appavārito aññātakaṁ gahapatikaṁ upasaṅkamitvā
+cīvare vikappaṁ āpannaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This robe, ven. sir, which has been instructed about after having approached
 an unrelated householder without prior invitation is to be forfeited by me: I
@@ -254,7 +254,7 @@ forfeit it to you.*'
 For a robe (robe-cloth) received after making instructions to two or more
 householders. Use formula of [NP 8](#np-8-instructing) above but change:
 
-‘aññātakaṃ gahapatikaṃ’ → ‘aññātake gahapatike’
+‘aññātakaṁ gahapatikaṁ’ → ‘aññātake gahapatike’
 
 For returning the robe(s) see [NP 1](#np-1-returning-the-robe) above.
 
@@ -262,8 +262,8 @@ For returning the robe(s) see [NP 1](#np-1-returning-the-robe) above.
 
 ### Nissaggiya Pācittiya 10 (‘reminding’)<a id="np-10"></a>
 
-‘Idaṃ me bhante cīvaraṃ atireka-tikkhattuṃ codanāya atireka-chakkhattuṃ ṭhānena
-abhinipphāditaṃ nissaggiyaṃ, imāhaṃ āyasmato nissajjāmi.’
+‘Idaṁ me bhante cīvaraṁ atireka-tikkhattuṁ codanāya atireka-chakkhattuṁ ṭhānena
+abhinipphāditaṁ nissaggiyaṁ, imāhaṁ āyasmato nissajjāmi.’
 
 '*This robe, ven. sir, which has been obtained by inciting more than three
 times, by standing more than six times, is to be forfeited by me: I forfeit it
@@ -273,7 +273,7 @@ to you.*'
 
 ### Nissaggiya Pācittiya 18 (‘gold and silver’)<a id="np-18"></a>
 
-‘Ahaṃ bhante rūpiyaṃ paṭiggahesiṃ, idaṃ me nissaggiyaṃ. Imāhaṃ saṅghassa
+‘Ahaṁ bhante rūpiyaṁ paṭiggahesiṁ, idaṁ me nissaggiyaṁ. Imāhaṁ saṅghassa
 nissajjāmi.’
 
 ‘*Ven. sirs, I have accepted money. This is to be forfeited by me: I forfeit it to the Saṅgha.*’
@@ -284,8 +284,8 @@ To be forfeited to the Sangha only.
 
 ### Nissaggiya Pācittiya 19 (‘monetary exchange’)<a id="np-19"></a>
 
-‘Ahaṃ bhante nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjiṃ, idaṃ me nissaggiyaṃ.
-Imāhaṃ saṅghassa nissajjāmi.’
+‘Ahaṁ bhante nānappakārakaṁ rūpiyasaṁvohāraṁ samāpajjiṁ, idaṁ me nissaggiyaṁ.
+Imāhaṁ saṅghassa nissajjāmi.’
 
 ‘*Ven. sirs, I have engaged in various kinds of trafficking with money. This
 (money) is to be forfeited by me: I forfeit it to the Saṅgha.*’
@@ -296,7 +296,7 @@ To be forfeited to the Sangha only.
 
 ### Nissaggiya Pācittiya 20 (‘buying and selling’)<a id="np-20"></a>
 
-‘Ahaṃ bhante nānappakārakaṃ kayavikkayaṃ samāpajjiṃ, idaṃ me nissaggiyaṃ. Imāhaṃ
+‘Ahaṁ bhante nānappakārakaṁ kayavikkayaṁ samāpajjiṁ, idaṁ me nissaggiyaṁ. Imāhaṁ
 āyasmato nissajjāmi.’
 
 '*Ven. sir, I have engaged in various kinds of buying and selling. This (gain)
@@ -307,25 +307,25 @@ of mine is to be forfeited by me: I forfeit it to you.*'
 If forfeiting to a Sangha: 'āyasmato' → 'saṅghassa'
 
 If forfeiting to a group of bhikkhus:\
-'āyasmato' → 'āyasmantānaṃ'
+'āyasmato' → 'āyasmantānaṁ'
 
 ### Nissaggiya Pācittiya 21 (‘extra bowl’)<a id="np-21"></a>
 
-‘Ayaṃ me bhante patto dasāhātikkanto nissaggiyo. Imāhaṃ āyasmato nissajjāmi.’
+‘Ayaṁ me bhante patto dasāhātikkanto nissaggiyo. Imāhaṁ āyasmato nissajjāmi.’
 
 '*This bowl, ven. sir, which has passed beyond the ten-day (limit), is to be
 forfeited by me: I forfeit it to you.*'
 
 For returning the bowl:
 
-'Imaṃ pattaṃ āyasmato dammi.'\
+'Imaṁ pattaṁ āyasmato dammi.'\
 '*I give this bowl to you.*'
 
 *Vin.III.243-244*
 
 ### Nissaggiya Pācittiya 22 (‘new bowl’)<a id="np-22"></a>
 
-‘Ayaṃ me bhante patto ūnapañca-bandhanena pattena cetāpito nissaggiyo. Imāhaṃ
+‘Ayaṁ me bhante patto ūnapañca-bandhanena pattena cetāpito nissaggiyo. Imāhaṁ
 saṅghassa nissajjāmi.’
 
 '*This bowl, ven. sirs, which has been exchanged for a bowl that has less than
@@ -337,7 +337,7 @@ To be forfeited to the Sangha only.
 
 ### Nissaggiya Pācittiya 23 (‘kept tonics’)<a id="np-23"></a>
 
-'Idaṃ me bhante bhesajjaṃ sattāhātikkantaṃ nissaggiyaṃ. Imāhaṃ āyasmato
+'Idaṁ me bhante bhesajjaṁ sattāhātikkantaṁ nissaggiyaṁ. Imāhaṁ āyasmato
 nissajjāmi.'
 
 '*This tonic, ven. sir, which has passed beyond the seven-day (limit), is to be
@@ -345,14 +345,14 @@ forfeited by me: I forfeit it to you.*'
 
 Tonics can be returned, but not for consumption:
 
-'Imaṃ bhesajjaṃ āyasmato dammi.'\
+'Imaṁ bhesajjaṁ āyasmato dammi.'\
 '*I give this tonic to you.*'
 
 *Vin.III.251*
 
 ### Nissaggiya Pācittiya 25 ('snatched back')<a id="np-25"></a>
 
-'Idaṃ me bhante cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ. Imāhaṃ
+'Idaṁ me bhante cīvaraṁ bhikkhussa sāmaṁ datvā acchinnaṁ nissaggiyaṁ. Imāhaṁ
 āyasmato nissajjāmi.'
 
 '*This robe, ven. sir, which has been snatched back after having given it myself
@@ -362,8 +362,8 @@ to a bhikkhu, is to be forfeited by me: I forfeit it to you.*'
 
 ### Nissaggiya Pācittiya 28 ('urgent')<a id="np-28"></a>
 
-'Idaṃ me bhante acceka-cīvaraṃ cīvara-kālasamayaṃ atikkāmitaṃ nissaggiyaṃ.
-Imāhaṃ āyasmato nissajjāmi.'
+'Idaṁ me bhante acceka-cīvaraṁ cīvara-kālasamayaṁ atikkāmitaṁ nissaggiyaṁ.
+Imāhaṁ āyasmato nissajjāmi.'
 
 '*This robe-offered-in-urgency, ven. sir, has passed beyond the robe-season, is
 to be forfeited by me: I forfeit it to you.*'
@@ -372,8 +372,8 @@ to be forfeited by me: I forfeit it to you.*'
 
 ### Nissaggiya Pācittiya 29 ('wilderness abode')<a id="np-29"></a>
 
-'Idaṃ me bhante cīvaraṃ atireka-chā-rattaṃ vippavutthaṃ aññatra
-bhikkhu-sammatiyā nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi.'
+'Idaṁ me bhante cīvaraṁ atireka-chā-rattaṁ vippavutthaṁ aññatra
+bhikkhu-sammatiyā nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.'
 
 '*This robe, ven. sir, which has stayed separate (from me) for a night without
 the consent of the bhikkhus, is to be forfeited by me: I forfeit it to you.*'
@@ -382,14 +382,14 @@ the consent of the bhikkhus, is to be forfeited by me: I forfeit it to you.*'
 
 ### Nissaggiya Pācittiya 30 ('diverted gain')<a id="np-30"></a>
 
-'Idaṃ me bhante jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmitaṃ nissaggiyaṃ.
-Imāhaṃ āyasmato nissajjāmi.'
+'Idaṁ me bhante jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmitaṁ nissaggiyaṁ.
+Imāhaṁ āyasmato nissajjāmi.'
 
 '*This gain belonging to the Saṅgha, ven. sir, which has been (already) diverted
 (to someone), (and) which has been knowingly diverted to myself (instead), is to
 be forfeited by me: I forfeit it to you.*'
 
-To return the article: 'Imaṃ āyasmato dammi.'
+To return the article: 'Imaṁ āyasmato dammi.'
 
 *Vin.III.266*
 

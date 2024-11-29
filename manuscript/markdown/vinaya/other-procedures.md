@@ -6,7 +6,7 @@
 - [Kappiya-karaṇa (Making Fruit Allowable)](#kappiya)
 - [Entering Town after Midday](#midday)
 - [Saṅghadāna-apalokana (Sharing Saṅghadāna)](#sanghadana)
-- [Paṃsukūla-cīvara (Taking Rag-cloth)](#rag-cloth)
+- [Paṁsukūla-cīvara (Taking Rag-cloth)](#rag-cloth)
 - [Desanā](#desana)
   - [Requesting permission to speak on Vinaya](#speak-on-vinaya)
   - [Requesting permission to speak on Dhamma](#speak-on-dhamma)
@@ -35,7 +35,7 @@ The bhikkhu:
 
 The Ācariya:
 
-> ‘Sādhu, lahu, opāyikaṃ, paṭirūpaṃ,\
+> ‘Sādhu, lahu, opāyikaṁ, paṭirūpaṁ,\
 > pāsādikena sampādehi.’
 
 *(It is good; ...convenient; ...suitable; ...proper; ... you should endeavour to conduct yourself in a good manner.)*
@@ -44,7 +44,7 @@ The Ācariya:
 
 The bhikkhu:
 
-> ‘Sādhu bhante. Ajja-t-agge-dāni thero mayhaṃ bhāro, aham-pi therassa bhāro.’ (×3)
+> ‘Sādhu bhante. Ajja-t-agge-dāni thero mayhaṁ bhāro, aham-pi therassa bhāro.’ (×3)
 
 *(It is good, ven. sir. From this day onwards the Elder will be my burden and I shall be the burden of the Elder.)*
 
@@ -57,12 +57,12 @@ monk may offer advice and encouragement in the practice.
 
 For fruit with seeds or vegetables that can grow again, the bhikkhu says:
 
-'Kappiyaṃ karohi' '*Make it allowable.*'
+'Kappiyaṁ karohi' '*Make it allowable.*'
 
 The lay person, while 'marking' (cutting, tearing or burning) the fruit,
 etc., responds:
 
-'Kappiyaṃ bhante.' '*It is allowable, ven. sir.*'
+'Kappiyaṁ bhante.' '*It is allowable, ven. sir.*'
 
 *Sp.IV.767-768*
 
@@ -70,7 +70,7 @@ etc., responds:
 
 Leave can be taken in one's own language, or in Pali:
 
-'Vikāle gāmappavesanaṃ āpucchāmi.'\
+'Vikāle gāmappavesanaṁ āpucchāmi.'\
 *(I take leave to go to the town at the 'wrong time'.)*
 
 *Kv.140*
@@ -81,10 +81,10 @@ After *saṅghadāna* is offered, a bhikkhu, other than the senior *Thera*,
 recites:
 
 > 'Yagghe bhante saṅgho jānātu.\
-> Ayaṃ paṭhama-bhāgo *therassa* pāpuṇāti.\
+> Ayaṁ paṭhama-bhāgo *therassa* pāpuṇāti.\
 > Avasesā bhāgā amhākañc'eva pāpuṇanti.\
-> Bhikkhūnañca sīladharānaṃ sāmaṇerānaṃ gahaṭṭhānaṃ\
-> Te yathāsukhaṃ paribhuñjantu.'
+> Bhikkhūnañca sīladharānaṁ sāmaṇerānaṁ gahaṭṭhānaṁ\
+> Te yathāsukhaṁ paribhuñjantu.'
 
 'therassa' → 'mahātherassa'
 
@@ -101,9 +101,9 @@ The Sangha responds: 'Sādhu.'
 
 *Sp.VII.1405-1409*
 
-## Paṃsukūla-cīvara (Taking Rag-cloth)<a id="rag-cloth"></a>
+## Paṁsukūla-cīvara (Taking Rag-cloth)<a id="rag-cloth"></a>
 
-'Imaṃ paṃsukūla-cīvaraṃ assāmikaṃ mayhaṃ pāpuṇāti.'\
+'Imaṁ paṁsukūla-cīvaraṁ assāmikaṁ mayhaṁ pāpuṇāti.'\
 '*This rag-cloth, which is ownerless, has reached me.*'
 
 ## Desanā<a id="desana"></a>
@@ -116,17 +116,17 @@ The Sangha responds: 'Sādhu.'
 
 </div>
 
-‘Okāsaṃ me bhante thero detu vinaya-kathaṃ kathetuṃ.’
+‘Okāsaṁ me bhante thero detu vinaya-kathaṁ kathetuṁ.’
 
-‘Namo… (×3); Buddhaṃ Dhammaṃ Saṅghaṃ namassāmi.’
+‘Namo… (×3); Buddhaṁ Dhammaṁ Saṅghaṁ namassāmi.’
 
-‘Vinayo sāsanassa āyū'ti. Karotu me āyasmā okāsaṃ ahan-taṃ vattukāmo.’
+‘Vinayo sāsanassa āyū'ti. Karotu me āyasmā okāsaṁ ahan-taṁ vattukāmo.’
 
 ‘*Ven. sir, please give permission to speak on Vinaya... Vinaya is the life of
 the religion. I ask for permission from the ven. one: I wish to speak about the
 Vinaya.*’
 
-Reply: ‘Karomi āyasmato okāsaṃ.’
+Reply: ‘Karomi āyasmato okāsaṁ.’
 
 ‘*I give you the opportunity, venerable.*’
 
@@ -140,11 +140,11 @@ Reply: ‘Karomi āyasmato okāsaṃ.’
 
 </div>
 
-‘Okāsaṃ me bhante thero detu dhamma-kathaṃ kathetuṃ.’
+‘Okāsaṁ me bhante thero detu dhamma-kathaṁ kathetuṁ.’
 
 ‘*Ven. sir, please give permission to speak on Dhamma.*’
 
-‘Namo... (×3); Buddhaṃ Dhammaṃ Saṅghaṃ namassāmi.’
+‘Namo... (×3); Buddhaṁ Dhammaṁ Saṅghaṁ namassāmi.’
 
 <div class="instr">
 
@@ -152,11 +152,11 @@ Reply: ‘Karomi āyasmato okāsaṃ.’
 
 </div>
 
-‘Apārutā tesaṃ amatassa dvārā ye sotavantā pamuñcantu saddhaṃ.’
+‘Apārutā tesaṁ amatassa dvārā ye sotavantā pamuñcantu saddhaṁ.’
 
 ‘*Open are the doors to the Deathless. May all those who have ears release their faith.*’
 
-‘Ito paraṃ sakkaccaṃ dhammo sotabbo'ti.’
+‘Ito paraṁ sakkaccaṁ dhammo sotabbo'ti.’
 
 ‘*After this you should attentively listen to the Dhamma.*’
 
@@ -176,10 +176,10 @@ upwards.
 </div>
 
 Brahmā ca lokādhipatī sahampati\
-Katañjalī anadhivaraṃ ayācatha
+Katañjalī anadhivaraṁ ayācatha
 
 Santīdha sattāpparajakkha-jātikā\
-Desetu dhammaṃ anukampimaṃ pajaṃ
+Desetu dhammaṁ anukampimaṁ pajaṁ
 
 <div class="instr">
 
@@ -197,13 +197,13 @@ Desetu dhammaṃ anukampimaṃ pajaṃ
 
 </div>
 
-*Buddhavaṃsa 1*
+*Buddhavaṁsa 1*
 
 ## Acknowledging the Teaching<a id="acknowledging"></a>
 
 After the talk, the person next in seniority after the speaker, chants:
 
-'Handa mayaṃ dhamma-kathāya / ovāda-kathāya sādhukāraṃ dadāmase.'
+'Handa mayaṁ dhamma-kathāya / ovāda-kathāya sādhukāraṁ dadāmase.'
 
 *Now let us express our approval of this Dhamma teaching / exhortation.*
 
@@ -218,13 +218,13 @@ The listeners, together:
 
 When the talk is concluded, the speaker chants:
 
-'Ayaṃ dhamma- / vinaya- / dhammavinaya-kathā sādh'āyasmantehi saṃrakkhetabbā'ti.'
+'Ayaṁ dhamma- / vinaya- / dhammavinaya-kathā sādh'āyasmantehi saṁrakkhetabbā'ti.'
 
 '*This talk on Dhamma / Vinaya / Dhammavinaya should be well-preserved by you, ven. sirs.*'
 
 The person next in seniority after the speaker:
 
-'Handa mayaṃ dhamma- / vinaya- / dhammavinaya-kathāya sādhukāraṃ dadāmase.'
+'Handa mayaṁ dhamma- / vinaya- / dhammavinaya-kathāya sādhukāraṁ dadāmase.'
 
 '*Now let us make the act of acknowledging this Dhamma / Vinaya / Dhammavinaya talk.*'
 
@@ -242,38 +242,38 @@ The listeners, together:
 
 **For a group from a monk**
 
-Mayaṃ bhante tisaraṇena saha\
+Mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma\
-Dutiyampi mayaṃ bhante tisaraṇena saha\
+Dutiyampi mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma\
-Tatiyampi mayaṃ bhante tisaraṇena saha\
+Tatiyampi mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma
 
 **For oneself from a monk**
 
-Ahaṃ bhante tisaraṇena saha\
+Ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi\
-Dutiyampi ahaṃ bhante tisaraṇena saha\
+Dutiyampi ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi\
-Tatiyampi ahaṃ bhante tisaraṇena saha\
+Tatiyampi ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi
 
 **For a group from a nun**
 
-Mayaṃ ayye tisaraṇena saha\
+Mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma\
-Dutiyampi mayaṃ ayye tisaraṇena saha\
+Dutiyampi mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma\
-Tatiyampi mayaṃ ayye tisaraṇena saha\
+Tatiyampi mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāma
 
 **For oneself from a nun**
 
-Ahaṃ ayye tisaraṇena saha\
+Ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi\
-Dutiyampi ahaṃ ayye tisaraṇena saha\
+Dutiyampi ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi\
-Tatiyampi ahaṃ ayye tisaraṇena saha\
+Tatiyampi ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>pañca sīlāni yācāmi
 
 <div class="english">
@@ -305,9 +305,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
 </div>
 
-Buddhaṃ saraṇaṃ gacchāmi\
-Dhammaṃ saraṇaṃ gacchāmi\
-Saṅghaṃ saraṇaṃ gacchāmi
+Buddhaṁ saraṇaṁ gacchāmi\
+Dhammaṁ saraṇaṁ gacchāmi\
+Saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -317,9 +317,9 @@ Saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-Dutiyampi buddhaṃ saraṇaṃ gacchāmi\
-Dutiyampi dhammaṃ saraṇaṃ gacchāmi\
-Dutiyampi saṅghaṃ saraṇaṃ gacchāmi
+Dutiyampi buddhaṁ saraṇaṁ gacchāmi\
+Dutiyampi dhammaṁ saraṇaṁ gacchāmi\
+Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -327,9 +327,9 @@ Dutiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-Tatiyampi buddhaṃ saraṇaṃ gacchāmi\
-Tatiyampi dhammaṃ saraṇaṃ gacchāmi\
-Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
+Tatiyampi buddhaṁ saraṇaṁ gacchāmi\
+Tatiyampi dhammaṁ saraṇaṁ gacchāmi\
+Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -343,7 +343,7 @@ Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-[Tisaraṇa-gamanaṃ niṭṭhitaṃ]
+[Tisaraṇa-gamanaṁ niṭṭhitaṁ]
 
 *This completes the going to the Three Refuges.*
 
@@ -363,23 +363,23 @@ Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-(1) Pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi
+(1) Pāṇātipātā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from taking the life of any living creature.*
 
-(2) Adinnādānā veramaṇī sikkhāpadaṃ samādiyāmi
+(2) Adinnādānā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from taking that which is not given.*
 
-(3) Kāmesu micchācārā veramaṇī sikkhāpadaṃ samādiyāmi
+(3) Kāmesu micchācārā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from sexual misconduct.*
 
-(4) Musāvādā veramaṇī sikkhāpadaṃ samādiyāmi
+(4) Musāvādā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from lying.*
 
-(5) Surāmeraya-majja-pamādaṭṭhānā veramaṇī sikkhāpadaṃ samādiyāmi
+(5) Surāmeraya-majja-pamādaṭṭhānā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from consuming intoxicating drink and drugs which lead to carelessness.*
 
@@ -390,10 +390,10 @@ Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
 </div>
 
 [Imāni pañca sikkhāpadāni\
-Sīlena sugatiṃ yanti\
+Sīlena sugatiṁ yanti\
 Sīlena bhogasampadā\
-Sīlena nibbutiṃ yanti\
-Tasmā sīlaṃ visodhaye]
+Sīlena nibbutiṁ yanti\
+Tasmā sīlaṁ visodhaye]
 
 <div class="english">
 
@@ -430,38 +430,38 @@ Sādhu, sādhu, sādhu.
 
 **For a group from a monk**
 
-Mayaṃ bhante tisaraṇena saha\
+Mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma\
-Dutiyampi mayaṃ bhante tisaraṇena saha\
+Dutiyampi mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma\
-Tatiyampi mayaṃ bhante tisaraṇena saha\
+Tatiyampi mayaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma
 
 **For oneself from a monk**
 
-Ahaṃ bhante tisaraṇena saha\
+Ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi\
-Dutiyampi ahaṃ bhante tisaraṇena saha\
+Dutiyampi ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi\
-Tatiyampi ahaṃ bhante tisaraṇena saha\
+Tatiyampi ahaṁ bhante tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi
 
 **For a group from a nun**
 
-Mayaṃ ayye tisaraṇena saha\
+Mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma\
-Dutiyampi mayaṃ ayye tisaraṇena saha\
+Dutiyampi mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma\
-Tatiyampi mayaṃ ayye tisaraṇena saha\
+Tatiyampi mayaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāma
 
 **For oneself from a nun**
 
-Ahaṃ ayye tisaraṇena saha\
+Ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi\
-Dutiyampi ahaṃ ayye tisaraṇena saha\
+Dutiyampi ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi\
-Tatiyampi ahaṃ ayye tisaraṇena saha\
+Tatiyampi ahaṁ ayye tisaraṇena saha\
 <span class="vin"></span>aṭṭha sīlāni yācāmi
 
 <div class="english">
@@ -493,9 +493,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
 </div>
 
-Buddhaṃ saraṇaṃ gacchāmi\
-Dhammaṃ saraṇaṃ gacchāmi\
-Saṅghaṃ saraṇaṃ gacchāmi
+Buddhaṁ saraṇaṁ gacchāmi\
+Dhammaṁ saraṇaṁ gacchāmi\
+Saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -505,9 +505,9 @@ Saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-Dutiyampi buddhaṃ saraṇaṃ gacchāmi\
-Dutiyampi dhammaṃ saraṇaṃ gacchāmi\
-Dutiyampi saṅghaṃ saraṇaṃ gacchāmi
+Dutiyampi buddhaṁ saraṇaṁ gacchāmi\
+Dutiyampi dhammaṁ saraṇaṁ gacchāmi\
+Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -515,9 +515,9 @@ Dutiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-Tatiyampi buddhaṃ saraṇaṃ gacchāmi\
-Tatiyampi dhammaṃ saraṇaṃ gacchāmi\
-Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
+Tatiyampi buddhaṁ saraṇaṁ gacchāmi\
+Tatiyampi dhammaṁ saraṇaṁ gacchāmi\
+Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 <div class="english">
 
@@ -531,7 +531,7 @@ Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-[Tisaraṇa-gamanaṃ niṭṭhitaṃ]
+[Tisaraṇa-gamanaṁ niṭṭhitaṁ]
 
 *This completes the going to the Three Refuges.*
 
@@ -551,35 +551,35 @@ Tatiyampi saṅghaṃ saraṇaṃ gacchāmi
 
 </div>
 
-(1) Pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi
+(1) Pāṇātipātā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from taking the life of any living creature.*
 
-(2) Adinnādānā veramaṇī sikkhāpadaṃ samādiyāmi
+(2) Adinnādānā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from taking that which is not given.*
 
-(3) Abrahmacariyā veramaṇī sikkhāpadaṃ samādiyāmi
+(3) Abrahmacariyā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from any intentional sexual activity.*
 
-(4) Musāvādā veramaṇī sikkhāpadaṃ samādiyāmi
+(4) Musāvādā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from lying.*
 
-(5) Surāmeraya-majja-pamādaṭṭhānā veramaṇī sikkhāpadaṃ samādiyāmi
+(5) Surāmeraya-majja-pamādaṭṭhānā veramaṇī sikkhāpadaṁ samādiyāmi
 
 *I undertake the precept to refrain from consuming intoxicating drink and drugs which lead to carelessness.*
 
-(6) Vikālabhojanā veramaṇī sikkhāpadaṃ samādiyāmi.
+(6) Vikālabhojanā veramaṇī sikkhāpadaṁ samādiyāmi.
 
 *I undertake the precept to refrain from eating at inappropriate times.*
 
-(7) Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī sikkhāpadaṃ samādiyāmi.
+(7) Nacca-gīta-vādita-visūkadassanā mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī sikkhāpadaṁ samādiyāmi.
 
 *I undertake the precept to refrain from entertainment, beautification, and adornment.*
 
-(8) Uccāsayana-mahāsayanā veramaṇī sikkhāpadaṃ samādiyāmi.
+(8) Uccāsayana-mahāsayanā veramaṇī sikkhāpadaṁ samādiyāmi.
 
 *I undertake the precept to refrain from lying on a high or luxurious sleeping place.*
 
@@ -614,10 +614,10 @@ Imāni aṭṭha sikkhāpadāni samādiyāmi (×3)
 </div>
 
 [Imāni aṭṭha sikkhāpadāni\
-Sīlena sugatiṃ yanti\
+Sīlena sugatiṁ yanti\
 Sīlena bhogasampadā\
-Sīlena nibbutiṃ yanti\
-Tasmā sīlaṃ visodhaye]
+Sīlena nibbutiṁ yanti\
+Tasmā sīlaṁ visodhaye]
 
 <div class="english">
 
@@ -651,9 +651,9 @@ Sādhu, sādhu, sādhu.
 
 </div>
 
-‘Imaṃ aṭṭh'aṅga-samannāgataṃ\
-buddhapaññattaṃ uposathaṃ, imañca rattiṃ\
-imañca divasaṃ, samma-deva abhirakkhituṃ samādiyāmi.’
+‘Imaṁ aṭṭh'aṅga-samannāgataṁ\
+buddhapaññattaṁ uposathaṁ, imañca rattiṁ\
+imañca divasaṁ, samma-deva abhirakkhituṁ samādiyāmi.’
 
 <div class="instr">
 
@@ -662,8 +662,8 @@ imañca divasaṃ, samma-deva abhirakkhituṃ samādiyāmi.’
 </div>
 
 ‘Imāni aṭṭha sikkhāpadāni,\
-ajj'ekaṃ rattin-divaṃ, uposatha (sīla)\
-vasena sādhukaṃ (katvā appamādena) rakkhitabbāni.’
+ajj'ekaṁ rattin-divaṁ, uposatha (sīla)\
+vasena sādhukaṁ (katvā appamādena) rakkhitabbāni.’
 
 <div class="instr">
 
@@ -679,46 +679,46 @@ vasena sādhukaṃ (katvā appamādena) rakkhitabbāni.’
 
 </div>
 
-‘Sīlena sugatiṃ yanti,\
+‘Sīlena sugatiṁ yanti,\
 Sīlena bhoga-sampadā,\
-Sīlena nibbutiṃ yanti,\
-Tasmā sīlaṃ visodhaye.’
+Sīlena nibbutiṁ yanti,\
+Tasmā sīlaṁ visodhaye.’
 
 ### Asking Forgiveness of The Triple Gem<a id="asking-forgiveness-of-the-triple-gem"></a>
 
 **(Men Chant)**\
-Ahaṃ buddhañ ca dhammañ ca saṅghañ ca saraṇaṃ gato\
-upāsakattaṃ desesiṃ bhikkhu-saṅghassa sammukhā.
+Ahaṁ buddhañ ca dhammañ ca saṅghañ ca saraṇaṁ gato\
+upāsakattaṁ desesiṁ bhikkhu-saṅghassa sammukhā.
 
 **(Women Chant)**\
-Ahaṃ buddhañ ca dhammañ ca saṅghañ ca saraṇaṃ gatā\
-upāsikattaṃ desesiṃ bhikkhu-saṅghassa sammukhā.
+Ahaṁ buddhañ ca dhammañ ca saṅghañ ca saraṇaṁ gatā\
+upāsikattaṁ desesiṁ bhikkhu-saṅghassa sammukhā.
 
-Etaṃ me saraṇaṃ khemaṃ,\
-etaṃ saraṇam uttamaṃ\
-etaṃ saraṇam āgamma sabba-dukkhā pamuccaye.\
-Yathā-balaṃ careyyāhaṃ sammā-sambuddha-sāsanaṃ
+Etaṁ me saraṇaṁ khemaṁ,\
+etaṁ saraṇam uttamaṁ\
+etaṁ saraṇam āgamma sabba-dukkhā pamuccaye.\
+Yathā-balaṁ careyyāhaṁ sammā-sambuddha-sāsanaṁ
 
 **m.**\
-dukkha-nissaraṇass' eva bhāgī assaṃ anāgate.
+dukkha-nissaraṇass' eva bhāgī assaṁ anāgate.
 
 **w.**\
-dukkha-nissaraṇass' eva bhāginissaṃ anāgate.
+dukkha-nissaraṇass' eva bhāginissaṁ anāgate.
 
 Kāyena vācāya va cetasā vā\
-buddhe kukammaṃ pakataṃ mayā yaṃ\
-buddho paṭigghaṅhātu accayantaṃ\
-kālantare saṃvarituṃ va buddhe
+buddhe kukammaṁ pakataṁ mayā yaṁ\
+buddho paṭigghaṅhātu accayantaṁ\
+kālantare saṁvarituṁ va buddhe
 
 Kāyena vācāya va cetasā vā\
-dhamme kukammaṃ pakataṃ mayā yaṃ\
-dhammo paṭigghaṅhātu accayantaṃ\
-kālantare saṃvarituṃ va dhamme
+dhamme kukammaṁ pakataṁ mayā yaṁ\
+dhammo paṭigghaṅhātu accayantaṁ\
+kālantare saṁvarituṁ va dhamme
 
 Kāyena vācāya va cetasā vā\
-saṅghe kukammaṃ pakataṃ mayā yaṃ\
-saṅgho paṭigghaṅhātu accayantaṃ\
-kālantare saṃvarituṃ va sanghe
+saṅghe kukammaṁ pakataṁ mayā yaṁ\
+saṅgho paṭigghaṅhātu accayantaṁ\
+kālantare saṁvarituṁ va sanghe
 
 ### Taking Leave after Uposatha<a id="taking-leave"></a>
 
@@ -731,8 +731,8 @@ morning they will take their leave from the senior monk:
 
 </div>
 
-Handa dāni mayaṃ bhante āpucchāma\
-bahukiccā mayaṃ bahukaraṇīyā
+Handa dāni mayaṁ bhante āpucchāma\
+bahukiccā mayaṁ bahukaraṇīyā
 
 <div class="instr">
 
@@ -740,7 +740,7 @@ bahukiccā mayaṃ bahukaraṇīyā
 
 </div>
 
-‘Yassa dāni tumhe kālaṃ maññatha.’
+‘Yassa dāni tumhe kālaṁ maññatha.’
 
 ‘*Please do what is appropriate at this time.*’
 
@@ -760,7 +760,7 @@ Bow three times.
 
 Recite in Pali and in his own language:
 
-‘Sikkhaṃ paccakkhāmi. Gihī'ti maṃ dhāretha.’
+‘Sikkhaṁ paccakkhāmi. Gihī'ti maṁ dhāretha.’
 
 *I give up the training. May you regard me as a layman.*
 

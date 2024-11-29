@@ -24,16 +24,16 @@
 - [Verses on Friends](#friends)
 - [Reflection on Impermanence](#impermanence)
 - [The Guardian Meditations](#guardian)
-- [Yan-dāni me kataṃ puññaṃ](#yan-dani)
+- [Yan-dāni me kataṁ puññaṁ](#yan-dani)
 
 ## Reflection on the Four Requisites<a id="patisankha-yoniso"></a>
 
-> [Handa mayaṃ taṅkhaṇika-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ taṅkhaṇika-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 
-[Paṭisaṅkhā] yoniso cīvaraṃ paṭisevāmi,\
+[Paṭisaṅkhā] yoniso cīvaraṁ paṭisevāmi,\
 yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya,\
-ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ\
-paṭighātāya, yāvadeva hirikopina-paṭicchādanatthaṃ
+ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ\
+paṭighātāya, yāvadeva hirikopina-paṭicchādanatthaṁ
 
 <div class="english">
 
@@ -43,9 +43,9 @@ paṭighātāya, yāvadeva hirikopina-paṭicchādanatthaṃ
 
 </div>
 
-[Paṭisaṅkhā] yoniso piṇḍapātaṃ paṭisevāmi, neva davāya, na madāya, na maṇḍanāya,
-na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā, yāpanāya, vihiṃsūparatiyā,
-brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na
+[Paṭisaṅkhā] yoniso piṇḍapātaṁ paṭisevāmi, neva davāya, na madāya, na maṇḍanāya,
+na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā, yāpanāya, vihiṁsūparatiyā,
+brahmacariyānuggahāya, iti purāṇañca vedanaṁ paṭihaṅkhāmi, navañca vedanaṁ na
 uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
 <div class="english">
@@ -58,10 +58,10 @@ uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā'ti
 
 </div>
 
-[Paṭisaṅkhā] yoniso senāsanaṃ paṭisevāmi,\
+[Paṭisaṅkhā] yoniso senāsanaṁ paṭisevāmi,\
 yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya,\
-ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ\
-paṭighātāya, yāvadeva utuparissaya vinodanaṃ paṭisallānārāmatthaṃ
+ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ\
+paṭighātāya, yāvadeva utuparissaya vinodanaṁ paṭisallānārāmatthaṁ
 
 <div class="english">
 
@@ -71,8 +71,8 @@ paṭighātāya, yāvadeva utuparissaya vinodanaṃ paṭisallānārāmatthaṃ
 
 </div>
 
-[Paṭisaṅkhā] yoniso gilāna-paccaya-bhesajja-parikkhāraṃ paṭisevāmi, yāvadeva
-uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya, abyāpajjha-paramatāyā'ti
+[Paṭisaṅkhā] yoniso gilāna-paccaya-bhesajja-parikkhāraṁ paṭisevāmi, yāvadeva
+uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya, abyāpajjha-paramatāyā'ti
 
 <div class="english">
 
@@ -86,7 +86,7 @@ uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya, abyāpajjha-par
 
 ## Five Subjects for Frequent Recollection<a id="jara-dhammomhi"></a>
 
-> [Handa mayaṃ abhiṇha-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 
 <div class="instr">
 
@@ -94,7 +94,7 @@ uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya, abyāpajjha-par
 
 </div>
 
-[Jarā-dhammomhi] jaraṃ anatīto
+[Jarā-dhammomhi] jaraṁ anatīto
 
 <div class="english">
 
@@ -102,7 +102,7 @@ uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya, abyāpajjha-par
 
 </div>
 
-Byādhi-dhammomhi byādhiṃ anatīto
+Byādhi-dhammomhi byādhiṁ anatīto
 
 <div class="english">
 
@@ -110,7 +110,7 @@ Byādhi-dhammomhi byādhiṃ anatīto
 
 </div>
 
-Maraṇa-dhammomhi maraṇaṃ anatīto
+Maraṇa-dhammomhi maraṇaṁ anatīto
 
 <div class="english">
 
@@ -128,7 +128,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 </div>
 
 Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo\
-Yaṃ kammaṃ karissāmi, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādo bhavissāmi
+Yaṁ kammaṁ karissāmi, kalyāṇaṁ vā pāpakaṁ vā, tassa dāyādo bhavissāmi
 
 <div class="english">
 
@@ -138,7 +138,7 @@ Yaṃ kammaṃ karissāmi, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādo bhav
 
 </div>
 
-Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
+Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -152,7 +152,7 @@ Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-[Jarā-dhammāmhi] jaraṃ anatītā
+[Jarā-dhammāmhi] jaraṁ anatītā
 
 <div class="english">
 
@@ -160,7 +160,7 @@ Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-Byādhi-dhammāmhi byādhiṃ anatītā
+Byādhi-dhammāmhi byādhiṁ anatītā
 
 <div class="english">
 
@@ -168,7 +168,7 @@ Byādhi-dhammāmhi byādhiṃ anatītā
 
 </div>
 
-Maraṇa-dhammāmhi maraṇaṃ anatītā
+Maraṇa-dhammāmhi maraṇaṁ anatītā
 
 <div class="english">
 
@@ -186,7 +186,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo
 </div>
 
 Kammassakāmhi kammadāyādā kammayoni kammabandhu kammapaṭisaraṇā\
-Yaṃ kammaṃ karissāmi, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādā bhavissāmi
+Yaṁ kammaṁ karissāmi, kalyāṇaṁ vā pāpakaṁ vā, tassa dāyādā bhavissāmi
 
 <div class="english">
 
@@ -196,7 +196,7 @@ Yaṃ kammaṃ karissāmi, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādā bha
 
 </div>
 
-Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
+Evaṁ amhehi abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -208,9 +208,9 @@ Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 ## Ten Subjects for Frequent Recollection<a id="dasa-ime-bhikkhave"></a>
 
-> [Handa mayaṃ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ pabbajita-abhiṇha-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 
-[Dasa ime bhikkhave] dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā, katame dasa
+[Dasa ime bhikkhave] dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā, katame dasa
 
 <div class="english">
 
@@ -219,7 +219,7 @@ Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -229,7 +229,7 @@ Vevaṇṇiyamhi ajjhūpagato'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-Parapaṭibaddhā me jīvikā'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Parapaṭibaddhā me jīvikā'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -239,7 +239,7 @@ Parapaṭibaddhā me jīvikā'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-Añño me ākappo karaṇīyo'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Añño me ākappo karaṇīyo'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -249,7 +249,7 @@ Añño me ākappo karaṇīyo'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
 
 </div>
 
-Kacci nu kho me attā sīlato na upavadatī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Kacci nu kho me attā sīlato na upavadatī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -259,7 +259,7 @@ Kacci nu kho me attā sīlato na upavadatī'ti pabbajitena abhiṇhaṃ paccavek
 
 </div>
 
-Kacci nu kho maṃ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -269,7 +269,7 @@ Kacci nu kho maṃ anuvicca viññū sabrahmacārī sīlato na upavadantī'ti pa
 
 </div>
 
-Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -279,7 +279,7 @@ Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo'ti pabbajitena abhiṇhaṃ
 
 </div>
 
-Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṃ kammaṃ karissāmi, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādo bhavissāmī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṁ kammaṁ karissāmi, kalyāṇaṁ vā pāpakaṁ vā, tassa dāyādo bhavissāmī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -290,7 +290,7 @@ Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṃ kam
 
 </div>
 
-'Kathambhūtassa me rattindivā vītipatantī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+'Kathambhūtassa me rattindivā vītipatantī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -300,7 +300,7 @@ Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo, yaṃ kam
 
 </div>
 
-Kacci nu kho'haṃ suññāgāre abhiramāmī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Kacci nu kho'haṁ suññāgāre abhiramāmī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -310,7 +310,7 @@ Kacci nu kho'haṃ suññāgāre abhiramāmī'ti pabbajitena abhiṇhaṃ paccav
 
 </div>
 
-Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana-viseso adhigato, so'haṃ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ
+Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana-viseso adhigato, so'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī'ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ
 
 <div class="english">
 
@@ -320,7 +320,7 @@ Atthi nu kho me uttari-manussa-dhammā alamariya-ñāṇa-dassana-viseso adhigat
 
 </div>
 
-Ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā'ti
+Ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā'ti
 
 <div class="english">
 
@@ -332,33 +332,33 @@ Ime kho bhikkhave dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā'ti
 
 ## Caturappamaññā-obhāsana<a id="caturappamanna"></a>
 
-> [Handa mayaṃ caturappamaññā-obhāsanaṃ karomase]
+> [Handa mayaṁ caturappamaññā-obhāsanaṁ karomase]
 
-[Mettā-sahagatena] cetasā ekaṃ disaṃ pharitvā viharati\
-Tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ\
-Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya\
-Sabbāvantaṃ lokaṃ mettā-sahagatena cetasā\
+[Mettā-sahagatena] cetasā ekaṁ disaṁ pharitvā viharati\
+Tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ\
+Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya\
+Sabbāvantaṁ lokaṁ mettā-sahagatena cetasā\
 Vipulena mahaggatena appamāṇena averena\
 abyāpajjhena pharitvā viharati
 
-Karuṇā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati\
-Tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ\
-Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya\
-Sabbāvantaṃ lokaṃ karuṇā-sahagatena cetasā\
+Karuṇā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati\
+Tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ\
+Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya\
+Sabbāvantaṁ lokaṁ karuṇā-sahagatena cetasā\
 Vipulena mahaggatena appamāṇena averena\
 abyāpajjhena pharitvā viharati
 
-Muditā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati\
-Tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ\
-Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya\
-Sabbāvantaṃ lokaṃ muditā-sahagatena cetasā\
+Muditā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati\
+Tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ\
+Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya\
+Sabbāvantaṁ lokaṁ muditā-sahagatena cetasā\
 Vipulena mahaggatena appamāṇena averena\
 abyāpajjhena pharitvā viharati
 
-Upekkhā-sahagatena cetasā ekaṃ disaṃ pharitvā viharati\
-Tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ\
-Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya\
-Sabbāvantaṃ lokaṃ upekkhā-sahagatena cetasā\
+Upekkhā-sahagatena cetasā ekaṁ disaṁ pharitvā viharati\
+Tathā dutiyaṁ tathā tatiyaṁ tathā catutthaṁ\
+Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya\
+Sabbāvantaṁ lokaṁ upekkhā-sahagatena cetasā\
 Vipulena mahaggatena appamāṇena averena\
 abyāpajjhena pharitvā viharatī'ti
 
@@ -414,11 +414,11 @@ and without ill-will.
 
 ## Recollection After Using the Requisites<a id="recollection-after"></a>
 
-> [Handa mayaṃ atīta-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ atīta-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 
-Ajja mayā apaccavekkhitvā yaṃ cīvaraṃ paribhuttaṃ, taṃ yāvadeva sītassa
-paṭighātāya, uṇhassa paṭighātāya, ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ
-paṭighātāya, yāvadeva hirikopina paṭicchādan'atthaṃ.
+Ajja mayā apaccavekkhitvā yaṁ cīvaraṁ paribhuttaṁ, taṁ yāvadeva sītassa
+paṭighātāya, uṇhassa paṭighātāya, ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ
+paṭighātāya, yāvadeva hirikopina paṭicchādan'atthaṁ.
 
 <div class="english">
 
@@ -430,8 +430,8 @@ paṭighātāya, yāvadeva hirikopina paṭicchādan'atthaṃ.
 
 Ajja mayā apaccavekkhitvā yo piṇḍapāto paribhutto, so n'eva davāya, na madāya,
 na maṇḍanāya, na vibhūsanāya, yāvad-eva imassa kāyassa ṭhitiyā, yāpanāya,
-vihiṃsūparatiyā, brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi,
-navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro
+vihiṁsūparatiyā, brahmacariyānuggahāya, iti purāṇañca vedanaṁ paṭihaṅkhāmi,
+navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro
 cā'ti.
 
 <div class="english">
@@ -444,9 +444,9 @@ cā'ti.
 
 </div>
 
-Ajja mayā apaccavekkhitvā yaṃ senāsanaṃ paribhuttaṃ, taṃ yāvadeva sītassa
-paṭighātāya, uṇhassa paṭighātāya, ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ
-paṭighātāya, yāvadeva utuparissaya vinodanaṃ paṭisallānārāmatthaṃ.
+Ajja mayā apaccavekkhitvā yaṁ senāsanaṁ paribhuttaṁ, taṁ yāvadeva sītassa
+paṭighātāya, uṇhassa paṭighātāya, ḍaṁsa-makasa-vātātapa-siriṁsapa-samphassānaṁ
+paṭighātāya, yāvadeva utuparissaya vinodanaṁ paṭisallānārāmatthaṁ.
 
 <div class="english">
 
@@ -458,7 +458,7 @@ paṭighātāya, yāvadeva utuparissaya vinodanaṃ paṭisallānārāmatthaṃ.
 </div>
 
 Ajja mayā apaccavekkhitvā yo gilāna-paccayabhesajja-parikkhāro paribhutto, so
-yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya,
+yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya,
 abyāpajjha-paramatāyā'ti.
 
 <div class="english">
@@ -473,9 +473,9 @@ abyāpajjha-paramatāyā'ti.
 
 ## Reflection on the Off-Putting Qualities of the Requisites<a id="off-putting"></a>
 
-> [Handa mayaṃ dhātu-paṭikūla-paccavekkhaṇa-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ dhātu-paṭikūla-paccavekkhaṇa-pāṭhaṁ bhaṇāmase]
 
-[Yathā paccayaṃ] pavattamānaṃ dhātu-mattam-ev'etaṃ
+[Yathā paccayaṁ] pavattamānaṁ dhātu-mattam-ev'etaṁ
 
 <div class="english">
 
@@ -483,7 +483,7 @@ abyāpajjha-paramatāyā'ti.
 
 </div>
 
-Yad idaṃ cīvaraṃ tad upabhuñjako ca puggalo
+Yad idaṁ cīvaraṁ tad upabhuñjako ca puggalo
 
 <div class="english">
 
@@ -507,7 +507,7 @@ Sabbāni pana imāni cīvarāni ajigucchanīyāni
 
 </div>
 
-Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyāni jāyanti
+Imaṁ pūti-kāyaṁ patvā, ativiya jigucchanīyāni jāyanti
 
 <div class="english">
 
@@ -515,7 +515,7 @@ Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyāni jāyanti
 
 </div>
 
-Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
+Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
 
 <div class="english">
 
@@ -523,7 +523,7 @@ Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
 
 </div>
 
-Yad idaṃ piṇḍapāto tad upabhuñjako ca puggalo
+Yad idaṁ piṇḍapāto tad upabhuñjako ca puggalo
 
 <div class="english">
 
@@ -539,7 +539,7 @@ Dhātu-mattako, nissatto, nijjīvo, suñño
 
 </div>
 
-Sabbo panāyaṃ piṇḍapāto ajigucchanīyo
+Sabbo panāyaṁ piṇḍapāto ajigucchanīyo
 
 <div class="english">
 
@@ -547,7 +547,7 @@ Sabbo panāyaṃ piṇḍapāto ajigucchanīyo
 
 </div>
 
-Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyo jāyati
+Imaṁ pūti-kāyaṁ patvā, ativiya jigucchanīyo jāyati
 
 <div class="english">
 
@@ -555,7 +555,7 @@ Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyo jāyati
 
 </div>
 
-Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
+Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
 
 <div class="english">
 
@@ -563,7 +563,7 @@ Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
 
 </div>
 
-Yad idaṃ senāsanaṃ tad upabhuñjako ca puggalo
+Yad idaṁ senāsanaṁ tad upabhuñjako ca puggalo
 
 <div class="english">
 
@@ -587,7 +587,7 @@ Sabbāni pana imāni senāsanāni ajigucchanīyāni
 
 </div>
 
-Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyāni jāyanti
+Imaṁ pūti-kāyaṁ patvā, ativiya jigucchanīyāni jāyanti
 
 <div class="english">
 
@@ -595,7 +595,7 @@ Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyāni jāyanti
 
 </div>
 
-Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
+Yathā paccayaṁ pavattamānaṁ dhātu-mattam-ev'etaṁ
 
 <div class="english">
 
@@ -603,7 +603,7 @@ Yathā paccayaṃ pavattamānaṃ dhātu-mattam-ev'etaṃ
 
 </div>
 
-Yad idaṃ gilāna-paccaya-bhesajja-parikkhāro tad upabhuñjako ca puggalo
+Yad idaṁ gilāna-paccaya-bhesajja-parikkhāro tad upabhuñjako ca puggalo
 
 <div class="english">
 
@@ -619,7 +619,7 @@ Dhātu-mattako, nissatto, nijjīvo, suñño
 
 </div>
 
-Sabbo panāyaṃ gilāna-paccaya-bhesajja-parikkhāro ajigucchanīyo
+Sabbo panāyaṁ gilāna-paccaya-bhesajja-parikkhāro ajigucchanīyo
 
 <div class="english">
 
@@ -627,7 +627,7 @@ Sabbo panāyaṃ gilāna-paccaya-bhesajja-parikkhāro ajigucchanīyo
 
 </div>
 
-Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyo jāyati
+Imaṁ pūti-kāyaṁ patvā, ativiya jigucchanīyo jāyati
 
 <div class="english">
 
@@ -637,20 +637,20 @@ Imaṃ pūti-kāyaṃ patvā, ativiya jigucchanīyo jāyati
 
 ## Mettāpharaṇa<a id="mettapharana"></a>
 
-> [Handa mayam mettāpharaṇaṃ karomase]
+> [Handa mayam mettāpharaṇaṁ karomase]
 
-[Ahaṃ sukhito homi] niddukkho homi, avero homi, abyāpajjho homi, anīgho homi,
-sukhī attānaṃ pariharāmi
+[Ahaṁ sukhito homi] niddukkho homi, avero homi, abyāpajjho homi, anīgho homi,
+sukhī attānaṁ pariharāmi
 
 Sabbe sattā sukhitā hontu, sabbe sattā averā hontu, sabbe sattā abyāpajjhā
-hontu, sabbe sattā anīghā hontu, sabbe sattā sukhī attānaṃ pariharantu
+hontu, sabbe sattā anīghā hontu, sabbe sattā sukhī attānaṁ pariharantu
 
 Sabbe sattā sabbadukkhā pamuccantu
 
 Sabbe sattā laddha-sampattito mā vigacchantu
 
 Sabbe sattā kammassakā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā,
-yaṃ kammaṃ karissanti, kalyāṇaṃ vā pāpakaṃ vā, tassa dāyādā bhavissanti
+yaṁ kammaṁ karissanti, kalyāṇaṁ vā pāpakaṁ vā, tassa dāyādā bhavissanti
 
 *M.I.288; A.V.88*
 
@@ -691,9 +691,9 @@ Of such acts they will be the heirs.
 
 ## Reflection on the Unconditioned<a id="unconditioned"></a>
 
-> [Handa mayaṃ nibbāna-sutta-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ nibbāna-sutta-pāṭhaṁ bhaṇāmase]
 
-Atthi bhikkhave ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
+Atthi bhikkhave ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
 
 <div class="english">
 
@@ -701,7 +701,7 @@ Atthi bhikkhave ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
 
 </div>
 
-No cetaṃ bhikkhave abhavissa ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
+No cetaṁ bhikkhave abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
 
 <div class="english">
 
@@ -709,7 +709,7 @@ No cetaṃ bhikkhave abhavissa ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
 
 </div>
 
-Na yidaṃ jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha
+Na yidaṁ jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha
 
 <div class="english">
 
@@ -717,7 +717,7 @@ Na yidaṃ jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha
 
 </div>
 
-Yasmā ca kho bhikkhave atthi ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
+Yasmā ca kho bhikkhave atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
 
 <div class="english">
 
@@ -725,7 +725,7 @@ Yasmā ca kho bhikkhave atthi ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
 
 </div>
 
-Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyati
+Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyati
 
 <div class="english">
 
@@ -737,9 +737,9 @@ Tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyati
 
 ## Reflection on the Thirty-Two Parts<a id="thirty-two"></a>
 
-> [Handa mayaṃ dvattiṃsākāra-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ dvattiṁsākāra-pāṭhaṁ bhaṇāmase]
 
-[Ayaṃ kho] me kāyo uddhaṃ pādatalā adho kesamatthakā\
+[Ayaṁ kho] me kāyo uddhaṁ pādatalā adho kesamatthakā\
 tacapariyanto pūro nānappakārassa asucino
 
 <div class="english">
@@ -748,7 +748,7 @@ tacapariyanto pūro nānappakārassa asucino
 
 </div>
 
-Atthi imasmiṃ kāye
+Atthi imasmiṁ kāye
 
 <div class="english">
 
@@ -763,24 +763,24 @@ Atthi imasmiṃ kāye
 | nakhā           | *nails*             |
 | dantā           | *teeth*             |
 | taco            | *skin*              |
-| maṃsaṃ          | *flesh*             |
+| maṁsaṁ          | *flesh*             |
 | nahārū          | *sinews*            |
 | aṭṭhī           | *bones*             |
-| aṭṭhimiñjaṃ     | *bone marrow*       |
-| vakkaṃ          | *kidneys*           |
-| hadayaṃ         | *heart*             |
-| yakanaṃ         | *liver*             |
-| kilomakaṃ       | *membranes*         |
-| pihakaṃ         | *spleen*            |
-| papphāsaṃ       | *lungs*             |
-| antaṃ           | *bowels*            |
-| antaguṇaṃ       | *entrails*          |
-| udariyaṃ        | *undigested food*   |
-| karīsaṃ         | *excrement*         |
-| pittaṃ          | *bile*              |
-| semhaṃ          | *phlegm*            |
+| aṭṭhimiñjaṁ     | *bone marrow*       |
+| vakkaṁ          | *kidneys*           |
+| hadayaṁ         | *heart*             |
+| yakanaṁ         | *liver*             |
+| kilomakaṁ       | *membranes*         |
+| pihakaṁ         | *spleen*            |
+| papphāsaṁ       | *lungs*             |
+| antaṁ           | *bowels*            |
+| antaguṇaṁ       | *entrails*          |
+| udariyaṁ        | *undigested food*   |
+| karīsaṁ         | *excrement*         |
+| pittaṁ          | *bile*              |
+| semhaṁ          | *phlegm*            |
 | pubbo           | *pus*               |
-| lohitaṃ         | *blood*             |
+| lohitaṁ         | *blood*             |
 | sedo            | *sweat*             |
 | medo            | *fat*               |
 | assu            | *tears*             |
@@ -788,10 +788,10 @@ Atthi imasmiṃ kāye
 | kheḷo           | *spittle*           |
 | siṅghāṇikā      | *mucus*             |
 | lasikā          | *oil of the joints* |
-| muttaṃ          | *urine*             |
+| muttaṁ          | *urine*             |
 | matthaluṅgan'ti | *brain*             |
 
-Evam-ayaṃ me kāyo uddhaṃ pādatalā adho kesamatthakā\
+Evam-ayaṁ me kāyo uddhaṁ pādatalā adho kesamatthakā\
 tacapariyanto pūro nānappakārassa asucino
 
 <div class="english">
@@ -806,7 +806,7 @@ tacapariyanto pūro nānappakārassa asucino
 
 *Verses on the Sharing of Merit*
 
-> [Handa mayaṃ sabba-patti-dāna-gāthāyo bhaṇāmase]
+> [Handa mayaṁ sabba-patti-dāna-gāthāyo bhaṇāmase]
 
 Puññass'idāni katassa\
 Yān'aññāni katāni me\
@@ -823,7 +823,7 @@ Sattānantāppamāṇakā
 </div>
 
 Ye piyā guṇavantā ca\
-Mayhaṃ mātā-pitādayo\
+Mayhaṁ mātā-pitādayo\
 Diṭṭhā me cāpyadiṭṭhā vā\
 Aññe majjhatta-verino
 
@@ -836,10 +836,10 @@ Aññe majjhatta-verino
 
 </div>
 
-Sattā tiṭṭhanti lokasmiṃ\
+Sattā tiṭṭhanti lokasmiṁ\
 Te bhummā catu-yonikā\
 Pañc'eka-catu-vokārā\
-Saṃsarantā bhavābhave
+Saṁsarantā bhavābhave
 
 <div class="english">
 
@@ -850,10 +850,10 @@ Saṃsarantā bhavābhave
 
 </div>
 
-Ñātaṃ ye patti-dānam-me\
-Anumodantu te sayaṃ\
-Ye c'imaṃ nappajānanti\
-Devā tesaṃ nivedayuṃ
+Ñātaṁ ye patti-dānam-me\
+Anumodantu te sayaṁ\
+Ye c'imaṁ nappajānanti\
+Devā tesaṁ nivedayuṁ
 
 <div class="english">
 
@@ -864,11 +864,11 @@ Devā tesaṃ nivedayuṃ
 
 </div>
 
-Mayā dinnāna-puññānaṃ anumodana-hetunā\
+Mayā dinnāna-puññānaṁ anumodana-hetunā\
 Sabbe sattā sadā hontu\
 Averā sukha-jīvino\
 Khemappadañca pappontu\
-Tesāsā sijjhataṃ subhā
+Tesāsā sijjhataṁ subhā
 
 <div class="english">
 
@@ -882,7 +882,7 @@ Tesāsā sijjhataṃ subhā
 
 ## Uddissanādhiṭṭhāna-gāthā<a id="imina-punna"></a>
 
-> [Handa mayaṃ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
+> [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
 
 [Iminā puññakammena] upajjhāyā guṇuttarā\
 Ācariyūpakārā ca mātāpitā ca ñātakā\
@@ -890,17 +890,17 @@ Suriyo candimā rājā guṇavantā narāpi ca\
 Brahma-mārā ca indā ca lokapālā ca devatā\
 Yamo mittā manussā ca majjhattā verikāpi ca\
 Sabbe sattā sukhī hontu puññāni pakatāni me\
-Sukhañca tividhaṃ dentu khippaṃ pāpetha vomataṃ\
+Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ\
 Iminā puññakammena iminā uddissena ca\
-Khipp'āhaṃ sulabhe ceva taṇhūpādāna-chedanaṃ\
-Ye santāne hīnā dhammā yāva nibbānato mamaṃ\
+Khipp'āhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ\
+Ye santāne hīnā dhammā yāva nibbānato mamaṁ\
 Nassantu sabbadā yeva yattha jāto bhave bhave\
-Ujucittaṃ satipaññā sallekho viriyamhinā\
-Mārā labhantu nokāsaṃ kātuñca viriyesu me\
+Ujucittaṁ satipaññā sallekho viriyamhinā\
+Mārā labhantu nokāsaṁ kātuñca viriyesu me\
 Buddhādhipavaro nātho dhammo nātho varuttamo\
-Nātho paccekabuddho ca saṅgho nāthottaro mamaṃ\
-Tesottamānubhāvena mārokāsaṃ labhantu mā\
-[Dasapuññānubhāvena mārokāsaṃ labhantu mā]
+Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ\
+Tesottamānubhāvena mārokāsaṁ labhantu mā\
+[Dasapuññānubhāvena mārokāsaṁ labhantu mā]
 
 <div class="instr">
 
@@ -926,7 +926,7 @@ May they soon attain the threefold bliss\
 <span class="vin">&nbsp;</span>and realize the Deathless.\
 Through the goodness that arises from my practice,\
 And through this act of sharing,\
-May all desires and attachments quickly cease\
+May all cravings and attachments quickly cease\
 And all harmful states of mind.\
 Until I realize Nibbāna,\
 In every kind of birth, may I have an upright mind,\
@@ -946,7 +946,7 @@ May Māra gain no opening.]
 
 Sabbe sattā sadā hontu\
 Averā sukha-jīvino\
-Kataṃ puñña-phalaṃ mayhaṃ\
+Kataṁ puñña-phalaṁ mayhaṁ\
 Sabbe bhāgī bhavantu te
 
 <div class="english">
@@ -958,30 +958,30 @@ Sabbe bhāgī bhavantu te
 
 ## Ti-loka-vijaya-rāja-patti-dāna-gāthā<a id="ti-loka"></a>
 
-Yaṅ kiñci kusalaṃ kammaṃ\
-<span class="vin">&nbsp;</span>kattabbaṃ kiriyaṃ mama\
+Yaṅ kiñci kusalaṁ kammaṁ\
+<span class="vin">&nbsp;</span>kattabbaṁ kiriyaṁ mama\
 Kāyena vācā manasā\
-<span class="vin">&nbsp;</span>ti-dase sugataṃ kataṃ\
+<span class="vin">&nbsp;</span>ti-dase sugataṁ kataṁ\
 Ye sattā saññino atthi\
 <span class="vin">&nbsp;</span>ye ca sattā asaññino\
-Kataṃ puñña-phalaṃ mayhaṃ\
+Kataṁ puñña-phalaṁ mayhaṁ\
 <span class="vin">&nbsp;</span>sabbe bhāgī bhavantu te\
-Ye taṃ kataṃ suviditaṃ\
-<span class="vin">&nbsp;</span>dinnaṃ puñña-phalaṃ mayā\
+Ye taṁ kataṁ suviditaṁ\
+<span class="vin">&nbsp;</span>dinnaṁ puñña-phalaṁ mayā\
 Ye ca tattha na jānanti\
-<span class="vin">&nbsp;</span>devā gantvā nivedayuṃ\
+<span class="vin">&nbsp;</span>devā gantvā nivedayuṁ\
 Sabbe lokamhi ye sattā\
 <span class="vin">&nbsp;</span>jīvant'āhāra-hetukā\
-Manuññaṃ bhojanaṃ sabbe\
+Manuññaṁ bhojanaṁ sabbe\
 <span class="vin">&nbsp;</span>labhantu mama cetasā.
 
 *Apadāna 4*
 
 ## The Teaching on Striving According to Dhamma<a id="striving"></a>
 
-> [Handa mayaṃ dhamma-pahaṃsāna-pāṭham bhaṇāmase]
+> [Handa mayaṁ dhamma-pahaṁsāna-pāṭham bhaṇāmase]
 
-Evaṃ svākkhāto bhikkhave mayā dhammo
+Evaṁ svākkhāto bhikkhave mayā dhammo
 
 <div class="english">
 
@@ -1021,7 +1021,7 @@ Chinna-pilotiko
 
 </div>
 
-Alam-eva saddhā-pabbajitena kula-puttena vīriyaṃ ārabhituṃ
+Alam-eva saddhā-pabbajitena kula-puttena vīriyaṁ ārabhituṁ
 
 <div class="english">
 
@@ -1030,7 +1030,7 @@ Alam-eva saddhā-pabbajitena kula-puttena vīriyaṃ ārabhituṃ
 
 </div>
 
-Kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu
+Kāmaṁ taco ca nahāru ca aṭṭhi ca avasissatu
 
 <div class="english">
 
@@ -1038,7 +1038,7 @@ Kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu
 
 </div>
 
-Sarīre upasussatu maṃsa-lohitaṃ
+Sarīre upasussatu maṁsa-lohitaṁ
 
 <div class="english">
 
@@ -1046,7 +1046,7 @@ Sarīre upasussatu maṃsa-lohitaṃ
 
 </div>
 
-Yaṃ taṃ
+Yaṁ taṁ
 
 <div class="english">
 
@@ -1078,7 +1078,7 @@ Purisa-parakkamena
 
 </div>
 
-Pattabbaṃ na taṃ apāpuṇitvā
+Pattabbaṁ na taṁ apāpuṇitvā
 
 <div class="english">
 
@@ -1086,7 +1086,7 @@ Pattabbaṃ na taṃ apāpuṇitvā
 
 </div>
 
-Vīriyassa saṇṭhānaṃ bhavissatī'ti
+Vīriyassa saṇṭhānaṁ bhavissatī'ti
 
 <div class="english">
 
@@ -1094,7 +1094,7 @@ Vīriyassa saṇṭhānaṃ bhavissatī'ti
 
 </div>
 
-Dukkhaṃ bhikkhave kusīto viharati
+Dukkhaṁ bhikkhave kusīto viharati
 
 <div class="english">
 
@@ -1110,7 +1110,7 @@ Vokiṇṇo pāpakehi akusalehi dhammehi
 
 </div>
 
-Mahantañca sadatthaṃ parihāpeti
+Mahantañca sadatthaṁ parihāpeti
 
 <div class="english">
 
@@ -1118,7 +1118,7 @@ Mahantañca sadatthaṃ parihāpeti
 
 </div>
 
-Āraddha-vīriyo ca kho bhikkhave sukhaṃ viharati
+Āraddha-vīriyo ca kho bhikkhave sukhaṁ viharati
 
 <div class="english">
 
@@ -1134,7 +1134,7 @@ Pavivitto pāpakehi akusalehi dhammehi
 
 </div>
 
-Mahantañca sadatthaṃ paripūreti
+Mahantañca sadatthaṁ paripūreti
 
 <div class="english">
 
@@ -1158,7 +1158,7 @@ Aggena ca kho bhikkhave aggassa patti hoti
 
 </div>
 
-Maṇḍapeyyam-idaṃ bhikkhave brahmacariyaṃ
+Maṇḍapeyyam-idaṁ bhikkhave brahmacariyaṁ
 
 <div class="english">
 
@@ -1174,7 +1174,7 @@ Satthā sammukhī-bhūto
 
 </div>
 
-Tasmātiha bhikkhave vīriyaṃ ārabhatha
+Tasmātiha bhikkhave vīriyaṁ ārabhatha
 
 <div class="english">
 
@@ -1206,7 +1206,7 @@ Asacchikatassa sacchikiriyāya
 
 </div>
 
-Evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhavissati
+Evaṁ no ayaṁ amhākaṁ pabbajjā avaṅkatā avañjhā bhavissati
 
 <div class="english">
 
@@ -1222,8 +1222,8 @@ Saphalā sa-udrayā
 
 </div>
 
-Yesaṃ mayaṃ paribhuñjāma cīvara-piṇḍapāta-senāsana-\
-gilānappaccaya-bhesajja-parikkhāraṃ tesaṃ te kārā amhesu
+Yesaṁ mayaṁ paribhuñjāma cīvara-piṇḍapāta-senāsana-\
+gilānappaccaya-bhesajja-parikkhāraṁ tesaṁ te kārā amhesu
 
 <div class="english">
 
@@ -1232,7 +1232,7 @@ gilānappaccaya-bhesajja-parikkhāraṃ tesaṃ te kārā amhesu
 
 </div>
 
-Mahapphalā bhavissanti mahānisaṃsā'ti
+Mahapphalā bhavissanti mahānisaṁsā'ti
 
 <div class="english">
 
@@ -1240,7 +1240,7 @@ Mahapphalā bhavissanti mahānisaṃsā'ti
 
 </div>
 
-Evaṃ hi vo bhikkhave sikkhitabbaṃ
+Evaṁ hi vo bhikkhave sikkhitabbaṁ
 
 <div class="english">
 
@@ -1248,7 +1248,7 @@ Evaṃ hi vo bhikkhave sikkhitabbaṃ
 
 </div>
 
-Att'atthaṃ vā hi bhikkhave sampassamānena
+Att'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
@@ -1256,7 +1256,7 @@ Att'atthaṃ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam-eva appamādena sampādetuṃ
+Alam-eva appamādena sampādetuṁ
 
 <div class="english">
 
@@ -1264,7 +1264,7 @@ Alam-eva appamādena sampādetuṃ
 
 </div>
 
-Par'atthaṃ vā hi bhikkhave sampassamānena
+Par'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
@@ -1272,7 +1272,7 @@ Par'atthaṃ vā hi bhikkhave sampassamānena
 
 </div>
 
-Alam-eva appamādena sampādetuṃ
+Alam-eva appamādena sampādetuṁ
 
 <div class="english">
 
@@ -1280,7 +1280,7 @@ Alam-eva appamādena sampādetuṃ
 
 </div>
 
-Ubhay'atthaṃ vā hi bhikkhave sampassamānena
+Ubhay'atthaṁ vā hi bhikkhave sampassamānena
 
 <div class="english">
 
@@ -1298,12 +1298,12 @@ Alam-eva appamādena sampādetun'ti
 
 ## Dedication of Merit to the Devas and Others<a id="dedication"></a>
 
-> [Handa mayaṃ patti-dāna-gāthāyo bhaṇāmase]
+> [Handa mayaṁ patti-dāna-gāthāyo bhaṇāmase]
 
 Yā devatā santi vihāra-vāsinī\
-Thūpe ghare bodhi-ghare tahiṃ tahiṃ\
+Thūpe ghare bodhi-ghare tahiṁ tahiṁ\
 Tā dhamma-dānena bhavantu pūjitā\
-Sotthiṃ karonte'dha vihāra-maṇḍale.
+Sotthiṁ karonte'dha vihāra-maṇḍale.
 
 <div class="english">
 
@@ -1329,9 +1329,9 @@ Sappāṇa-bhūtā sukhitā bhavantu te.
 </div>
 
 Jalābu-jā ye pi ca aṇḍa-sambhavā\
-Saṃseda-jātā atha-v-opapātikā\
-Niyyānikaṃ dhamma-varaṃ paṭicca te\
-Sabbe pi dukkhassa karontu saṅkhayaṃ.
+Saṁseda-jātā atha-v-opapātikā\
+Niyyānikaṁ dhamma-varaṁ paṭicca te\
+Sabbe pi dukkhassa karontu saṅkhayaṁ.
 
 <div class="english">
 
@@ -1342,13 +1342,13 @@ Sabbe pi dukkhassa karontu saṅkhayaṃ.
 
 </div>
 
-Ṭhātu ciraṃ sataṃ dhammo\
+Ṭhātu ciraṁ sataṁ dhammo\
 Dhamma-dharā ca puggalā\
 Saṅgho hotu samaggo va\
 Atthāya ca hitāya ca\
 Amhe rakkhatu saddhammo\
 Sabbe pi dhamma-cārino\
-Vuḍḍhiṃ sampāpuṇeyyāma\
+Vuḍḍhiṁ sampāpuṇeyyāma\
 Dhamme ariyappavedite.
 
 <div class="english">
@@ -1366,14 +1366,14 @@ Dhamme ariyappavedite.
 
 Pasannā hontu sabbe pi\
 Pāṇino Buddha-sāsane.\
-Sammā-dhāraṃ pavecchanto\
+Sammā-dhāraṁ pavecchanto\
 Kāle devo pavassatu.\
-Vuḍḍhi-bhāvāya sattānaṃ\
-Samiddhaṃ netu medaniṃ.\
-Mātā-pitā ca atra-jaṃ\
-Niccaṃ rakkhanti puttakaṃ.\
-Evaṃ dhammena rājāno\
-Pajaṃ rakkhantu sabbadā.
+Vuḍḍhi-bhāvāya sattānaṁ\
+Samiddhaṁ netu medaniṁ.\
+Mātā-pitā ca atra-jaṁ\
+Niccaṁ rakkhanti puttakaṁ.\
+Evaṁ dhammena rājāno\
+Pajaṁ rakkhantu sabbadā.
 
 ## Verses on Friends<a id="friends"></a>
 
@@ -1383,7 +1383,7 @@ Anupiyañ-ca yo āhu,\
 Apāyesu ca yo sakhā:\
 Ete amitte cattāro iti viññāya paṇḍito\
 Ārakā parivajjeyya\
-Maggaṃ paṭibhayaṃ yathā.\
+Maggaṁ paṭibhayaṁ yathā.\
 
 <div class="english">
 
@@ -1402,8 +1402,8 @@ Sukha-dukkho ca yo sakhā,\
 Atthakkhāyī ca yo mitto,\
 Yo ca mittānukampako:\
 Etepi mitte cattāro iti viññāya paṇḍito.\
-Sakkaccaṃ payirupāseyya,\
-Mātā puttaṃ va orasaṃ.
+Sakkaccaṁ payirupāseyya,\
+Mātā puttaṁ va orasaṁ.
 
 <div class="english">
 
@@ -1419,7 +1419,7 @@ Mātā puttaṃ va orasaṃ.
 
 ## Reflection on Impermanence<a id="impermanence"></a>
 
-> [Handa mayaṃ aniccānussati-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ aniccānussati-pāṭhaṁ bhaṇāmase]
 
 [Sabbe saṅkhārā aniccā]
 
@@ -1445,7 +1445,7 @@ Sabbe dhammā anattā
 
 </div>
 
-Addhuvaṃ jīvitaṃ
+Addhuvaṁ jīvitaṁ
 
 <div class="english">
 
@@ -1453,7 +1453,7 @@ Addhuvaṃ jīvitaṃ
 
 </div>
 
-Dhuvaṃ maraṇaṃ
+Dhuvaṁ maraṇaṁ
 
 <div class="english">
 
@@ -1461,7 +1461,7 @@ Dhuvaṃ maraṇaṃ
 
 </div>
 
-Avassaṃ mayā maritabbaṃ
+Avassaṁ mayā maritabbaṁ
 
 <div class="english">
 
@@ -1469,7 +1469,7 @@ Avassaṃ mayā maritabbaṃ
 
 </div>
 
-Maraṇa-pariyosānaṃ me jīvitaṃ
+Maraṇa-pariyosānaṁ me jīvitaṁ
 
 <div class="english">
 
@@ -1477,7 +1477,7 @@ Maraṇa-pariyosānaṃ me jīvitaṃ
 
 </div>
 
-Jīvitaṃ me aniyataṃ
+Jīvitaṁ me aniyataṁ
 
 <div class="english">
 
@@ -1485,7 +1485,7 @@ Jīvitaṃ me aniyataṃ
 
 </div>
 
-Maraṇaṃ me niyataṃ
+Maraṇaṁ me niyataṁ
 
 <div class="english">
 
@@ -1501,7 +1501,7 @@ Vata
 
 </div>
 
-Ayaṃ kāyo
+Ayaṁ kāyo
 
 <div class="english">
 
@@ -1509,7 +1509,7 @@ Ayaṃ kāyo
 
 </div>
 
-Aciraṃ
+Aciraṁ
 
 <div class="english">
 
@@ -1541,7 +1541,7 @@ Adhisessati
 
 </div>
 
-Paṭhaviṃ
+Paṭhaviṁ
 
 <div class="english">
 
@@ -1549,7 +1549,7 @@ Paṭhaviṃ
 
 </div>
 
-Kaliṅgaraṃ iva
+Kaliṅgaraṁ iva
 
 <div class="english">
 
@@ -1557,7 +1557,7 @@ Kaliṅgaraṃ iva
 
 </div>
 
-Niratthaṃ
+Niratthaṁ
 
 <div class="english">
 
@@ -1589,7 +1589,7 @@ Uppajjitvā nirujjhanti
 
 </div>
 
-Tesaṃ vūpasamo sukho
+Tesaṁ vūpasamo sukho
 
 <div class="english">
 
@@ -1599,10 +1599,10 @@ Tesaṃ vūpasamo sukho
 
 ## The Guardian Meditations<a id="guardian"></a>
 
-> [Handa mayaṃ catur'ārakkhā-kammaṭṭhāna-pāṭhaṃ bhaṇāmase]
+> [Handa mayaṁ catur'ārakkhā-kammaṭṭhāna-pāṭhaṁ bhaṇāmase]
 
 Buddhānussati mettā ca\
-Asubhaṃ maraṇassati\
+Asubhaṁ maraṇassati\
 Iccimā catur'ārakkhā\
 Kātabbā ca vipassanā.
 
@@ -1640,7 +1640,7 @@ Sukhitattā ca khemino.
 
 </div>
 
-Kesa-lomādi-chavānaṃ\
+Kesa-lomādi-chavānaṁ\
 Ayam'eva samussayo\
 Kāyo sabbo pi jeguccho\
 Vaṇṇādito paṭikkulo.
@@ -1654,9 +1654,9 @@ Vaṇṇādito paṭikkulo.
 </div>
 
 Jīvit'indriy'upaccheda-\
-saṅkhāta-maraṇaṃ siyā\
-Sabbesaṃ pīdha pāṇīnaṃ\
-Tañ-hi dhuvaṃ na jīvitaṃ.
+saṅkhāta-maraṇaṁ siyā\
+Sabbesaṁ pīdha pāṇīnaṁ\
+Tañ-hi dhuvaṁ na jīvitaṁ.
 
 <div class="english">
 
@@ -1665,28 +1665,28 @@ Tañ-hi dhuvaṃ na jīvitaṃ.
 
 </div>
 
-## Yan-dāni me kataṃ puññaṃ<a id="yan-dani"></a>
+## Yan-dāni me kataṁ puññaṁ<a id="yan-dani"></a>
 
-Yan-dāni me kataṃ puññaṃ\
+Yan-dāni me kataṁ puññaṁ\
 <span class="vin"></span>tenānen'uddisena ca,\
-Khippaṃ sacchikareyyāhaṃ\
+Khippaṁ sacchikareyyāhaṁ\
 <span class="vin"></span>dhamme lok'uttare nava.\
-Sace tāva abhabbo'haṃ\
-<span class="vin"></span>saṃsāre pana saṃsaraṃ,\
+Sace tāva abhabbo'haṁ\
+<span class="vin"></span>saṁsāre pana saṁsaraṁ,\
 Niyato bodhi-satto va\
 <span class="vin"></span>sambuddhena viyākato.\
 Nāṭṭhārasa pi abhabba\
-<span class="vin"></span>ṭhānāni pāpuṇeyy'ahaṃ.\
+<span class="vin"></span>ṭhānāni pāpuṇeyy'ahaṁ.\
 Manussattañ-ca liṅgañ-ca\
-<span class="vin"></span>pabbajjañ-c'upasampadaṃ.\
+<span class="vin"></span>pabbajjañ-c'upasampadaṁ.\
 Labhitvā pesalo sīlī\
-<span class="vin"></span>dhāreyyaṃ satthu sāsanaṃ,\
+<span class="vin"></span>dhāreyyaṁ satthu sāsanaṁ,\
 Sukhā-paṭipado khippābhiñño\
-<span class="vin"></span>sacchikareyyahaṃ.\
-Arahatta-phalaṃ aggaṃ\
-<span class="vin"></span>vijj'ādi-guṇ'alaṅ-kataṃ,\
+<span class="vin"></span>sacchikareyyahaṁ.\
+Arahatta-phalaṁ aggaṁ\
+<span class="vin"></span>vijj'ādi-guṇ'alaṅ-kataṁ,\
 Yadi n'uppajjati Buddho\
-<span class="vin"></span>kammaṃ paripūrañ-ca me,\
-Evaṃ sante labheyyāhaṃ\
+<span class="vin"></span>kammaṁ paripūrañ-ca me,\
+Evaṁ sante labheyyāhaṁ\
 <span class="vin"></span>pacceka-bodhim-uttaman-ti.
 

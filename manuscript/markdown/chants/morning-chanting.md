@@ -19,21 +19,21 @@
 
 ## Dedication of Offerings<a id="yo-so-bhagava"></a>
 
-[Yo so] bhagavā arahaṃ sammāsambuddho\
+[Yo so] bhagavā arahaṁ sammāsambuddho\
 Svākkhāto yena bhagavatā dhammo\
 Supaṭipanno yassa bhagavato sāvakasaṅgho\
-Tam-mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ\
-Imehi sakkārehi yathārahaṃ āropitehi abhipūjayāma\
+Tam-mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ\
+Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma\
 Sādhu no bhante bhagavā sucira-parinibbutopi\
 Pacchimā-janatānukampa-mānasā\
 Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu\
-Amhākaṃ dīgharattaṃ hitāya sukhāya\
-Arahaṃ sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi\
+Amhākaṁ dīgharattaṁ hitāya sukhāya\
+Arahaṁ sammāsambuddho bhagavā\
+Buddhaṁ bhagavantaṁ abhivādemi\
 [Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi\
+Dhammaṁ namassāmi\
 [Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+Saṅghaṁ namāmi
 
 ## Dedication of Offerings (English)<a id="dedication"></a>
 
@@ -58,7 +58,7 @@ I bow to the Saṅgha.
 
 ## Preliminary Homage<a id="homage-pali"></a>
 
-> [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
+> [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
 
 Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
@@ -70,18 +70,18 @@ Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
 
 ## Homage to the Buddha<a id="buddha-pali"></a>
 
-> [Handa mayaṃ buddhābhitthutiṃ karomase]
+> [Handa mayaṁ buddhābhitthutiṁ karomase]
 
-Yo so tathāgato arahaṃ sammāsambuddho\
+Yo so tathāgato arahaṁ sammāsambuddho\
 Vijjācaraṇa-sampanno, sugato, lokavidū\
 Anuttaro purisadamma-sārathi\
-Satthā deva-manussānaṃ, buddho bhagavā.
+Satthā deva-manussānaṁ, buddho bhagavā.
 
-Yo imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ\
-Sassamaṇa-brāhmaṇiṃ pajaṃ sadeva-manussaṃ sayaṃ abhiññā sacchikatvā pavedesi\
-Yo dhammaṃ desesi ādi-kalyāṇaṃ majjhe-kalyāṇaṃ pariyosāna-kalyāṇaṃ\
-Sātthaṃ sabyañjanaṃ kevala-paripuṇṇaṃ parisuddhaṃ brahma-cariyaṃ pakāsesi\
-Tam-ahaṃ bhagavantaṃ abhipūjayāmi tam-ahaṃ bhagavantaṃ sirasā namāmi
+Yo imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ\
+Sassamaṇa-brāhmaṇiṁ pajaṁ sadeva-manussaṁ sayaṁ abhiññā sacchikatvā pavedesi\
+Yo dhammaṁ desesi ādi-kalyāṇaṁ majjhe-kalyāṇaṁ pariyosāna-kalyāṇaṁ\
+Sātthaṁ sabyañjanaṁ kevala-paripuṇṇaṁ parisuddhaṁ brahma-cariyaṁ pakāsesi\
+Tam-ahaṁ bhagavantaṁ abhipūjayāmi tam-ahaṁ bhagavantaṁ sirasā namāmi
 
 ## Homage to the Buddha (English)<a id="buddha-english"></a>
 
@@ -102,12 +102,12 @@ I chant my praise to the Blessed One, I bow my head to the Blessed One.
 
 ## Homage to the Dhamma<a id="dhamma-pali"></a>
 
-> [Handa mayaṃ dhammābhitthutiṃ karomase]
+> [Handa mayaṁ dhammābhitthutiṁ karomase]
 
 Yo so svākkhāto bhagavatā dhammo\
 Sandiṭṭhiko, akāliko, ehipassiko, opanayiko\
-Paccattaṃ veditabbo viññūhi\
-Tam-ahaṃ dhammaṃ abhipūjayāmi tam-ahaṃ dhammaṃ sirasā namāmi
+Paccattaṁ veditabbo viññūhi\
+Tam-ahaṁ dhammaṁ abhipūjayāmi tam-ahaṁ dhammaṁ sirasā namāmi
 
 ## Homage to the Dhamma (English)<a id="dhamma-english"></a>
 
@@ -123,17 +123,17 @@ I chant my praise to this Teaching, I bow my head to this Truth.
 
 ## Homage to the Saṅgha<a id="sangha-pali"></a>
 
-> [Handa mayaṃ saṅghābhitthutiṃ karomase]
+> [Handa mayaṁ saṅghābhitthutiṁ karomase]
 
 Yo so supaṭipanno bhagavato sāvakasaṅgho\
 Ujupaṭipanno bhagavato sāvakasaṅgho\
 Ñāyapaṭipanno bhagavato sāvakasaṅgho\
 Sāmīcipaṭipanno bhagavato sāvakasaṅgho\
-Yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā\
+Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā\
 Esa bhagavato sāvakasaṅgho\
 Āhuneyyo, pāhuneyyo, dakkhiṇeyyo, añjali-karaṇīyo\
-Anuttaraṃ puññakkhettaṃ lokassa\
-Tam-ahaṃ saṅghaṃ abhipūjayāmi tam-ahaṃ saṅghaṃ sirasā namāmi
+Anuttaraṁ puññakkhettaṁ lokassa\
+Tam-ahaṁ saṅghaṁ abhipūjayāmi tam-ahaṁ saṅghaṁ sirasā namāmi
 
 ## Homage to the Saṅgha (English)<a id="sangha-english"></a>
 
@@ -154,71 +154,71 @@ I chant my praise to this Saṅgha, I bow my head to this Saṅgha.
 
 ## Salutation to the Triple Gem<a id="buddho-susuddho"></a>
 
-> [Handa mayaṃ ratanattaya-paṇāma-gāthāyo c'eva saṃvega-parikittana-pāṭhañca bhaṇāmase]
+> [Handa mayaṁ ratanattaya-paṇāma-gāthāyo c'eva saṁvega-parikittana-pāṭhañca bhaṇāmase]
 
 Buddho susuddho karuṇā-mahaṇṇavo\
 Yo'ccanta-suddhabbara-ñāṇa-locano\
 Lokassa pāpūpakilesa-ghātako\
-Vandāmi buddhaṃ aham-ādarena taṃ\
+Vandāmi buddhaṁ aham-ādarena taṁ\
 Dhammo padīpo viya tassa satthuno\
 Yo magga-pākāmata-bheda-bhinnako\
 Lokuttaro yo ca tad-attha-dīpano\
-Vandāmi dhammaṃ aham-ādarena taṃ\
+Vandāmi dhammaṁ aham-ādarena taṁ\
 Saṅgho sukhettābhyati-khetta-saññito\
 Yo diṭṭha-santo sugatānubodhako\
 Lolappahīno ariyo sumedhaso\
-Vandāmi saṅghaṃ aham-ādarena taṃ\
-Iccevam-ekantabhipūja-neyyakaṃ vatthuttayaṃ vandayatābhisaṅkhataṃ\
-Puññaṃ mayā yaṃ mama sabbupaddavā mā hontu ve tassa pabhāva-siddhiyā
+Vandāmi saṅghaṁ aham-ādarena taṁ\
+Iccevam-ekantabhipūja-neyyakaṁ vatthuttayaṁ vandayatābhisaṅkhataṁ\
+Puññaṁ mayā yaṁ mama sabbupaddavā mā hontu ve tassa pabhāva-siddhiyā
 
-Idha tathāgato loke uppanno arahaṃ sammāsambuddho\
+Idha tathāgato loke uppanno arahaṁ sammāsambuddho\
 Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito\
-Mayan-taṃ dhammaṃ sutvā evaṃ jānāma
+Mayan-taṁ dhammaṁ sutvā evaṁ jānāma
 
 Jātipi dukkhā\
 Jarāpi dukkhā\
-Maraṇampi dukkhaṃ\
+Maraṇampi dukkhaṁ\
 Soka-parideva-dukkha-domanass'upāyāsāpi dukkhā\
 Appiyehi sampayogo dukkho\
 Piyehi vippayogo dukkho\
-Yamp'icchaṃ na labhati tampi dukkhaṃ\
+Yamp'icchaṁ na labhati tampi dukkhaṁ\
 Saṅkhittena pañcupādānakkhandhā dukkhā
 
-Seyyathīdaṃ\
+Seyyathīdaṁ\
 Rūpūpādānakkhandho\
 Vedanūpādānakkhandho\
 Saññūpādānakkhandho\
 Saṅkhārūpādānakkhandho\
 Viññāṇūpādānakkhandho
 
-Yesaṃ pariññāya\
-Dharamāno so bhagavā evaṃ bahulaṃ sāvake vineti\
-Evaṃ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
+Yesaṁ pariññāya\
+Dharamāno so bhagavā evaṁ bahulaṁ sāvake vineti\
+Evaṁ bhāgā ca panassa bhagavato sāvakesu anusāsanī bahulā pavattati
 
-Rūpaṃ aniccaṃ\
+Rūpaṁ aniccaṁ\
 Vedanā aniccā\
 Saññā aniccā\
 Saṅkhārā aniccā\
-Viññāṇaṃ aniccaṃ\
-Rūpaṃ anattā\
+Viññāṇaṁ aniccaṁ\
+Rūpaṁ anattā\
 Vedanā anattā\
 Saññā anattā\
 Saṅkhārā anattā\
-Viññāṇaṃ anattā\
+Viññāṇaṁ anattā\
 Sabbe saṅkhārā aniccā\
 Sabbe dhammā anattā'ti
 
-Te mayaṃ otiṇṇāmha jātiyā jarā-maraṇena\
+Te mayaṁ otiṇṇāmha jātiyā jarā-maraṇena\
 Sokehi paridevehi dukkhehi domanassehi upāyāsehi\
 Dukkhotiṇṇā dukkha-paretā\
 Appeva nāmimassa kevalassa dukkha-kkhandhassa\
 antakiriyā paññāyethā'ti
 
-Cira-parinibbutampi taṃ bhagavantaṃ uddissa arahantaṃ sammāsambuddhaṃ\
-Saddhā agārasmā anagāriyaṃ pabbajitā\
-Tasmiṃ bhagavati brahma-cariyaṃ carāma\
-Bhikkhūnaṃ/Sīladharānaṃ sikkhāsājīva-samāpannā\
-Taṃ no brahma-cariyaṃ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṃvattatu
+Cira-parinibbutampi taṁ bhagavantaṁ uddissa arahantaṁ sammāsambuddhaṁ\
+Saddhā agārasmā anagāriyaṁ pabbajitā\
+Tasmiṁ bhagavati brahma-cariyaṁ carāma\
+Bhikkhūnaṁ/Sīladharānaṁ sikkhāsājīva-samāpannā\
+Taṁ no brahma-cariyaṁ imassa kevalassa dukkha-kkhandhassa antakiriyāya saṁvattatu
 
 ## Salutation to the Triple Gem (English)<a id="salutation-english"></a>
 
@@ -306,14 +306,14 @@ Lead us to the end of every kind of suffering.
 
 ## Closing Homage<a id="closing-pali"></a>
 
-[Arahaṃ] sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi
+[Arahaṁ] sammāsambuddho bhagavā\
+Buddhaṁ bhagavantaṁ abhivādemi
 
 [Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi
+Dhammaṁ namassāmi
 
 [Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+Saṅghaṁ namāmi
 
 ## Closing Homage (English)<a id="closing-english"></a>
 

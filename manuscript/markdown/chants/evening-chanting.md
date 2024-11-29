@@ -23,23 +23,23 @@
 
 ## Dedication of Offerings<a id="dedication-pali"></a>
 
-[Yo so] bhagavā arahaṃ sammāsambuddho\
+[Yo so] bhagavā arahaṁ sammāsambuddho\
 Svākkhāto yena bhagavatā dhammo\
 Supaṭipanno yassa bhagavato sāvakasaṅgho\
-Tam-mayaṃ bhagavantaṃ sadhammaṃ sasaṅghaṃ\
-Imehi sakkārehi yathārahaṃ āropitehi abhipūjayāma\
+Tam-mayaṁ bhagavantaṁ sadhammaṁ sasaṅghaṁ\
+Imehi sakkārehi yathārahaṁ āropitehi abhipūjayāma\
 Sādhu no bhante bhagavā sucira-parinibbutopi\
 Pacchimā-janatānukampa-mānasā\
 Ime sakkāre duggata-paṇṇākāra-bhūte paṭiggaṇhātu\
-Amhākaṃ dīgharattaṃ hitāya sukhāya\
-Arahaṃ sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi
+Amhākaṁ dīgharattaṁ hitāya sukhāya\
+Arahaṁ sammāsambuddho bhagavā\
+Buddhaṁ bhagavantaṁ abhivādemi
 
 [Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi
+Dhammaṁ namassāmi
 
 [Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+Saṅghaṁ namāmi
 
 ## Dedication of Offerings (English)<a id="dedication-english"></a>
 
@@ -64,7 +64,7 @@ I bow to the Saṅgha.
 
 ## Preliminary Homage<a id="homage-pali"></a>
 
-> [Handa mayaṃ buddhassa bhagavato pubbabhāga-namakāraṃ karomase]
+> [Handa mayaṁ buddhassa bhagavato pubbabhāga-namakāraṁ karomase]
 
 Namo tassa bhagavato arahato sammāsambuddhassa (×3)
 
@@ -76,12 +76,12 @@ Homage to the Blessed, Noble, and Perfectly Enlightened One. (×3)
 
 ## Recollection of the Buddha<a id="b-sati-pli"></a>
 
-> [Handa mayaṃ buddhānussatinayaṃ karomase]
+> [Handa mayaṁ buddhānussatinayaṁ karomase]
 
-Taṃ kho pana bhagavantaṃ evaṃ kalyāṇo kittisaddo abbhuggato\
-Itipi so bhagavā arahaṃ sammāsambuddho\
+Taṁ kho pana bhagavantaṁ evaṁ kalyāṇo kittisaddo abbhuggato\
+Itipi so bhagavā arahaṁ sammāsambuddho\
 Vijjācaraṇa-sampanno sugato lokavidū\
-Anuttaro purisadamma-sārathi satthā deva-manussānaṃ buddho bhagavā'ti
+Anuttaro purisadamma-sārathi satthā deva-manussānaṁ buddho bhagavā'ti
 
 ## Recollection of the Buddha (English)<a id="b-sati-eng"></a>
 
@@ -97,22 +97,22 @@ he is Teacher of gods and humans; he is Awake and Holy.
 
 ## Supreme Praise of the Buddha<a id="b-bhi-pli"></a>
 
-> [Handa mayaṃ buddhābhigītiṃ karomase]
+> [Handa mayaṁ buddhābhigītiṁ karomase]
 
 Buddh'vārahanta-varatādiguṇābhiyutto\
 Suddhābhiñāṇa-karuṇāhi samāgatatto\
-Bodhesi yo sujanataṃ kamalaṃ va sūro\
-Vandām'ahaṃ tam-araṇaṃ sirasā jinendaṃ\
-Buddho yo sabba-pāṇīnaṃ saraṇaṃ khemam-uttamaṃ\
-Paṭhamānussatiṭṭhānaṃ vandāmi taṃ siren'ahaṃ\
+Bodhesi yo sujanataṁ kamalaṁ va sūro\
+Vandām'ahaṁ tam-araṇaṁ sirasā jinendaṁ\
+Buddho yo sabba-pāṇīnaṁ saraṇaṁ khemam-uttamaṁ\
+Paṭhamānussatiṭṭhānaṁ vandāmi taṁ siren'ahaṁ\
 Buddhassāh'asmi dāso/dāsī va buddho me sāmi-kissaro\
 Buddho dukkhassa ghātā ca vidhātā ca hitassa me\
-Buddhass'āhaṃ niyyādemi sarīrañ-jīvitañ-cidaṃ\
-Vandanto'haṃ/Vandantī'haṃ carissāmi buddhass'eva subodhitaṃ\
-Natthi me saraṇaṃ aññaṃ buddho me saraṇaṃ varaṃ\
-Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
-Buddhaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
-Sabbepi antarāyā me māhesuṃ tassa tejasā
+Buddhass'āhaṁ niyyādemi sarīrañ-jīvitañ-cidaṁ\
+Vandanto'haṁ/Vandantī'haṁ carissāmi buddhass'eva subodhitaṁ\
+Natthi me saraṇaṁ aññaṁ buddho me saraṇaṁ varaṁ\
+Etena sacca-vajjena vaḍḍheyyaṁ satthu-sāsane\
+Buddhaṁ me vandamānena/vandamānāya yaṁ puññaṁ pasutaṁ idha\
+Sabbepi antarāyā me māhesuṁ tassa tejasā
 
 <div class="instr">
 
@@ -121,9 +121,9 @@ Sabbepi antarāyā me māhesuṃ tassa tejasā
 </div>
 
 Kāyena vācāya va cetasā vā\
-Buddhe kukammaṃ pakataṃ mayā yaṃ\
-Buddho paṭiggaṇhātu accayantaṃ\
-Kālantare saṃvarituṃ va buddhe
+Buddhe kukammaṁ pakataṁ mayā yaṁ\
+Buddho paṭiggaṇhātu accayantaṁ\
+Kālantare saṁvarituṁ va buddhe
 
 ## Supreme Praise of the Buddha (English)<a id="b-bhi-eng"></a>
 
@@ -159,11 +159,11 @@ That in future there may be restraint regarding the Buddha.
 
 ## Recollection of the Dhamma<a id="d-sati-pli"></a>
 
-> [Handa mayaṃ dhammānussatinayaṃ karomase]
+> [Handa mayaṁ dhammānussatinayaṁ karomase]
 
 Svākkhāto bhagavatā dhammo\
 Sandiṭṭhiko akāliko ehipassiko\
-Opanayiko paccattaṃ veditabbo viññūhī'ti
+Opanayiko paccattaṁ veditabbo viññūhī'ti
 
 ## Recollection of the Dhamma (English)<a id="d-sati-eng"></a>
 
@@ -175,22 +175,22 @@ Leading inwards, to be experienced individually by the wise.
 
 ## Supreme Praise of the Dhamma<a id="d-bhi-pali"></a>
 
-> [Handa mayaṃ dhammābhigītiṃ karomase]
+> [Handa mayaṁ dhammābhigītiṁ karomase]
 
 Svākkhātat'ādiguṇa-yoga-vasena seyyo\
 Yo magga-pāka-pariyatti-vimokkha-bhedo\
 Dhammo kuloka-patanā tada-dhāri-dhārī\
-Vandām'ahaṃ tama-haraṃ vara-dhammam-etaṃ\
-Dhammo yo sabba-pāṇīnaṃ saraṇaṃ khemam-uttamaṃ\
-Dutiyānussatiṭṭhānaṃ vandāmi taṃ siren'ahaṃ\
+Vandām'ahaṁ tama-haraṁ vara-dhammam-etaṁ\
+Dhammo yo sabba-pāṇīnaṁ saraṇaṁ khemam-uttamaṁ\
+Dutiyānussatiṭṭhānaṁ vandāmi taṁ siren'ahaṁ\
 Dhammassāh'asmi dāso/dāsī va dhammo me sāmi-kissaro\
 Dhammo dukkhassa ghātā ca vidhātā ca hitassa me\
-Dhammass'āhaṃ niyyādemi sarīrañ-jīvitañ-cidaṃ\
-Vandantohaṃ/Vandantīhaṃ carissāmi dhammass'eva sudhammataṃ\
-Natthi me saraṇaṃ aññaṃ dhammo me saraṇaṃ varaṃ\
-Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
-Dhammaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
-Sabbepi antarāyā me māhesuṃ tassa tejasā
+Dhammass'āhaṁ niyyādemi sarīrañ-jīvitañ-cidaṁ\
+Vandantohaṁ/Vandantīhaṁ carissāmi dhammass'eva sudhammataṁ\
+Natthi me saraṇaṁ aññaṁ dhammo me saraṇaṁ varaṁ\
+Etena sacca-vajjena vaḍḍheyyaṁ satthu-sāsane\
+Dhammaṁ me vandamānena/vandamānāya yaṁ puññaṁ pasutaṁ idha\
+Sabbepi antarāyā me māhesuṁ tassa tejasā
 
 <div class="instr">
 
@@ -199,9 +199,9 @@ Sabbepi antarāyā me māhesuṃ tassa tejasā
 </div>
 
 Kāyena vācāya va cetasā vā\
-Dhamme kukammaṃ pakataṃ mayā yaṃ\
-Dhammo paṭiggaṇhātu accayantaṃ\
-Kālantare saṃvarituṃ va dhamme
+Dhamme kukammaṁ pakataṁ mayā yaṁ\
+Dhammo paṭiggaṇhātu accayantaṁ\
+Kālantare saṁvarituṁ va dhamme
 
 ## Supreme Praise of the Dhamma (English)<a id="d-bhi-eng"></a>
 
@@ -235,16 +235,16 @@ That in future there may be restraint regarding the Dhamma.
 
 ## Recollection of the Saṅgha<a id="s-sati-pli"></a>
 
-> [Handa mayaṃ saṅghānussatinayaṃ karomase]
+> [Handa mayaṁ saṅghānussatinayaṁ karomase]
 
 Supaṭipanno bhagavato sāvakasaṅgho\
 Ujupaṭipanno bhagavato sāvakasaṅgho\
 Ñāyapaṭipanno bhagavato sāvakasaṅgho\
 Sāmīcipaṭipanno bhagavato sāvakasaṅgho\
-Yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā\
+Yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā\
 Esa bhagavato sāvakasaṅgho\
 Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo\
-Anuttaraṃ puññakkhettaṃ lokassā'ti
+Anuttaraṁ puññakkhettaṁ lokassā'ti
 
 ## Recollection of the Saṅgha (English)<a id="s-sati-eng"></a>
 
@@ -262,22 +262,22 @@ They give occasion for incomparable goodness to arise in the world.
 
 ## Supreme Praise of the Saṅgha<a id="s-bhi-pli"></a>
 
-> [Handa mayaṃ saṅghābhigītiṃ karomase]
+> [Handa mayaṁ saṅghābhigītiṁ karomase]
 
 Saddhammajo supaṭipatti-guṇādiyutto\
 Yo'ṭṭhabbidho ariyapuggala-saṅgha-seṭṭho\
 Sīlādidhamma-pavarāsaya-kāya-citto\
-Vandām'ahaṃ tam-ariyāna-gaṇaṃ susuddhaṃ\
-Saṅgho yo sabba-pāṇīnaṃ saraṇaṃ khemam-uttamaṃ\
-Tatiyānussatiṭṭhānaṃ vandāmi taṃ siren'ahaṃ\
+Vandām'ahaṁ tam-ariyāna-gaṇaṁ susuddhaṁ\
+Saṅgho yo sabba-pāṇīnaṁ saraṇaṁ khemam-uttamaṁ\
+Tatiyānussatiṭṭhānaṁ vandāmi taṁ siren'ahaṁ\
 Saṅghass'āhasmi dāso/dāsī va saṅgho me sāmi-kissaro\
 Saṅgho dukkhassa ghātā ca vidhātā ca hitassa me\
-Saṅghass'āhaṃ niyyādemi sarīrañ-jīvitañ-cidaṃ\
-Vandanto'haṃ/Vandantī'haṃ carissāmi saṅghassopaṭipannataṃ\
-Natthi me saraṇaṃ aññaṃ saṅgho me saraṇaṃ varaṃ\
-Etena sacca-vajjena vaḍḍheyyaṃ satthu-sāsane\
-Saṅghaṃ me vandamānena/vandamānāya yaṃ puññaṃ pasutaṃ idha\
-Sabbepi antarāyā me māhesuṃ tassa tejasā
+Saṅghass'āhaṁ niyyādemi sarīrañ-jīvitañ-cidaṁ\
+Vandanto'haṁ/Vandantī'haṁ carissāmi saṅghassopaṭipannataṁ\
+Natthi me saraṇaṁ aññaṁ saṅgho me saraṇaṁ varaṁ\
+Etena sacca-vajjena vaḍḍheyyaṁ satthu-sāsane\
+Saṅghaṁ me vandamānena/vandamānāya yaṁ puññaṁ pasutaṁ idha\
+Sabbepi antarāyā me māhesuṁ tassa tejasā
 
 <div class="instr">
 
@@ -286,9 +286,9 @@ Sabbepi antarāyā me māhesuṃ tassa tejasā
 </div>
 
 Kāyena vācāya va cetasā vā\
-Saṅghe kukammaṃ pakataṃ mayā yaṃ\
-Saṅgho paṭiggaṇhātu accayantaṃ\
-Kālantare saṃvarituṃ va saṅghe
+Saṅghe kukammaṁ pakataṁ mayā yaṁ\
+Saṅgho paṭiggaṇhātu accayantaṁ\
+Kālantare saṁvarituṁ va saṅghe
 
 ## Supreme Praise of the Saṅgha (English)<a id="s-bhi-eng"></a>
 
@@ -323,14 +323,14 @@ That in future there may be restraint regarding the Saṅgha.
 
 ## Closing Homage<a id="closing-pali"></a>
 
-[Arahaṃ] sammāsambuddho bhagavā\
-Buddhaṃ bhagavantaṃ abhivādemi
+[Arahaṁ] sammāsambuddho bhagavā\
+Buddhaṁ bhagavantaṁ abhivādemi
 
 [Svākkhāto] bhagavatā dhammo\
-Dhammaṃ namassāmi
+Dhammaṁ namassāmi
 
 [Supaṭipanno] bhagavato sāvakasaṅgho\
-Saṅghaṃ namāmi
+Saṅghaṁ namāmi
 
 ## Closing Homage (English)<a id="closing-english"></a>
 

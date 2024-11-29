@@ -23,7 +23,7 @@ consonants. They are then pronounced as in 'g**e**t' and '**o**x', respectively.
 
 **c** as in an**c**ient (like **ch** but unaspirated)
 
-**ṃ, ṅ** as **ng** in sa**ng**
+**ṁ, ṅ** as **ng** in sa**ng**
 
 **ñ** as **ny** in ca**ny**on
 
@@ -81,8 +81,8 @@ They are always enunciated separately, e.g. **dd** in 'uddeso' as in
 'mad dog', or **gg** in 'maggo' as in 'big gun'.
 
 **2.** **Aspirated consonants** like **bh, dh** etc. count as single
-consonant and don't get divided (Therefore **am·hā·kaṃ**, but
-**sa·dham·maṃ**, not **sad·ham·maṃ** or, another example: **Bud·dho**
+consonant and don't get divided (Therefore **am·hā·kaṁ**, but
+**sa·dham·maṁ**, not **sad·ham·maṁ** or, another example: **Bud·dho**
 and not **Bu·ddho**).
 
 Precise pronunciation and correct separation of the syllables is
