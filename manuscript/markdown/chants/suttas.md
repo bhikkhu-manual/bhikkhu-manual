@@ -184,8 +184,8 @@ oḷāro obhāso loke pāturahosi atikkammeva devānaṁ devānubhāvaṁ.
 
 Atha kho bhagavā udānaṁ udānesi:
 
-Aññāsi vata bho koṇḍañño, aññāsi vata bho koṇḍañño ti. Iti hidaṁ āyasmato
-koṇḍaññassa aññā-koṇḍañño tveva nāmaṁ ahosī ti.
+Aññāsi vata bho koṇḍañño, aññāsi vata bho koṇḍañño'ti. Iti hidaṁ āyasmato
+koṇḍaññassa aññā-koṇḍañño tveva nāmaṁ ahosī'ti.
 
 Dhammacakkappavattana-suttaṁ niṭṭhitaṁ.
 
@@ -410,120 +410,120 @@ bhagavā pañcavaggiye bhikkhū āmantesi:
 
 Rūpaṁ bhikkhave anattā, rūpañca hidaṁ bhikkhave attā abhavissa, nayidaṁ
 rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe, evaṁ me rūpaṁ hotu, evaṁ
-me rūpaṁ mā ahosī ti.
+me rūpaṁ mā ahosī'ti.
 
 Yasmā ca kho bhikkhave rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca
-labbhati rūpe, evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī ti.
+labbhati rūpe, evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī'ti.
 
 Vedanā anattā, vedanā ca hidaṁ bhikkhave attā abhavissa, nayidaṁ vedanā
 ābādhāya saṁvatteyya, labbhetha ca vedanāya, evaṁ me vedanā hotu, evaṁ
-me vedanā mā ahosī ti.
+me vedanā mā ahosī'ti.
 
 Yasmā ca kho bhikkhave vedanā anattā, tasmā vedanā ābādhāya saṁvattati, na ca
-labbhati vedanāya, evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī ti.
+labbhati vedanāya, evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī'ti.
 
 Saññā anattā, saññā ca hidaṁ bhikkhave attā abhavissa, nayidaṁ saññā
 ābādhāya saṁvatteyya, labbhetha ca saññāya, evaṁ me saññā hotu, evaṁ me
-saññā mā ahosī ti.
+saññā mā ahosī'ti.
 
 Yasmā ca kho bhikkhave saññā anattā, tasmā saññā ābādhāya saṁvattati,
-na ca labbhati saññāya, evaṁ me saññā hotu, evaṁ me saññā mā ahosī ti.
+na ca labbhati saññāya, evaṁ me saññā hotu, evaṁ me saññā mā ahosī'ti.
 
 Saṅkhārā anattā, saṅkhārā ca hidaṁ bhikkhave attā abhavissaṁsu, nayidaṁ
 saṅkhārā ābādhāya saṁvatteyyuṁ, labbhetha ca saṅkhāresu, evaṁ me
-saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun ti.
+saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun'ti.
 
 Yasmā ca kho bhikkhave saṅkhārā anattā, tasmā saṅkhārā ābādhāya
 saṁvattanti, na ca labbhati saṅkhāresu, evaṁ me saṅkhārā hontu, evaṁ me
-saṅkhārā mā ahesun ti.
+saṅkhārā mā ahesun'ti.
 
 Viññāṇaṁ anattā, viññāṇañca hidaṁ bhikkhave attā abhavissa, nayidaṁ
 viññāṇaṁ ābādhāya saṁvatteyya, labbhetha ca viññāṇe evaṁ me viññāṇaṁ
-hotu, evaṁ me viññāṇaṁ mā ahosī ti.
+hotu, evaṁ me viññāṇaṁ mā ahosī'ti.
 
 Yasmā ca kho bhikkhave viññāṇaṁ anattā, tasmā viññāṇaṁ ābādhāya
 saṁvattati, na ca labbhati viññāṇe, evaṁ me viññāṇaṁ hotu, evaṁ me
-viññāṇaṁ mā ahosī ti.
+viññāṇaṁ mā ahosī'ti.
 
-[Taṁ kiṁ maññatha bhikkhave] rūpam niccaṁ vā aniccaṁ vā ti.
+[Taṁ kiṁ maññatha bhikkhave] rūpam niccaṁ vā aniccaṁ vā'ti.
 Aniccaṁ bhante.
-Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā ti.
+Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā'ti.
 Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināma-dhammaṁ, kallaṁ nu taṁ samanupassituṁ,
-etaṁ mama, esoham'asmi, eso me attā ti.
+etaṁ mama, esoham'asmi, eso me attā'ti.
 No hetaṁ bhante.
 
-Taṁ kiṁ maññatha bhikkhave, vedanā niccā vā aniccā vā ti.
+Taṁ kiṁ maññatha bhikkhave, vedanā niccā vā aniccā vā'ti.
 Aniccā bhante.
-Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā ti.
+Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā'ti.
 Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināma-dhammaṁ, kallaṁ nu taṁ samanupassituṁ,
-etaṁ mama, esoham'asmi, eso me attā ti.
+etaṁ mama, esoham'asmi, eso me attā'ti.
 No hetaṁ bhante.
 
-Taṁ kiṁ maññatha bhikkhave, saññā niccā vā aniccā vā ti.
+Taṁ kiṁ maññatha bhikkhave, saññā niccā vā aniccā vā'ti.
 Aniccā bhante.
-Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā ti.
+Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā'ti.
 Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināma-dhammaṁ, kallaṁ nu taṁ samanupassituṁ,
-etaṁ mama, esoham'asmi, eso me attā ti.
+etaṁ mama, esoham'asmi, eso me attā'ti.
 No hetaṁ bhante.
 
-Taṁ kiṁ maññatha bhikkhave, saṅkhārā niccā vā aniccā vā ti.
+Taṁ kiṁ maññatha bhikkhave, saṅkhārā niccā vā aniccā vā'ti.
 Aniccā bhante.
-Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā ti.
+Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā'ti.
 Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināma-dhammaṁ, kallaṁ nu taṁ samanupassituṁ,
-etaṁ mama, esoham'asmi, eso me attā ti.
+etaṁ mama, esoham'asmi, eso me attā'ti.
 No hetaṁ bhante.
 
-Taṁ kiṁ maññatha bhikkhave, viññāṇaṁ niccaṁ vā aniccaṁ vā ti.
+Taṁ kiṁ maññatha bhikkhave, viññāṇaṁ niccaṁ vā aniccaṁ vā'ti.
 Aniccaṁ bhante.
-Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā ti.
+Yam panāniccaṁ, dukkhaṁ vā taṁ sukhaṁ vā'ti.
 Dukkhaṁ bhante.
 
 Yam panāniccaṁ dukkhaṁ viparināma-dhammaṁ, kallaṁ nu taṁ samanupassituṁ
-etaṁ mama, esoham'asmi, eso me attā ti.
+etaṁ mama, esoham'asmi, eso me attā'ti.
 No hetaṁ bhante.
 
 [Tasmā tiha bhikkhave] yaṁ kiñci rūpaṁ atītānāgata-paccuppannaṁ ajjhattaṁ
 vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yandūre
-santike vā, sabbaṁ rūpaṁ netaṁ mama, nesoham'asmi, na me so attā ti,
+santike vā, sabbaṁ rūpaṁ netaṁ mama, nesoham'asmi, na me so attā'ti,
 evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
 Yā kāci vedanā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā
 vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā vedanā netaṁ
-mama, nesoham'asmi, na me so attā ti, evametaṁ yathābhūtaṁ sammappaññāya
+mama, nesoham'asmi, na me so attā'ti, evametaṁ yathābhūtaṁ sammappaññāya
 daṭṭhabbaṁ.
 
 Yā kāci saññā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā
 sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā saññā netaṁ mama,
-nesoham'asmi, na me so attā ti, evametaṁ yathābhūtaṁ sammappaññāya
+nesoham'asmi, na me so attā'ti, evametaṁ yathābhūtaṁ sammappaññāya
 daṭṭhabbaṁ.
 
 Ye keci saṅkhārā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā
 vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, sabbe saṅkhārā netaṁ
-mama, nesoham'asmi, na me so attā ti, evametaṁ yathābhūtaṁ sammappaññāya
+mama, nesoham'asmi, na me so attā'ti, evametaṁ yathābhūtaṁ sammappaññāya
 daṭṭhabbaṁ.
 
 Yaṁ kiñci viññāṇaṁ atītānāgata-paccuppannaṁ ajjhattaṁ vā bahiddhā vā
 oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yandūre santike vā, sabbaṁ
-viññāṇaṁ netaṁ mama, nesoham'asmi, na me so attā ti, evametaṁ yathābhūtaṁ
+viññāṇaṁ netaṁ mama, nesoham'asmi, na me so attā'ti, evametaṁ yathābhūtaṁ
 sammappaññāya daṭṭhabbaṁ.
 
 [Evaṁ passaṁ bhikkhave] sutvā ariyasāvako rūpasmim pi nibbindati, vedanāya
 pi nibbindati, saññāya pi nibbindati, saṅkhāresu pi nibbindati,
 viññāṇasmim pi nibbindati, nibbindaṁ virajjati, virāgā vimuccati,
 vimuttasmiṁ vimuttam iti ñāṇaṁ hoti, khīṇā jāti, vusitaṁ brahmacariyaṁ,
-kataṁ karaṇīyaṁ, nāparaṁ itthattāyā ti pajānātī ti.
+kataṁ karaṇīyaṁ, nāparaṁ itthattāyā'ti pajānātī'ti.
 
 [Idam-avoca bhagavā.] Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ
 abhinanduṁ. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ
-bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū ti.
+bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti.
 
 Anattalakkhaṇa-suttaṁ niṭṭhitaṁ.
 
@@ -798,11 +798,11 @@ nibbindati.
 
 Nibbindaṁ virajjati, virāgā vimuccati, vimuttasmiṁ vimuttam iti ñāṇaṁ
 hoti, khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ
-itthattāyā ti pajānātī ti.
+itthattāyā'ti pajānātī'ti.
 
 [Idam-avoca bhagavā.] Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhu-sahassassa
-anupādāya āsavehi cittāni vimucciṁsū ti.
+anupādāya āsavehi cittāni vimucciṁsū'ti.
 
 Ādittapariyāya-suttaṁ niṭṭhitaṁ.
 
@@ -1432,7 +1432,7 @@ upasaṅkamitvā Bhagavantaṁ abhivādetvā ekam-antaṁ nisīdi. Ekam-antaṁ 
 āyasmā Ānando bhagavantaṁ etad-avoca:
 
 Āyasmā bhante Girimānando ābādhiko hoti dukkhito bāḷha-gilāno. Sādhu bhante
-bhagavā yen’āyasmā Girimānando ten’upasaṅkamatu anukampaṁ upādāyā ti.
+bhagavā yen’āyasmā Girimānando ten’upasaṅkamatu anukampaṁ upādāyā'ti.
 
 Sace kho tvaṁ Ānanda Girimānandassa bhikkhuno dasa saññā bhāseyyāsi, ṭhānaṁ kho
 pan’etaṁ vijjati yaṁ Girimānandassa bhikkhuno dasa saññā sutvā so ābādho ṭhānaso
@@ -1534,7 +1534,7 @@ sikkhati. Paṭinissaggānupassī passasissāmī’ti sikkhati. Ayaṁ vuccat’
 
 Sace kho tvaṁ Ānanda Girimānandassa bhikkhuno imā dasa saññā bhāseyyāsi,
 ṭhānaṁ kho pan’etaṁ vijjati yaṁ Girimānandassa bhikkhuno imā dasa saññā sutvā so
-ābādho ṭhānaso paṭippassambheyyā ti.
+ābādho ṭhānaso paṭippassambheyyā'ti.
 
 Atha kho āyasmā Ānando bhagavato santike imā dasa saññā uggahetvā yen’āyasmā
 Girimānando ten’upasaṅkami, upasaṅkamitvā āyasmato Girimānandassa imā dasa saññā
@@ -1542,7 +1542,7 @@ abhāsi.
 
 Atha kho āyasmato Girimānandassa dasa saññā sutvā so ābādho ṭhānaso
 paṭippassambhi. Vuṭṭhahi c’āyasmā Girimānando tamhā ābādhā. Tathā pahīno ca
-pan’āyasmato Girimānandassa so ābādho ahosī ti.
+pan’āyasmato Girimānandassa so ābādho ahosī'ti.
 
 Girimānanda-suttaṁ niṭṭhitaṁ.
 
