@@ -197,10 +197,10 @@
 ]{GentiumPlus-R.ttf}
 
 \newfontfamily\sansFont[
-  ItalicFont = NunitoSans-Italic.ttf,
-  BoldFont = NunitoSans-Bold.ttf,
-  BoldItalicFont = NunitoSans-BoldItalic.ttf,
-]{NunitoSans-Regular.ttf}
+  ItalicFont = NunitoSansX-Italic.ttf,
+  BoldFont = NunitoSansX-Bold.ttf,
+  BoldItalicFont = NunitoSansX-BoldItalic.ttf,
+]{NunitoSansX-Regular.ttf}
 
 \newfontfamily\sansLightFont[
   ItalicFont = NunitoSans-LightItalic.ttf,
