@@ -38,10 +38,10 @@ reference:
 	$(LATEX) $(LATEX_OPTS) $(FILE_REFERENCE).tex;
 
 sass:
-	node-sass ./assets/sass -o ./assets/stylesheets
+	sass --no-source-map ./assets/sass:./assets/stylesheets
 
 sass-watch:
-	node-sass -w ./assets/sass -o ./assets/stylesheets
+	sass --watch --no-source-map ./assets/sass:./assets/stylesheets
 
 preview-handbook:
 	latexmk -pvc $(FILE_HANDBOOK).tex

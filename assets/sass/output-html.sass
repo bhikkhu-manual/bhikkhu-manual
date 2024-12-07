@@ -1,17 +1,20 @@
-
-// Nunito Sans: Regular, Italic, Light
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap&subset=latin-ext')
+@use 'grid'
+@use 'base'
 
 // Path is relative to the folder of output-html.css
+@font-face
+  font-family: 'Nunito Sans X'
+  font-style: normal
+  font-weight: 400
+  font-display: swap
+  src: local('Nunito Sans X Regular'), local('NunitoSansX-Regular'), url('../fonts/NunitoSansX-Regular.woff2') format('woff2'), url('../fonts/NunitoSansX-Regular.woff') format('woff')
+
 @font-face
   font-family: 'Open Sans X'
   font-style: normal
   font-weight: 400
   font-display: swap
   src: local('Open Sans X Regular'), local('OpenSansX-Regular'), url('../fonts/OpenSansX-Regular.woff2') format('woff2'), url('../fonts/OpenSansX-Regular.woff') format('woff')
-
-@import 'grid'
-@import 'base'
 
 body
   font-size: 1.6rem
