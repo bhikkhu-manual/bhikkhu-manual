@@ -29,6 +29,8 @@ consonants. They are then pronounced as in 'g**e**t' and '**o**x', respectively.
 
 **v** rather softer than the English **v**; near **w**
 
+**cc** is a double **c** as in Fibona**cc**i, never pronounced as in a**cc**ount
+
 ### Aspirated consonants
 
 **bh ch dh ḍh gh jh kh ph th ṭh**
