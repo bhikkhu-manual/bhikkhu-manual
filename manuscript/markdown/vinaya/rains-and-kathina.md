@@ -21,6 +21,7 @@
   - [Kaṭhina Saṅghakamma](#kathina-sanghakamma)
   - [Spreading the Kaṭhina](#spreading-the-kathina)
   - [Kaṭhina Anumodanā](#kathina-anumodana)
+  - [Offering Paṁsukūla-cloth](#offering-pamsukula)
 
 ## Khamāpana-kamma (Asking for Forgiveness)<a id="asking-forgiveness"></a>
 
@@ -411,4 +412,27 @@ residence and with regard to making a robe.
 
 *Vin.III.261*
 
+### Offering Paṁsukūla-cloth<a id="offering-pamsukula"></a>
+
+If the community during the Vassa has been less than five bhikkhus, the lay
+supporters may organize a Paṁsukūla-cloth offering ceremony (ผ้าป่า *phā pā*)
+instead of a *Kaṭhina*. After the cloth is offered, sewing it into a robe is
+optional.
+
+> ‘Mayaṁ bhante, imasmiṁ kaṭhinasamaye,
+> imāni paṁsukūlacīvarāni saparivārāni saṅghassa oṇojayāma.
+>
+> Sādhu no bhante saṅgho,
+> imāni paṁsukūlacīvarāni saparivārāni paṭiggaṇhātu,
+> amhākaṁ dīgharattaṁ hitāya sukhāya.’
+
+<div class="english">
+
+‘*May we, Venerable Sirs, in this Kaṭhina season,
+offer these Paṁsukūla-cloths to the Saṅgha, together with other requisites.*
+
+*Please accept these Paṁsukūla-cloths and other requisites,
+for our long lasting welfare and happiness.*’
+
+</div>
 
