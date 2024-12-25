@@ -1245,7 +1245,7 @@ Ratanaṁ dhammasamaṁ\
 Yaṅkiñci ratanaṁ loke\
 <span class="vin"></span>vijjati vividhaṁ puthu\
 Ratanaṁ saṅghasamaṁ\
-<span class="vin"></span>natthi tasmā sotthī bhavantu te\
+<span class="vin"></span>natthi tasmā sotthī bhavantu te
 
 ### Sakkatvā buddharatanaṁ<a id="sakkatva"></a>
 
