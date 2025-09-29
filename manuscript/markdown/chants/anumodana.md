@@ -379,7 +379,7 @@ Puññāni para-lokasmiṁ\
 
 </div>
 
-*A.III.41*
+*AN 5.36, A.III.41*
 
 ## Ratanattay'ānubhāv'ādi-gāthā<a id="ratanattaya"></a>
 
