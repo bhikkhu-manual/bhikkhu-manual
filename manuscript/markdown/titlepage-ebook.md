@@ -9,6 +9,6 @@
 <https://bhikkhu-manual.github.io>
 
 <div>
-<p><em>Last updated on: 2024-12-25</em></p>
+<p><em>Last updated on: 2025-11-16</em></p>
 </div>
 
