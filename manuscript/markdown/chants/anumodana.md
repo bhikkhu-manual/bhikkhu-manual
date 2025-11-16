@@ -676,8 +676,8 @@ Adaliddo-ti taṁ āhu\
 
 > Whose trust is in the Saṅgha,\
 > Who sees things rightly as they are,\
-> It is said that not in vain\
-> And undeluded is their life.
+> It is said that not poor\
+> And not in vain is their life.
 
 </div>
 
