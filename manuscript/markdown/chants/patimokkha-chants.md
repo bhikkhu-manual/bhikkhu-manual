@@ -152,6 +152,8 @@ Etena sacca-vajjena sotthi me hotu sabbadā
 
 ## Sīl'uddesa-pāṭha<a id="sil-uddesa"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-08-12/))
+
 > [Handa mayaṁ sīl'uddesa-pāṭhaṁ bhaṇāmase]
 
 Bhāsitam idaṁ tena bhagavatā jānatā passatā\
@@ -189,6 +191,8 @@ Evañ hi no sikkhitabbaṁ
 *D.I.63; D.III.266f*
 
 ## Tāyana-gāthā<a id="tayana"></a>
+
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-05-14/))
 
 *The Verses of Tāyana*
 

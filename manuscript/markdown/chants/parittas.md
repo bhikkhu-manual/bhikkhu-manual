@@ -1164,6 +1164,8 @@ Loma-haṁso na hessatī'ti.
 
 ### Āṭānāṭiya-paritta (short)<a id="vipassissa"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-10-15/))
+
 Vipassissa nam'atthu\
 <span class="vin"></span>cakkhumantassa sirīmato\
 Sikhissa pi nam'atthu\
@@ -1312,6 +1314,8 @@ Tena saccena sotthi te hotu sotthi gabbhassa
 </div>
 
 ### Bojjhaṅga-paritta<a id="bojjhango"></a>
+
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-01-22/))
 
 Bojjhaṅgo sati-saṅkhāto\
 <span class="vin"></span>dhammānaṁ vicayo tathā\
@@ -1557,6 +1561,8 @@ destroying all kinds of obstacles,\
 will attain liberation and happiness.
 
 ### Jaya-paritta<a id="maha-karuniko"></a>
+
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-08-19/))
 
 Mahā-kāruṇiko nātho\
 Hitāya sabba-pāṇinaṁ\

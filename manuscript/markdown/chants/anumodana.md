@@ -259,6 +259,8 @@ Cattāro dhammā vaḍḍhanti\
 
 ## Bhojana-dānānumodanā<a id="bhojana"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-02-19/))
+
 Āyu-do bala-do dhīro\
 <span class="vin"></span>vaṇṇa-do paṭibhāṇa-do\
 Sukhassa dātā medhāvī\
@@ -315,6 +317,8 @@ Deva-bhūto manusso vā\
 
 ## Adāsi-me ādi-gāthā<a id="adasi-me"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-04-16/))
+
 Adāsi me akāsi me\
 <span class="vin"></span>ñāti-mittā sakhā ca me\
 Petānaṁ dakkhiṇaṁ dajjā\
@@ -350,6 +354,8 @@ Tumhehi puññaṁ pasutaṁ anappakan'ti.
 *Khp.VII.v10-13*
 
 ## Kāla-dāna-sutta-gāthā<a id="kala-dana"></a>
+
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-09-30/))
 
 Kāle dadanti sapaññā\
 <span class="vin"></span>vadaññū vīta-maccharā\
