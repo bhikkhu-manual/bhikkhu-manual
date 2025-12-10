@@ -882,6 +882,8 @@ Tesāsā sijjhataṁ subhā
 
 ## Uddissanādhiṭṭhāna-gāthā<a id="imina-punna"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2025-12-10/))
+
 > [Handa mayaṁ uddissanādhiṭṭhāna-gāthāyo bhaṇāmase]
 
 [Iminā puññakammena] upajjhāyā guṇuttarā\
