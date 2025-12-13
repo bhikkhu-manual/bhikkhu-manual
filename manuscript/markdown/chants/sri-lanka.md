@@ -206,52 +206,81 @@ Sabbe pūrentu saṅkappā\
 
 #### Method of confessing light offences<a id="light-offences"></a>
 
+**Junior bhikkhu confesses to the senior:**
+
 **JCB:** Junior Confessing Bhikkhu\
 **SAB:** Senior Acknowledging Bhikkhu
 
-**JCB:** Okāsa, ahaṁ bhante, sabbā āpattiyo ārocemi.\
-Dutiyam-pi ahaṁ bhante, sabbā āpattiyo ārocemi.\
-Tatiyam-pi ahaṁ bhante, sabbā āpattiyo ārocemi.
+**JCB:** Okāsa, ahaṁ bhante, sabbāpattiyo ārocemi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Dutiyam-pi okāsa, ahaṁ bhante, sabbāpattiyo ārocemi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Tatiyam-pi okāsa, ahaṁ bhante, sabbāpattiyo ārocemi.
+**SAB:** Sādhu, āvuso.
 
 *I ven. sir, declare all offences. For the second time... For the third time...*
 
-**SAB:** Sādhu, sādhu.\
-*It is good, it is good.*
-
-**JCB:** Okāsa ahaṁ bhante, sambahulā nānā-vatthukā āpattiyo āpajjiṁ, tā tumha-mūle paṭidesemi.
+**JCB:** Okāsa, ahaṁ bhante, sambahulā nānā-vatthukā āpattiyo āpajjiṁ, tā tumha-mūle paṭidesemi.
 
 *I, ven. sir, having many times fallen into many different offences with different bases, these I confess.*
 
-**SAB:** Passasi āvuso tā āpattiyo?\
+**SAB:** Passasi āvuso, tā āpattiyo?\
 *Do you see, friend, those offences?*
 
-**JCB:** Āma bhante passāmi.\
+**JCB:** Āma bhante, passāmi.\
 *Yes, ven. sir, I see.*
 
 **SAB:** Āyatiṁ āvuso saṁvareyyāsi.\
 *In the future, friend, you should be restrained.*
 
-**JCB:** Sādhu suṭṭhu bhante āyatiṁ saṁvarissāmi.\
-Dutiyam-pi sādhu suṭṭhu bhante āyatiṁ saṁvarissāmi.\
-Tatiyam-pi sādhu suṭṭhu bhante āyatiṁ saṁvarissāmi.
+**JCB:** Sādhu suṭṭhu, ahaṁ bhante, āyatiṁ saṁvarissāmi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Dutiyam-pi, sādhu suṭṭhu, ahaṁ bhante, āyatiṁ saṁvarissāmi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Tatiyam-pi, sādhu suṭṭhu, ahaṁ bhante, āyatiṁ saṁvarissāmi.
+**SAB:** Sādhu, āvuso.
 
-*It is well indeed, ven. sir, in future I shall be restrained. For the second time...For the third time...*
+*It is well indeed, ven. sir, in future I shall be restrained. For the second time... For the third time...*
 
-**SAB:** Sādhu, sādhu.\
-*It is good, it is good.*
-
-**JCB:** Okāsa ahaṁ bhante,\
-sabbā tā garukāpattiyo āvikaromi.\
-Dutiyam-pi okāsa ahaṁ bhante,\
-sabbā tā garukāpattiyo āvikaromi.\
-Tatiyam-pi okāsa ahaṁ bhante,\
-sabbā tā garukāpattiyo āvikaromi.
+**JCB:** Okāsa, ahaṁ bhante, sabbā tā āpattiyo āvikaromi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Dutiyam-pi okāsa, ahaṁ bhante, sabbā tā āpattiyo āvikaromi.\
+**SAB:** Sādhu, āvuso.\
+**JCB:** Tatiyam-pi okāsa, ahaṁ bhante, sabbā tā āpattiyo āvikaromi.
+**SAB:** Sādhu, āvuso.
 
 *Ven. sir, I reveal all heavy offences. For the second time... For the third time...*
 
-This final declaration is only used in some communities. Also, some communities
-will acknowledge with a '*Sādhu*' after each declaration rather than as shown
-above. That is, after each '*ārocemi*' and each '*saṁvarissāmi*'.
+**Senior bhikkhu confesses to the junior:**
+
+**SCB:** Senior Confessing Bhikkhu\
+**JAB:** Junior Acknowledging Bhikkhu
+
+**SCB:** Ahaṁ āvuso, sabbāpattiyo ārocemi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Dutiyam-pi, ahaṁ āvuso, sabbāpattiyo ārocemi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Tatiyam-pi, ahaṁ āvuso, sabbāpattiyo ārocemi.\
+**JAB:** Sādhu, bhante, sādhu.
+
+**SCB:** Ahaṁ āvuso, sambahulā nānā-vatthukā āpattiyo āpajjiṁ, tā tuyyha-mūle paṭidesemi.\
+**JAB:** Passatha bhante, tā āpattiyo?\
+**SCB:** Āma āvuso, passāmi.
+
+**JAB:** Āyatiṁ bhante saṁvareyyātha.\
+**SCB:** Sādhu suṭṭhu, ahaṁ āvuso, āyatiṁ saṁvarissāmi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Dutiyam-pi sādhu suṭṭhu, ahaṁ āvuso, āyatiṁ saṁvarissāmi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Tatiyam-pi sādhu suṭṭhu, ahaṁ āvuso, āyatiṁ saṁvarissāmi.\
+**JAB:** Sādhu, bhante, sādhu.
+
+**SCB:** Ahaṁ āvuso, sabbā tā āpattiyo āvikaromi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Dutiyam-pi ahaṁ āvuso, sabbā tā āpattiyo āvikaromi.\
+**JAB:** Sādhu, bhante, sādhu.\
+**SCB:** Tatiyam-pi ahaṁ āvuso, sabbā tā āpattiyo āvikaromi.\
+**JAB:** Sādhu, bhante, sādhu.
 
 #### Formula for same base offences<a id="same-base-offences"></a>
 
