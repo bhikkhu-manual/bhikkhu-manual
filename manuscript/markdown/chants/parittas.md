@@ -810,6 +810,8 @@ By this truth may there be well-being.
 
 ### Karaṇīya-metta-sutta<a id="karaniyam-attha"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2026-04-08/))
+
 Karaṇīyam-attha-kusalena\
 Yan-taṁ santaṁ padaṁ abhisamecca\
 Sakko ujū ca suhujū ca\
