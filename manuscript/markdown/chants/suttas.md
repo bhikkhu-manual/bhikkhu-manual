@@ -62,7 +62,7 @@ Idaṁ kho pana, bhikkhave, dukkhaṁ ariya-saccaṁ:
 Jātipi dukkhā, jarāpi dukkhā, maranampi dukkhaṁ,
 soka-parideva-dukkha-domanass'upāyāsāpi dukkhā, appiyehi sampayogo
 dukkho, piyehi vippayogo dukkho, yamp'icchaṁ na labhati tampi dukkhaṁ,
-saṅkhittena pañcupādānakkhandā dukkhā.
+saṅkhittena pañcupādānakkhandhā dukkhā.
 
 Idaṁ kho pana, bhikkhave, dukkha-samudayo ariya-saccaṁ:
 
