@@ -390,6 +390,8 @@ may countless dangers be destroyed without trace.
 
 ### Nama-kāra-siddhi-gāthā<a id="yo-cakkhuma"></a>
 
+(See a word-by-word analysis [here](https://pali-sutta-readings.github.io/readings/2026-05-20/))
+
 Yo cakkhumā moha-malāpakaṭṭho\
 Sāmaṁ va buddho sugato vimutto\
 Mārassa pāsā vinimocayanto\
